@@ -12,3 +12,17 @@ pre {
 pre code {
   white-space: inherit;
 }
+.infobox {
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  background: #f5f5f5 5px center/3em no-repeat;
+}
+.errorbox {
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  border: 2px solid red;
+  border-radius: 10px;
+  background: #f5f5f5 5px center/3em no-repeat;
+}
