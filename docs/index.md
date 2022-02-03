@@ -6,13 +6,14 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
 biblio-style: apalike
-url: your book url like https://andreaskutka.github.io/g2sq
+url: https://andreaskutka.github.io/g2sq
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This book is a companion to survey practicioners who seek to improve the 
   quality of the data they collect.
 link-citations: yes
 github-repo: andreaskutka/g2sq
+favicon: images/favicon.ico
 ---
 
 
@@ -36,7 +37,7 @@ The book is written as companion for survey managers to help them take the right
 The book is a living document that is being expanded and updated on an ongoing basis.
 
 
-## How to read this book{-}
+## How to use this book{-}
 
 The book provides a lot of information and details that are probably difficult to absorb entirely and retain for the duration of the survey. 
 
@@ -53,6 +54,10 @@ The book provides a lot of information and details that are probably difficult t
 * From correcting typos to modifying chapters, if you have any suggestions on how to improve the book, you can edit the book by clicking on the edit icon on top. This will open the underlying file on github where you can make the modifications and submit them as a pull request (You will need an account). The book is written using Rmarkdown in [bookdown](https://bookdown.org/yihui/rmarkdown-cookbook). For most parts of the text, the syntax is following simple markup language, of which you can learn the basics in 2 minutes. If accepted, your suggestions will be added with the next version. 
 
 * If you have any suggestions, please list an [issue on GitHub](https://github.com/andreaskutka/happy-surveys/issues/new). Thank you!
+
+- To can share links to specific (sub)chapters of the book. Copy the anchor link, either by 
+    - right clicking on the blue # icon next to the heading and copying the link address, or by
+    - clicking on the (sub)chapter in the table of content and copying the url from the browser. 
 
 ## Structure of the book{-}
 The structure of the book follows a survey life cycle from the inception phase to data archiving. Chapter 1 explores theoretical frameworks of survey data quality and survey errors. Chapters 2-5 discuss considerations during the inception phase. Chapters x-x treat the survey design & preparation phases, chapter x-x the training, and x-y th field. Post field work activities are explored in chapters x-z. 

@@ -15,8 +15,8 @@ stay-on-top-of-updates
 on-the-fly-translation
 sample
 manuals
+introduction
 tldr-key-recommendations
-key-recommendations
 planning-and-preparing
 training-content
 duration-schedule
@@ -42,3 +42,4 @@ supervisor-training
 listing
 effective-feedback
 identifying-issues
+cover-image-path-to-the-social-sharing-image-like-imagescover.jpg

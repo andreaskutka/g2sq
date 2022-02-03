@@ -1,6 +1,6 @@
 # (PART) Training {-}
 
-# tl;dr Key Recommendations
+# Introduction
 
 
 
@@ -8,7 +8,7 @@
 Few survey components affect data quality more than fieldwork training. Yet, unfortunately in many surveys, fieldworker training is neglected, under budgeted or implemented so poorly that there is little learning happening. No field work monitoring tool or exercise can fix a training that has failed to produce fieldworkers who are fully capable of accurately implementing the survey.   
 This chapter describes how a successful interviewer training can be conducted. If you only have a few minutes, read the key points in subsection 1(LINK). If you are looking for more detail, read the relevant subchapters before you get to this point in the training preparation or delivery. 
 
-## Key recommendations
+## tl;dr Key Recommendations
 
 This tl;dr is for readers who want to see our “cheatsheet” version of the chapters on training. If you are looking for more details, we think you’ll benefit from reading the rest of the chapters. Follow below key points to ensure a successful interviewer training. 
 

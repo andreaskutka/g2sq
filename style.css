@@ -12,6 +12,17 @@ pre {
 pre code {
   white-space: inherit;
 }
+/* The next two rules make the horizontal line go straight across in top navbar */
+.summary > li:first-child {
+    height: 50px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.07);
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 0px;
+}
+/*----------custom call out boxes ----------*/
 .infobox {
   padding: 1em 1em 1em 1em;
   margin-bottom: 10px;
@@ -26,3 +37,24 @@ pre code {
   border-radius: 10px;
   background: #f5f5f5 5px center/3em no-repeat;
 }
+/*------------ TOC --------------*/
+
+.book .book-summary {
+  background: white;
+  border-right: none;
+}
+
+.book .book-summary ul.summary li.active>a { /*active TOC links*/
+  color: #778ca5 !important;
+  border-left: solid 4px;
+  border-color: #5699cc;
+  padding-left: 11px !important;
+}
+
+li.appendix span, li.part span { /* for TOC part names */
+  margin-top: 1em;
+  color: color: #1c3046 !important;
+  opacity: 1 !important;
+  text-transform: uppercase;
+}
+
