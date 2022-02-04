@@ -1,4 +1,0 @@
-
-# Supervisor Training 
-
-ljashd

@@ -1,6 +1,0 @@
-
-# (PART) Fieldwork {-}
-
-# Listing
-
-ljashd

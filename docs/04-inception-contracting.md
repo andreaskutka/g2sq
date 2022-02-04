@@ -1,4 +1,0 @@
-
-# Contracting considerations
-
-ljashd

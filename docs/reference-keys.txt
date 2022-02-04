@@ -42,4 +42,3 @@ supervisor-training
 listing
 effective-feedback
 identifying-issues
-cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
