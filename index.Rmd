@@ -1,5 +1,5 @@
 --- 
-title: "Guidebook to Survey Quality"
+title: "A Practical Guide to Survey Quality"
 author: "Josefine Durazo, Kevin McGee, James Arthur Shaw, Andreas Kutka"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -30,6 +30,7 @@ The book is work in progress and in a pre-publish state.
 
 
 ## About this book{-}
+
 The book is a companion and go-to reference for survey practitioners aiming to improve the quality of  the surveys they design and run. The book follows the survey life cycle, and explaining the best practices and providing tips and tricks on how to achieve high quality surveys. 
 
 The book is written as companion for survey managers to help them take the right decisions, organize their team and works streams and how to obtain the right types of inputs in every phase of the survey to achieve high quality outputs. While providing a lot of detail in some parts, the book does not aim to be a comprehensive how-to-survey guide. Further guidelines and the input of experts are needed to achieve high quality surveys. 
@@ -60,6 +61,7 @@ The book provides a lot of information and details that are probably difficult t
     - clicking on the (sub)chapter in the table of content and copying the url from the browser. 
 
 ## Structure of the book{-}
+
 The structure of the book follows a survey life cycle from the inception phase to data archiving. Chapter 1 explores theoretical frameworks of survey data quality and survey errors. Chapters 2-5 discuss considerations during the inception phase. Chapters x-x treat the survey design & preparation phases, chapter x-x the training, and x-y th field. Post field work activities are explored in chapters x-z. 
 
 

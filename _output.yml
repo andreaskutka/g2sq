@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">Guidebook to Survey Quality</a></li>
+        <li><a href="./">A Practical Guide to Survey Quality</a></li>
       after: |
         <li><a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="blank">A LSMS Guidebook</a></li>
     edit: https://github.com/andreaskutka/g2sq/edit/master/%s

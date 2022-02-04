@@ -2,6 +2,10 @@
 # (PART) Design and Preparation {-}
 
 
+# Introduction {-}
+
+work in progress
+
 # Instruments
 
 ## Questionnaire
@@ -13,6 +17,16 @@
 Many questionnaires are designed in one language but fielded in one or more other languages. The way questionnaires are translated affects results, see e.g. @Seo2014. *"Interviewers speak the language and just translate on-the-go."* is a big source of [measurement error][Measurement Error] and interviewer effects, so make sure to **translate your instruments!**
 
 Using CAPI/CATI makes it easy to provide the questionnaire to interviewers in different languages. One can normally switch language within the questionnaire. If managed well, even translating to multiple languages is neither too much effort nor very costly, and a low-hanging fruit to increase survey quality. Translations done badly can quickly spiral out of control, causing tremendous amounts of work and potential mistakes. 
+
+# Sample
+
+work in progress
+
+# Manual
+
+work in progress
+
+
 
 ### What should be translated?
 

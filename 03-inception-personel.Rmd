@@ -1,4 +1,0 @@
-
-# Organisation of personnel
-
-ljashd

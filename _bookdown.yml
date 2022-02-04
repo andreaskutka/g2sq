@@ -1,5 +1,18 @@
 book_filename: g2sq
 delete_merged_file: true
+rmd_files:
+- index.Rmd
+- theory.Rmd
+- inception.Rmd
+- preparation-instruments.Rmd
+- training-introduction.Rmd
+- training-plan-and-prepare.Rmd
+- training-conduct.Rmd
+- training-assessment.Rmd
+- training-supervisor.Rmd
+- fieldwork.Rmd
+- post-field.Rmd
+- appendix.Rmd
 output_dir: docs
 language:
   ui:

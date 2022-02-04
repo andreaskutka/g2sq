@@ -1,4 +1,0 @@
-
-# Effective feedback
-
-ljashd

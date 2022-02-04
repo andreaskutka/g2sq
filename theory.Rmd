@@ -1,0 +1,65 @@
+
+# (PART) Theoretical Framework {-}
+
+# What is quality in surveys?
+
+work in progress
+
+
+# Total Survey Error
+
+work in progress
+
+## Sampling error {#sampling-error}
+
+## Specification error {#specification-error}
+
+## Frame error {#frame-error}
+
+## Non-response error {#non-response-error}
+
+## Measurement error {#measurement-error}
+
+## Processing error {#processing-error}
+
+
+
+# Why QA matters!
+
+[work in progress]
+
+Variance versus bias 
+
+Variance = derived values of indicator vary due to underlying variance across the population of interest, random errors from sampling/interviewer/respondent/etc. 
+
+Bias = systematic deviation from “true” value of indicator 
+
+Can occur at any point in the survey process (design, sampling, training, fieldwork, processing, etc.) and from any unit (researcher, interviewer, respondent, etc.)  
+
+Validity and Reliability 
+
+Validity = how accurately intended indicator is measured 
+
+Validity could be violated through misspecification/method of collection as well as other errors in the implementation process 
+
+Reliability = how consistently indicator is measured 
+
+Applying the same method of collection produces the same results under identical conditions 
+
+A lot of effort/interest/focus on sampling error and design, but often very little on non-sampling error 
+
+Although non-sampling error is often neglected, it likely has a larger effect on survey quality 
+
+Particularly in developing country contexts with limited capacity/resources and substantial logistical constraints (infrastructure, security, etc.) 
+
+QA enters into every step in the survey process 
+
+Inception 
+
+Design & Preparation 
+
+Training 
+
+Fieldwork 
+
+[Give examples of some quality horror stories and how they affect the validity and reliability of the survey and analytical results] 

@@ -1,4 +1,0 @@
-# (PART) Inception {-}
-
-# Formulation
-ajhda
