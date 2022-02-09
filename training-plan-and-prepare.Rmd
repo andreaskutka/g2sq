@@ -70,11 +70,13 @@ schedule %>%
   column_spec(1, bold = T)
 ```
 
+You can download the sample schedule as an Excel from [here](resources/training_schedule.xlsx).
+
 ## Material 
 
 Come prepared. Try to prep training materials as much as possible to have more time to focus on training. 
 
-Questionnaires 
+Questionnaires. often not sufficiently tested, not clear. Make sure they have been tested. 
 
 Quiz 
 
@@ -158,7 +160,7 @@ For the training venue:
 
 - Sticker for the name tags for trainees. 
 
-For CAPI surveys: 
+### For CAPI surveys: 
 
 - One device for each trainee. It is crucial for trainees to learn how to navigate the questionnaire and use the device. If you do not have enough devices (since there are more trainees than interviewers) borrow devices or use the private devices of the trainees.  
 
@@ -186,13 +188,13 @@ For CAPI surveys:
 
 - If the questionnaire relies on more substantially prefilling (i.e. beyond basic information to locate the household/individual), then create several assignments with different scenarios for the prefilling. 
 
-For on-site or in-field practicing:  
+### For on-site or in-field practicing:  
 
 - Organize reliable transport options and make sure they arrive on time, so the team does not need to wait. 
 
 - Select practice areas/villages well in advance. Make all necessary administrative arrangements like getting permissions, introduction to village officials, etc.  
 
-- Arrange respondents for field practicing, so trainees can spend more time practicing than looking for respondents to participate   
+[ ] Arrange respondents for field practicing, so trainees can spend more time practicing than looking for respondents to participate   
 
-- For on-site practicing, arrange for respondents to visit the training venue, including the transport, food/refreshment and remuneration.  
+- [ ] For on-site practicing, arrange for respondents to visit the training venue, including the transport, food/refreshment and remuneration.  
 

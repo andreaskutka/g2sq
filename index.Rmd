@@ -1,7 +1,6 @@
 --- 
 title: "A Practical Guide to Survey Quality"
 author: "Josefine Durazo, Kevin McGee, James Arthur Shaw, Andreas Kutka"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -19,7 +18,9 @@ favicon: images/favicon.ico
 
 # Preface {-}
 
-Version 0.1
+Version 0.1.
+
+Last updated on `r format(Sys.Date(),"%d %B %Y")`.
 
 :::: {.errorbox data-latex=""}
 **DO NOT SHARE!**
@@ -31,12 +32,15 @@ The book is work in progress and in a pre-publish state.
 
 ## About this book{-}
 
-The book is a companion and go-to reference for survey practitioners aiming to improve the quality of  the surveys they design and run. The book follows the survey life cycle, and explaining the best practices and providing tips and tricks on how to achieve high quality surveys. 
+The book is a companion and go-to reference for survey practitioners aiming to improve the quality of the surveys they design and implement. The book follows the survey life cycle, and explaining the best practices and providing tips and tricks on how to achieve high quality surveys. 
+
+Follows the total survey quality framework, and touches base on the survey design, implementation and analysis. 
 
 The book is written as companion for survey managers to help them take the right decisions, organize their team and works streams and how to obtain the right types of inputs in every phase of the survey to achieve high quality outputs. While providing a lot of detail in some parts, the book does not aim to be a comprehensive how-to-survey guide. Further guidelines and the input of experts are needed to achieve high quality surveys. 
 
 The book is a living document that is being expanded and updated on an ongoing basis.
 
+The book is divided into 6 parts that follow the different stages of a survey life cycle from inception to data archiving. The introduction chapter to each part provides a quick overview of the content and a "cheatsheet" version of the key recommendations.
 
 ## How to use this book{-}
 
@@ -60,15 +64,12 @@ The book provides a lot of information and details that are probably difficult t
     - right clicking on the blue # icon next to the heading and copying the link address, or by
     - clicking on the (sub)chapter in the table of content and copying the url from the browser. 
 
-## Structure of the book{-}
-
-The structure of the book follows a survey life cycle from the inception phase to data archiving. Chapter 1 explores theoretical frameworks of survey data quality and survey errors. Chapters 2-5 discuss considerations during the inception phase. Chapters x-x treat the survey design & preparation phases, chapter x-x the training, and x-y th field. Post field work activities are explored in chapters x-z. 
 
 
 
-## The LSMS Guideline series{-}
+## About The LSMS Guideline series{-}
 
-Anything on the LSMS guidebook series?
+The LSMS Guidebook series offers information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies.
 
 ## About the authors{-}
 
