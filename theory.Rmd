@@ -1,32 +1,164 @@
 
-# (PART) Theoretical Framework {-}
+# (PART) First Some Theory {-}
 
 # What is quality in surveys?
 
-work in progress
+**[wild collection of random notes so far]**
+
+Minimize the *total survey error* (TSE). For example, while increasing the sample size can reduce the sampling error, it might require more interviewers to be trained and a higher volume of interviews per day to be monitored, increasing other non-sampling error types that quickly outweigh the improved sampling error. 
+
+Most *national statistical offices* (NSOs) in developed countries have adopted survey qualiity frameworks that include a subset of the quality dimensions summarized in Table \@ref(tab:qd).  @Biemer2010 
 
 
-# Total Survey Error
+. 
 
-work in progress
+```{r, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
 
-## Sampling error {#sampling-error}
+quality <- as.data.frame(matrix(c(
+     "Accuracy", "Total survey error is minimized ",
+     "Credibility", 	"Data are considered trustworthy by the survey community", 
+     "Comparability",	"Demographic, spatial, and temporal comparisons are valid", 
+     "Usability/Interpretability", "Documentation is clear and metadata are well-managed", 
+     "Relevance", "Data satisfy users needs", 
+     "Accessibility",	"Access to the data is user friendly",
+     "Timeliness/Punctuality", "Data deliveries adhere to schedules",
+     "Completeness", "Data are rich enough to satisfy the analysis objectives without undue burden on respondents", 
+     "Coherence",	"Estimates from different sources can be reliably combined"), 
+     ncol = 2,
+     byrow = T))
+colnames(quality) <- c("Dimension", "Description")
 
-## Specification error {#specification-error}
+knitr::kable(
+  quality, booktabs = TRUE,
+  caption = 'Common Dimensions of a Survey Quality Framework.',
+  label = "qd"
+)
 
-## Frame error {#frame-error}
+```
 
-## Non-response error {#non-response-error}
+Section \@ref(S:errorsources)
 
-## Measurement error {#measurement-error}
+## Error Sources {#S:errorsources}
 
-## Processing error {#processing-error}
+[work in progress]
 
+error is not equal to mistake
+
+For each error source, we give actual examples of errors we have observed in our work with NSOs, international organisations and survey firms.  
+
+## Sampling error 
+
+All error sources treated below are commonly referred to as *non-sampling error*. 
+
+## Specification error
+
+occurs when the concept implied by the survey question differs from the concept meant to be measured in the survey. Specification error is often caused by poor communication between the researcher, data analyst, or survey sponsor and the questionnaire designer.
+
+It is often caused by poorly designed questionnaires, lack of cognitive testing, absence of clear definitions or good manuals, or concepts not being preserved during questionnaire translation or CAPI scripting. Common examples of specification error that we have observed are:
+
+- Surveys that aim to capture income from any kind of employment sometimes ask opening questions like *'In the past XYZ,  did NAME work as an employee for a wage, salary, commission, or any payment in kind?'*. Designers and data users assume that this question captures informal jobs. However, respondents often understand this question to refer to formal employment only and respond with *'No'*, even if they had  worked as e.g. day laborers.
+
+- Researchers or questionnaire designers developing questions without taking into consideration local circumstances or testing that underlying concepts are understood the same way in the population. For example, questions around saving behavior tend to be delicate and highly dependent on economic circumstances.
+
+- Researchers assuming that *goods bought on credit* are included in a loan roster, while the questionnaire did not explicitly probe for them and trainers did not train interviewers to include them.
+
+- Changes to the questionnaire in the local language during the training that never find their way into the design language version of the questionnaire that is used for documentation and as data reference.
+
+- Sometimes, CAPI scripting can alter the nature and functionality of questions or modules to such a degree that it affects the way they are being administered and ultimately changes results. Researchers who do not observe the CAPI questionnaire being fielded remain unaware of such differences. For example, time use modules are often designed as a grid of activities and hours of the days into which lines are drawn for the primary activity done for a certain period. We have seen this module being scripted in CAPI as series of 48 questions asking the respondent for the main activity for each 30-minute interval. The responses produced are not at all comparable.  
+
+A specification error arises when the concept implied by the survey question differs from the concept that should have been measured in the survey. When this occurs, the wrong construct is being measured and, consequently, the wrong parameter will be estimated by the survey, which could lead to invalid inferences. Specification error is often caused by poor communication between the researcher (or subject-matter expert) and the questionnaire designer.
+
+
+## Frame error
+
+typically results from the frame construction process. For example, some units may be omitted or duplicated an unknown number of times, or some ineligible units may be included on the frame, such as businesses that are not farms in a farm survey. 
+
+Frame error arises in the process for constructing, maintaining, and using the sampling frame(s) for selecting the survey sample. The sampling frame is defined as a list of target population members or another mechanism used for drawing the sample. Ideally, the frame would contain every member of the target population with no duplicates. Units that are not part of the target population would be removed from the frame. Likewise, information on the frame that is used in the sample selection process should be accurate and up to date. Unfortunately, sampling frames rarely satisfy these ideals, often resulting in various types of frame errors. In many situations, the most serious of these is frame omissions that lead to population noncoverage errors. An excellent discussion of frame error can be found in Lessler and Kalsbeek (1992).
+
+
+It is often caused by ...
+
+Examples of specification error that we have experienced include:
+
+- A survey for an impact evaluation in Perú used household lists for the second stage sampling in treatment areas that had been compiled by the project to be evaluated. Several local dynamics played into the creation of the lists. As a result, in many villages, several members of one household were listed as separate households on the list, friends and family of project officials from outside the village were included, or beneficiaries from the village excluded.
+
+- During listing exercises, listers sometimes focus on the population-dense village centers, but omit households that live further away or are difficult to reach, e.g. because they live on top of a hill, effectively excluding those remote households from the frame. 
+
+## Nonresponse error
+
+Nonresponse error can occur on the _unit_ level, when a sampled survey unit (e.g. household, individual, firm, etc.) cannot be interviewed for any reason, or on the _item_ level, when parts of the questionnaire remain unanswered because the respondent could not or refused to answer some questions or ended the interview prematurely.
+
+Nonresponse error can severely affect the validity of survey data. Since the underlying reasons for nonresponse are hardly ever random, the actual respondents may no longer be representative of the population of interest, and the survey estimates may be biased.   
+
+Nonresponse error has been plaguing survey methodologists in the global North, where nonresponse levels generally have been very high over the past decades   Surveys in the global South have so far largely been spoiled with very high response rates, but nonresponse error is increasingly becoming an issue, especially in urban areas, where availability and willingness to participate is decreasing. While various approaches have been developed that aim to correct for nonresponse error, the best way to deal with it is to put solid measures in place to avoid it as much as possible. QUOTESNEEDED.
+
+Examples of nonresponse error are:
+
+- Survey teams visiting communities during working/market hours and replacing unavailable households without making sufficient revisiting attempts on different days and hours. 
+
+- In a survey in urban South Africa, many interviewers were scared of dogs and replaced households if they owned a dog. Dog ownership was (initially) not observed and highly correlated with other household characteristics.  
+
+- [Systematic underestimation](https://edition.cnn.com/2021/05/13/politics/2020-polling-error-research/index.html) of support for Donald Trump in the surveys conducted ahead of the 2020 US presidential elections.
+
+- In a COVID response phone survey, interviewers were unable to call those panel respondents who had not paid their phone bills and had their line (temporarily) cut off. 
+
+- Long questionnaires that cause respondent fatigue and lead to high rates of uncomplete interviews, affecting the last sections of the questionnaire.
+
+- High _Don't Know (DK)_ rate for income related question if interviewers do not probe and explain the question sufficiently. 
+
+
+## Measurement error
+
+occurs when the method of obtaining the measurement affects the recorded value, often involving simultaneously the respondent, the interviewer, and the survey questionnaire. Measurement error has been studied and reported extensively in the survey methods literature, perhaps more than any other source of nonsampling error. 
+
+Measurement error due to respondent 
+
+Partially unresolveable - respondents are human, not 100% reliable 
+
+However, many respondent errors can be attributed to poor design, and thus could be resolved with improved design 
+
+E.g. question framing, interview protocols, etc. 
+
+Measurement error due to interviewer 
+
+Largely resolvable with proper design, training, and supervision 
+
+Sources of error:  
+
+Data entry 
+
+Misinterpretation 
+
+Administration: not asking correctly, rushing, over/under probing, changing meaning of questions 
+
+Underreporting 
+
+Fabrication 
+
+Examples: agriculture, did you cultivate for hh benefits? Say yes even if only worked on their own land. Household entreprises, say no. Same for employment.  
+
+## Processing error
+
+Processing error refers to any error occurring post-interview including error in data entry, editing, formatting and labeling, construction of indicators, calculation of survey weights, or tabulation of results. It is often caused by unclear interview rejection mechanisms, data editors who are not qualified enough, improper keeping of records or change logs. Examples of processing error we have observed are:
+
+- Interviewers "fixing" issues in rejected interview files without recontacting the respondent or obtaining the correct answer.
+
+- Wrong or non-systematic outlier detection, such as manually summarizing variables in statistical software and looking at the 5 highest and lowest values only.
+
+- Systematically replacing outlier values with the median value during data cleaning.
+
+- Not correcting for changes to the instrument when appending the data from different versions. 
+
+- Wrongly label value codes, such as household assets.   
 
 
 # Why QA matters!
 
 [work in progress]
+
+Minimizing the TSE within the resource and time constraints requires to be efficient ... 
+
+Interviewer effects
 
 Variance versus bias 
 

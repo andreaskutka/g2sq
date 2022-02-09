@@ -47,7 +47,7 @@ pre code {
 .book .book-summary ul.summary li.active>a { /*active TOC links*/
   color: #778ca5 !important;
   border-left: solid 4px;
-  border-color: #5699cc;
+  border-color: #005186;
   padding-left: 11px !important;
 }
 
@@ -58,3 +58,8 @@ li.appendix span, li.part span { /* for TOC part names */
   text-transform: uppercase;
 }
 
+/* chpater headers color */
+
+h1, h2, h3, h4 {
+  color: #005186;
+}

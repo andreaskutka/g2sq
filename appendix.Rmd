@@ -1,6 +1,18 @@
 # (APPENDIX) Appendix {-} 
 
-# Glossary {-}
+# Abbreviations and Acronyms {-}
 
+```{r acronyms, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+library(kableExtra)
+library(readxl)
+
+acronyms <- read_xlsx("resources/acronyms.xlsx")
+acronyms <- acronyms[order(acronyms$acronym),]
+
+acronyms %>%
+  kbl(col.names = NULL) %>%
+  kable_styling() %>%
+  column_spec(1, bold = T)
+```
 
 # References {-}
