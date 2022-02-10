@@ -7,6 +7,7 @@ frame-error
 nonresponse-error
 measurement-error
 processing-error
+not-even-survey-methodology-error
 why-qa-matters
 formulation
 personel
@@ -15,8 +16,6 @@ instruments
 questionnaire
 capicati
 translation
-sample
-manual
 what-should-be-translated
 who-should-translate
 some-translation-guidelines
@@ -24,6 +23,8 @@ translation-verification
 when-to-translate
 stay-on-top-of-updates
 on-the-fly-translation
+sample
+manual
 introduction-2
 key-recommendations
 planning-and-preparing
@@ -70,3 +71,4 @@ avoiding-nonresponse
 data-editing
 archiving
 documentation
+cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
