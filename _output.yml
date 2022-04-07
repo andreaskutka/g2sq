@@ -8,7 +8,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="blank">A LSMS Guidebook</a></li>
     edit: https://github.com/andreaskutka/g2sq/edit/master/%s
-    download: ["pdf", "epub"]
+    download: ["pdf"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

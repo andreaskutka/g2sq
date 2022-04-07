@@ -2,7 +2,10 @@ book_filename: g2sq
 delete_merged_file: true
 rmd_files:
 - index.Rmd
-- theory.Rmd
+- preface.Rmd
+- theory-what-is-quality.Rmd
+- theory-tse.Rmd
+- theory-tsq.Rmd
 - inception.Rmd
 - preparation-instruments.Rmd
 - training-introduction.Rmd
