@@ -1,6 +1,6 @@
 # Preface {-}
 :::: { .careful  data-latex=""}
-Hello there. We're glad to see you However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
+Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
 ::::
 
 Version 0.1.
@@ -12,7 +12,7 @@ Last updated on `r format(Sys.Date(),"%d %B %Y")`.
 
 What is survey quality and how can it be achieved? This book gives practical advice 
 
-expereinces and practices that have worked in. 
+experiences and practices that have worked in. 
 
 based upon our experience in designing and implementing large scale socio-economic surveys in a variety of contexts. 
 
@@ -39,7 +39,7 @@ The book is divided into 6 parts. Part I provides a short introduction of key co
 
 References for each chapter are added to the bottom. In the Appendix, you can find the list of Abbreviations and Acronyms, as well as a complete list of all references used throughout the book.
 
-The book is a living document that is being expanded and revised on an ongoing basis. The last update was made on `r format(Sys.Date(),"%d %B %Y")`. We encourage 
+The book is a living document that is being expanded and revised on an ongoing basis. The last update was made on `r format(Sys.Date(),"%d %B %Y")`. 
 
 ## How to use this book{-}
 
