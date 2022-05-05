@@ -1,38 +1,45 @@
-# (PART) Training {-}
+# (PART) Fieldwork Training {-}
 
-# Introduction
+# Introduction to Training {-}
 
+Fieldwork training is arguably one of the most important activities of any survey and has one of the biggest impacts on data quality. It serves several purposes: 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE)
-```
+1. __Build fieldworker capacity__. In-depth content training, extensive practicing and capacity-based selection ensure that fieldworkers are capable of implementing the survey as designed. This is key to limit [measurement](#measurement-error) and [nonresponse error], as well as [coverage](#coverage-error) and [sampling error] if the survey includes listing and in-field sampling.  
 
-Longer Training reduces interviewer effect (quotation needed, see e.g. Fowler, Floyd J., and Thomas W. Mangione. 1985.)
+1. __Standardize fieldworker behavior__. Repeated practicing under supervision and continuous feedback streamlines how fieldworkers implement the survey. Reducing idiosyncratic behavior is important to mitigate the very damaging [fieldworker effects](#impacterror).
 
-Few survey components affect data quality more than fieldwork training. Yet, unfortunately in many surveys, fieldworker training is neglected, under budgeted or implemented so poorly that there is little learning happening. No field work monitoring tool or exercise can fix a training that has failed to produce fieldworkers who are fully capable of accurately implementing the survey.   
-This chapter describes how a successful interviewer training can be conducted. If you only have a few minutes, read the key points in subsection 1(LINK). If you are looking for more detail, read the relevant subchapters before you get to this point in the training preparation or delivery. 
+1. __Scrutinize methodology__. Particularly in surveys with limited pre-testing and piloting, fieldwork training often effectively is the most detailed review of the questionnaires, translations, CAPI and survey processes. Identifying and correcting mistakes is key to reduce [specification error].
 
-If you are after a quick "cheatsheet" version, read our [key recommendations][Key Recommendations] on training in Chapter \@ref{training-tldr}.
+<!-- Longer Training reduces interviewer effect (quotation needed, see e.g. Fowler, Floyd J., and Thomas W. Mangione. 1985.), 
 
-Chapters X to Z are written with an in-person interviewer training in mind. 
+training survey request reduces non-response, see Groves 2001 -->
 
-Chapter \@ref(planning-and-preparing) [Planning and Preparing] provides you with the details you need to plan and prepare a good interviewer training, including what content it should cover, when it should be held for how long, how many trainers and trainees should be involved and some check lists for logistics. Read this prior to budgeting and planning your training. 
+Unfortunately, in many surveys fieldwork training is not effective in producing fieldworkers that are fully capable of implementing the survey, or is inefficient in being too demanding on trainers and survey budget and timeline.
 
-Chapter Y gives details on how to conduct an effective interviewer training. It gives some general considerations and hands-on gives tips and tricks for the different session types such as questionnaire reading, on-side or in field practicing. It is targeted towards trainers and is best read prior to the training or before conducting a particular session type.
+This part of the book gives recommendations on how to implement fieldwork training that effectively prepares field workers while not while not overburdening trainers or overstretching survey resources. It assumes fieldwork training to be in-person, as is custom for most socio-economic surveys with personal interviews. For remote training, check XYZ ??QUESTION Do we have any resources?   
 
-As you will learn in this chapter, you should train an excess of interviewers, assess them on an ongoing basis and select them at the end of the training. Chapter \@ref{trainingassessment} [assessment](training-assessment) gives important considerations for this process and step-by-step guide on how to do this.
+Readers who are interested in a cheatsheet version can read the key recommendations for fieldwork training in the [TL;DR](#tldrtraining) below. Those looking for more detail will benefit from reading the respective chapters. 
 
-Chapter ZZ gives considerations for special training arrangements, including remote training, training of trainers or online training. 
+Chapter \@ref(planning-and-preparing) [Planning and Preparing] is targeted at survey designers, managers, fieldwork managers, trainers or any other role that is involved in the planning, budgeting and preparation of the fieldwork training. It provides recommendations on the training location, timing, size, the trainers, training content and schedules, and includes checklists of the key items to prepare prior to the training. 
 
+Chapter \@ref(conducting-the-training) [Conducting the Training](#conducting-the-training) gives useful recommendations on how an effective and efficient fieldwork training can be conducted. It provides extensive details and step-by-step guides for different training modules. It is mainly targeted towards trainers and is best during training preparation and the training itself.
 
+LSMS recommends to continuously evaluate trainees throughout the training and to select fieldworkers based on capacity at the end. Chapter \@ref(assessment-selection) [Assessment & Selection](#assessment-selection) is mainly targeted towards trainers and gives step-by-step guide on how to effectively implement written tests, systematically evaluate skills and select fieldworkers. 
 
-## Key Recommendations
+## TL;DR{- #tldrtraining}
 
-This tl;dr is for readers who want to see our “cheatsheet” version of the chapters on training. If you are looking for more details, we think you’ll benefit from reading the rest of the chapters. Follow below key points to ensure a successful interviewer training. 
+Follow below key recommendation to ensure a successful interviewer training. 
+
+1. __Train an excess of 40% of fieldworkers__ to allow for trainee attrition, competency-based fieldworker selection and to have a fieldworker reserve. This can be reduced to 20% if you are working with experienced teams with low attrition. Anything less does not allow for a meaningful selection process. 
+
+1. __Select based on skills__. Continuously evaluate trainee performance and capacity in written tests, role plays, questions in class and observing them while practicing. Select fieldworkers at the end of training in a transparent process based on their capacity and skills. 
+
+Select roles based on skills__ who wil be supervisor, data monitors, etc 
+
 
 1. __Train an excess of 20-40% of field workers__ and select them based on skills at the end of the training, even if working with experienced teams. Trainees take the training more seriously, pay attention, and learn and the overall skill level of field workers is higher.  
 
-1. __Continuously evaluate__ trainee performance and capacity in written tests, role plays, questions in class and observing them while practicing. 
+1. 
 
 1. __Don’t cut on duration__! Allow for at least one full week of training per 1.5 hours questionnaire length. Anything less is normally not enough for the complex content of a socio-economic questionnaire to be learned and practiced.  
 
@@ -51,3 +58,22 @@ This tl;dr is for readers who want to see our “cheatsheet” version of the ch
 1. __Engage__. As a survey designer, do not do your emails on the side table and leave it to the survey firm, fieldwork manager or trainers alone to deliver the training. Actively participate, check that the content is correctly understood, explain what matters, etc. You have put a lot of effort into the design. Make sure it is implemented correctly.
 
 1. __Trainers need expertise__. Sending a junior colleague without much experience to be in charge of the training is not a good idea. You need solid survey, context and subject experience among the trainers to deliver a solid training.    
+
+1. __Assess readiness for field__. At the end of the training, a final field test that mimics field conditions. where field workers can be observed and feedback given without using the actual sample. If team is not ready, e.g. there are common outstanding issues, extend the training by a few days to revisit and strengthen problematic areas. 
+
+1. __Interviewing skills__ are essential. Not all trainees possess them. Especially new recruits need to learn and practice how to introduce the survey, respondents to participate, maintain the repsondent responsive, elicit responses for difficult questions.  
+
+1. __Only select capable interviewers__. Only select interviewers that have demonstrated full understanding and capability of satisfactory and reliable completion of required tasks. If there are more than needed and you have flexibility, you can  have slightly more teams operate over shorter time as long as overall size is kept at bay.  If not enough trainees are available, extend training.    
+
+
+## notes
+
+- debriefing fter interviews
+
+- retraining, when 
+
+- quality assurance mechanisms 
+
+- keep notes to write training report, for documentation and to learn for future rounds. 
+
+- design training prrotocols

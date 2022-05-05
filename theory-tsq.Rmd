@@ -5,27 +5,23 @@ As we have seen in Chapter \@ref(tse), low levels of TSE are necessary for a sur
 The concept of *total survey quality* (TSQ) considers the *fitness of use* of a survey estimate. It combines the accuracy of an estimate with non-statistical dimensions oriented towards the data user. The definitions of survey quality used by most NSOs in Europe, North America and Oceania, as well as that of international organisations such as Eurostat, IMF, and OECD explicitly acknowledge the multi-dimensional nature of survey quality. These definitions are referred to as *survey quality frameworks*. There is some (often minor) variation between organisations, but most frameworks include a subset of the quality dimensions summarized in Table \@ref(tab:qd) [@Biemer2010].
 
 ```{r, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
-
-quality <- as.data.frame(matrix(c(
-     "Accuracy", "Total survey error is minimized ",
-     "Credibility", 	"Data are considered trustworthy by the survey community", 
-     "Comparability",	"Demographic, spatial, and temporal comparisons are valid", 
+library(kableExtra)
+options(kableExtra.html.bsTable = T)
+library(dplyr)
+quality <- tribble(~Dimension, ~Description,
+     "Accuracy ", "Total survey error is minimized ",
+     "Credibility ", 	"Data are considered trustworthy by the survey community", 
+     "Comparability ",	"Demographic, spatial, and temporal comparisons are valid", 
      "Usability/Interpretability", "Documentation is clear and metadata are well-managed", 
-     "Relevance", "Data satisfy users needs", 
-     "Accessibility",	"Access to the data is user friendly",
+     "Relevance ", "Data satisfy users needs", 
+     "Accessibility ",	"Access to the data is user friendly",
      "Timeliness/Punctuality", "Data deliveries adhere to schedules",
-     "Completeness", "Data are rich enough to satisfy the analysis objectives without undue burden on respondents", 
-     "Coherence",	"Estimates from different sources can be reliably combined"), 
-     ncol = 2,
-     byrow = T))
-colnames(quality) <- c("Dimension", "Description")
+     "Completeness ", "Data are rich enough to satisfy the analysis objectives without undue burden on respondents", 
+     "Coherence ",	"Estimates from different sources can be reliably combined")
 
-knitr::kable(
-  quality, booktabs = TRUE,
-  caption = 'Common Dimensions of a Survey Quality Framework.',
-  label = "qd"
-)
-
+quality %>%
+  kable(caption = 'Common Dimensions of a Survey Quality Framework.', label = "qd") %>%
+  kable_styling(bootstrap_options = c("striped")) 
 ```
 
 These frameworks are commonly used as the basis of survey quality reporting. Some of the dimensions are qualitative, making it difficult to generate a single metric to summarize the overall quality of a survey. Survey methodologists have not (yet) put forward a standard quality measure. Instead, evaluations tend to identify the strength and weaknesses of a survey by dimension and assess how well it achieved the goals of each dimension. 

@@ -75,6 +75,7 @@ Examples of nonresponse error are:
 
 - High _Don't Know (DK)_ rate for income related question if interviewers do not probe and explain the question sufficiently. 
 
+- Respondents refusing to participate in the survey. This is happening increasingly often in some context, such as urban areas. Interviewers can be trained in best practices to convince respondents to participate.  
 
 ### Measurement error
 

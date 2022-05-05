@@ -3,12 +3,23 @@
 library(kableExtra)
 library(readxl)
 
-schedule <- read_xlsx("resources/training_schedule.xlsx")
+schedule <- read_xlsx("resources/training_schedule.xlsx", col_types = c("numeric","text","text","text"))
 
 schedule %>%
   kbl(align = "cll") %>%
   kable_styling() %>%
   column_spec(1, bold = T)
+
+days <- rle(schedule$Day)$lengths
+names(days) <- paste("Day",rle(schedule$Day)$values)
+days
+
+schedule[,2:4] %>%
+  kbl() %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  pack_rows(index = days, label_row_css = "background-color: #666; color: #fff;")
+
+
 
 
 

@@ -4,21 +4,20 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 17 Monitoring | The Go-to Guide to Survey Quality</title>
+  <title>Chapter 17 Monitoring | The LSMS Guide to Survey Quality</title>
   <meta name="description" content="<p>This book is a companion to survey practicioners who seek to improve the
 quality of the data they collect.</p>" />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.26 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 17 Monitoring | The Go-to Guide to Survey Quality" />
+  <meta property="og:title" content="Chapter 17 Monitoring | The LSMS Guide to Survey Quality" />
   <meta property="og:type" content="book" />
-  <meta property="og:url" content="https://andreaskutka.github.io/g2sq" />
   <meta property="og:image" content="https://andreaskutka.github.io/g2sq/images/survey.png" />
   <meta property="og:description" content="<p>This book is a companion to survey practicioners who seek to improve the
 quality of the data they collect.</p>" />
   <meta name="github-repo" content="andreaskutka/g2sq" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 17 Monitoring | The Go-to Guide to Survey Quality" />
+  <meta name="twitter:title" content="Chapter 17 Monitoring | The LSMS Guide to Survey Quality" />
   
   <meta name="twitter:description" content="<p>This book is a companion to survey practicioners who seek to improve the
 quality of the data they collect.</p>" />
@@ -35,11 +34,9 @@ quality of the data they collect.</p>" />
   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="listing.html"/>
 <link rel="next" href="effective-feedback.html"/>
-<script src="libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
@@ -53,10 +50,18 @@ quality of the data they collect.</p>" />
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="libs/bsTable-3.3.7/bootstrapTable.min.css" rel="stylesheet" />
+<script src="libs/bsTable-3.3.7/bootstrapTable.js"></script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+});
+</script>
 
 
 
@@ -97,16 +102,16 @@ div.csl-indent {
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">A Practical Guide to Survey Quality</a></li>
+<li><a href="./">The LSMS Guide to Survey Quality</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html"><i class="fa fa-check"></i>Preface</a>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a>
 <ul>
-<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#about-this-book"><i class="fa fa-check"></i>About this book</a></li>
-<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#how-to-use-this-book"><i class="fa fa-check"></i>How to use this book</a></li>
-<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#about-the-lsms-guideline-series"><i class="fa fa-check"></i>About The LSMS Guideline series</a></li>
-<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#about-the-authors"><i class="fa fa-check"></i>About the authors</a></li>
-<li class="chapter" data-level="0.1" data-path="preface.html"><a href="preface.html#callout-box-examples"><i class="fa fa-check"></i><b>0.1</b> callout box examples</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-this-book"><i class="fa fa-check"></i>About this book</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-use-this-book"><i class="fa fa-check"></i>How to use this book</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-the-lsms-guideline-series"><i class="fa fa-check"></i>About The LSMS Guideline series</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-the-authors"><i class="fa fa-check"></i>About the authors</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#callout-box-examples"><i class="fa fa-check"></i>callout box examples</a></li>
 </ul></li>
 <li class="part"><span><b>I Survey Quality</b></span></li>
 <li class="chapter" data-level="1" data-path="introduction-to-survey-quality.html"><a href="introduction-to-survey-quality.html"><i class="fa fa-check"></i><b>1</b> Introduction to Survey Quality</a></li>
@@ -132,95 +137,110 @@ div.csl-indent {
 <li class="chapter" data-level="5" data-path="formulation.html"><a href="formulation.html"><i class="fa fa-check"></i><b>5</b> Formulation</a></li>
 <li class="chapter" data-level="6" data-path="personel.html"><a href="personel.html"><i class="fa fa-check"></i><b>6</b> Personel</a></li>
 <li class="chapter" data-level="7" data-path="contracting-considerations.html"><a href="contracting-considerations.html"><i class="fa fa-check"></i><b>7</b> Contracting considerations</a></li>
-<li class="part"><span><b>III Design and Preparation</b></span></li>
+<li class="part"><span><b>III Preparation</b></span></li>
+<li class="chapter" data-level="" data-path="introduction-to-preparation.html"><a href="introduction-to-preparation.html"><i class="fa fa-check"></i>Introduction to preparation</a></li>
+<li class="chapter" data-level="8" data-path="fieldworker-recruitment.html"><a href="fieldworker-recruitment.html"><i class="fa fa-check"></i><b>8</b> Fieldworker recruitment</a></li>
+<li class="chapter" data-level="9" data-path="fieldworker-terms.html"><a href="fieldworker-terms.html"><i class="fa fa-check"></i><b>9</b> Fieldworker terms</a></li>
+<li class="part"><span><b>IV Design</b></span></li>
 <li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i>Introduction</a></li>
-<li class="chapter" data-level="8" data-path="instruments.html"><a href="instruments.html"><i class="fa fa-check"></i><b>8</b> Instruments</a>
+<li class="chapter" data-level="10" data-path="instruments.html"><a href="instruments.html"><i class="fa fa-check"></i><b>10</b> Instruments</a>
 <ul>
-<li class="chapter" data-level="8.1" data-path="instruments.html"><a href="instruments.html#questionnaire"><i class="fa fa-check"></i><b>8.1</b> Questionnaire</a></li>
-<li class="chapter" data-level="8.2" data-path="instruments.html"><a href="instruments.html#capicati"><i class="fa fa-check"></i><b>8.2</b> CAPI/CATI</a></li>
-<li class="chapter" data-level="8.3" data-path="instruments.html"><a href="instruments.html#translation"><i class="fa fa-check"></i><b>8.3</b> Translation</a>
+<li class="chapter" data-level="10.1" data-path="instruments.html"><a href="instruments.html#questionnaire"><i class="fa fa-check"></i><b>10.1</b> Questionnaire</a></li>
+<li class="chapter" data-level="10.2" data-path="instruments.html"><a href="instruments.html#capicati"><i class="fa fa-check"></i><b>10.2</b> CAPI/CATI</a></li>
+<li class="chapter" data-level="10.3" data-path="instruments.html"><a href="instruments.html#translation"><i class="fa fa-check"></i><b>10.3</b> Translation</a>
 <ul>
-<li class="chapter" data-level="8.3.1" data-path="instruments.html"><a href="instruments.html#what-should-be-translated"><i class="fa fa-check"></i><b>8.3.1</b> What should be translated?</a></li>
-<li class="chapter" data-level="8.3.2" data-path="instruments.html"><a href="instruments.html#who-should-translate"><i class="fa fa-check"></i><b>8.3.2</b> Who should translate?</a></li>
-<li class="chapter" data-level="8.3.3" data-path="instruments.html"><a href="instruments.html#some-translation-guidelines"><i class="fa fa-check"></i><b>8.3.3</b> Some translation guidelines</a></li>
-<li class="chapter" data-level="8.3.4" data-path="instruments.html"><a href="instruments.html#translation-verification"><i class="fa fa-check"></i><b>8.3.4</b> Translation verification</a></li>
-<li class="chapter" data-level="8.3.5" data-path="instruments.html"><a href="instruments.html#when-to-translate"><i class="fa fa-check"></i><b>8.3.5</b> When to translate</a></li>
-<li class="chapter" data-level="8.3.6" data-path="instruments.html"><a href="instruments.html#stay-on-top-of-updates"><i class="fa fa-check"></i><b>8.3.6</b> Stay on top of updates</a></li>
-<li class="chapter" data-level="8.3.7" data-path="instruments.html"><a href="instruments.html#on-the-fly-translation"><i class="fa fa-check"></i><b>8.3.7</b> On-the-fly translation</a></li>
+<li class="chapter" data-level="10.3.1" data-path="instruments.html"><a href="instruments.html#what-should-be-translated"><i class="fa fa-check"></i><b>10.3.1</b> What should be translated?</a></li>
+<li class="chapter" data-level="10.3.2" data-path="instruments.html"><a href="instruments.html#who-should-translate"><i class="fa fa-check"></i><b>10.3.2</b> Who should translate?</a></li>
+<li class="chapter" data-level="10.3.3" data-path="instruments.html"><a href="instruments.html#some-translation-guidelines"><i class="fa fa-check"></i><b>10.3.3</b> Some translation guidelines</a></li>
+<li class="chapter" data-level="10.3.4" data-path="instruments.html"><a href="instruments.html#translation-verification"><i class="fa fa-check"></i><b>10.3.4</b> Translation verification</a></li>
+<li class="chapter" data-level="10.3.5" data-path="instruments.html"><a href="instruments.html#when-to-translate"><i class="fa fa-check"></i><b>10.3.5</b> When to translate</a></li>
+<li class="chapter" data-level="10.3.6" data-path="instruments.html"><a href="instruments.html#stay-on-top-of-updates"><i class="fa fa-check"></i><b>10.3.6</b> Stay on top of updates</a></li>
+<li class="chapter" data-level="10.3.7" data-path="instruments.html"><a href="instruments.html#on-the-fly-translation"><i class="fa fa-check"></i><b>10.3.7</b> On-the-fly translation</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="9" data-path="sample.html"><a href="sample.html"><i class="fa fa-check"></i><b>9</b> Sample</a></li>
-<li class="chapter" data-level="10" data-path="manual.html"><a href="manual.html"><i class="fa fa-check"></i><b>10</b> Manual</a></li>
-<li class="part"><span><b>IV Training</b></span></li>
-<li class="chapter" data-level="11" data-path="introduction-1.html"><a href="introduction-1.html"><i class="fa fa-check"></i><b>11</b> Introduction</a>
+<li class="chapter" data-level="11" data-path="sample.html"><a href="sample.html"><i class="fa fa-check"></i><b>11</b> Sample</a></li>
+<li class="chapter" data-level="12" data-path="manual.html"><a href="manual.html"><i class="fa fa-check"></i><b>12</b> Manual</a></li>
+<li class="part"><span><b>V Fieldwork Training</b></span></li>
+<li class="chapter" data-level="" data-path="introduction-to-training.html"><a href="introduction-to-training.html"><i class="fa fa-check"></i>Introduction to Training</a>
 <ul>
-<li class="chapter" data-level="11.1" data-path="introduction-1.html"><a href="introduction-1.html#key-recommendations"><i class="fa fa-check"></i><b>11.1</b> Key Recommendations</a></li>
+<li class="chapter" data-level="" data-path="introduction-to-training.html"><a href="introduction-to-training.html#tldrtraining"><i class="fa fa-check"></i>TL;DR</a></li>
+<li class="chapter" data-level="12.1" data-path="introduction-to-training.html"><a href="introduction-to-training.html#notes"><i class="fa fa-check"></i><b>12.1</b> notes</a></li>
 </ul></li>
-<li class="chapter" data-level="12" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html"><i class="fa fa-check"></i><b>12</b> Planning and Preparing</a>
+<li class="chapter" data-level="13" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html"><i class="fa fa-check"></i><b>13</b> Planning and Preparing</a>
 <ul>
-<li class="chapter" data-level="12.1" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#training-content"><i class="fa fa-check"></i><b>12.1</b> Training Content</a></li>
-<li class="chapter" data-level="12.2" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#duration-schedule"><i class="fa fa-check"></i><b>12.2</b> Duration &amp; Schedule</a></li>
-<li class="chapter" data-level="12.3" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#material"><i class="fa fa-check"></i><b>12.3</b> Material</a></li>
-<li class="chapter" data-level="12.4" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#trainees"><i class="fa fa-check"></i><b>12.4</b> Trainees</a></li>
-<li class="chapter" data-level="12.5" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#trainers"><i class="fa fa-check"></i><b>12.5</b> Trainers</a></li>
-<li class="chapter" data-level="12.6" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#logistics"><i class="fa fa-check"></i><b>12.6</b> Logistics</a>
+<li class="chapter" data-level="13.1" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#training-size"><i class="fa fa-check"></i><b>13.1</b> Training size</a></li>
+<li class="chapter" data-level="13.2" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#trainers"><i class="fa fa-check"></i><b>13.2</b> Trainers</a></li>
+<li class="chapter" data-level="13.3" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#content"><i class="fa fa-check"></i><b>13.3</b> Content</a></li>
+<li class="chapter" data-level="13.4" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#timing-duration"><i class="fa fa-check"></i><b>13.4</b> Timing &amp; Duration</a></li>
+<li class="chapter" data-level="13.5" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#schedule-1"><i class="fa fa-check"></i><b>13.5</b> Schedule</a></li>
+<li class="chapter" data-level="13.6" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#location"><i class="fa fa-check"></i><b>13.6</b> Location</a></li>
+<li class="chapter" data-level="13.7" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#trainingpreparation"><i class="fa fa-check"></i><b>13.7</b> Preparation</a></li>
+<li class="chapter" data-level="13.8" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#notes-1"><i class="fa fa-check"></i><b>13.8</b> Notes:</a></li>
+</ul></li>
+<li class="chapter" data-level="14" data-path="conducting-the-training.html"><a href="conducting-the-training.html"><i class="fa fa-check"></i><b>14</b> Conducting the Training</a>
 <ul>
-<li class="chapter" data-level="12.6.1" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#for-capi-surveys"><i class="fa fa-check"></i><b>12.6.1</b> For CAPI surveys:</a></li>
-<li class="chapter" data-level="12.6.2" data-path="planning-and-preparing.html"><a href="planning-and-preparing.html#for-on-site-or-in-field-practicing"><i class="fa fa-check"></i><b>12.6.2</b> For on-site or in-field practicing:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="13" data-path="conduct-the-training.html"><a href="conduct-the-training.html"><i class="fa fa-check"></i><b>13</b> Conduct the Training</a>
+<li class="chapter" data-level="14.1" data-path="conducting-the-training.html"><a href="conducting-the-training.html#general-considerations"><i class="fa fa-check"></i><b>14.1</b> General considerations</a></li>
+<li class="chapter" data-level="14.2" data-path="conducting-the-training.html"><a href="conducting-the-training.html#opening-module"><i class="fa fa-check"></i><b>14.2</b> Opening module</a></li>
+<li class="chapter" data-level="14.3" data-path="conducting-the-training.html"><a href="conducting-the-training.html#capi-use"><i class="fa fa-check"></i><b>14.3</b> CAPI use</a></li>
+<li class="chapter" data-level="14.4" data-path="conducting-the-training.html"><a href="conducting-the-training.html#questionnaire-content"><i class="fa fa-check"></i><b>14.4</b> Questionnaire content</a></li>
+<li class="chapter" data-level="14.5" data-path="conducting-the-training.html"><a href="conducting-the-training.html#practicing"><i class="fa fa-check"></i><b>14.5</b> Practicing</a>
 <ul>
-<li class="chapter" data-level="13.1" data-path="conduct-the-training.html"><a href="conduct-the-training.html#welcome-introduction"><i class="fa fa-check"></i><b>13.1</b> Welcome &amp; introduction</a></li>
-<li class="chapter" data-level="13.2" data-path="conduct-the-training.html"><a href="conduct-the-training.html#introduction-to-capi"><i class="fa fa-check"></i><b>13.2</b> Introduction to CAPI</a></li>
-<li class="chapter" data-level="13.3" data-path="conduct-the-training.html"><a href="conduct-the-training.html#questionnaire-reading"><i class="fa fa-check"></i><b>13.3</b> Questionnaire reading</a></li>
-<li class="chapter" data-level="13.4" data-path="conduct-the-training.html"><a href="conduct-the-training.html#group-practice"><i class="fa fa-check"></i><b>13.4</b> Group practice</a></li>
-<li class="chapter" data-level="13.5" data-path="conduct-the-training.html"><a href="conduct-the-training.html#on-site-respondents"><i class="fa fa-check"></i><b>13.5</b> On-site respondents</a></li>
-<li class="chapter" data-level="13.6" data-path="conduct-the-training.html"><a href="conduct-the-training.html#field-practice"><i class="fa fa-check"></i><b>13.6</b> Field practice</a></li>
-<li class="chapter" data-level="13.7" data-path="conduct-the-training.html"><a href="conduct-the-training.html#role-plays"><i class="fa fa-check"></i><b>13.7</b> Role plays</a></li>
-<li class="chapter" data-level="13.8" data-path="conduct-the-training.html"><a href="conduct-the-training.html#special-tasks"><i class="fa fa-check"></i><b>13.8</b> Special tasks</a>
+<li class="chapter" data-level="14.5.1" data-path="conducting-the-training.html"><a href="conducting-the-training.html#group-practice"><i class="fa fa-check"></i><b>14.5.1</b> Group practice</a></li>
+<li class="chapter" data-level="14.5.2" data-path="conducting-the-training.html"><a href="conducting-the-training.html#on-site-respondents"><i class="fa fa-check"></i><b>14.5.2</b> On-site respondents</a></li>
+<li class="chapter" data-level="14.5.3" data-path="conducting-the-training.html"><a href="conducting-the-training.html#field-practice"><i class="fa fa-check"></i><b>14.5.3</b> Field practice</a></li>
+</ul></li>
+<li class="chapter" data-level="14.6" data-path="conducting-the-training.html"><a href="conducting-the-training.html#interviewing-techniques"><i class="fa fa-check"></i><b>14.6</b> Interviewing techniques</a>
 <ul>
-<li class="chapter" data-level="13.8.1" data-path="conduct-the-training.html"><a href="conduct-the-training.html#specialized-teams"><i class="fa fa-check"></i><b>13.8.1</b> Specialized teams</a></li>
+<li class="chapter" data-level="14.6.1" data-path="conducting-the-training.html"><a href="conducting-the-training.html#identify-challenges-and-responses"><i class="fa fa-check"></i><b>14.6.1</b> Identify challenges and responses</a></li>
+<li class="chapter" data-level="14.6.2" data-path="conducting-the-training.html"><a href="conducting-the-training.html#train-practice"><i class="fa fa-check"></i><b>14.6.2</b> Train &amp; Practice</a></li>
 </ul></li>
-<li class="chapter" data-level="13.9" data-path="conduct-the-training.html"><a href="conduct-the-training.html#responding-to-inquiries"><i class="fa fa-check"></i><b>13.9</b> Responding to inquiries</a></li>
-<li class="chapter" data-level="13.10" data-path="conduct-the-training.html"><a href="conduct-the-training.html#final-field-test-often-called-pilot"><i class="fa fa-check"></i><b>13.10</b> Final field test (often called pilot)</a></li>
-</ul></li>
-<li class="chapter" data-level="14" data-path="assessment-selection.html"><a href="assessment-selection.html"><i class="fa fa-check"></i><b>14</b> Assessment &amp; Selection</a>
+<li class="chapter" data-level="14.7" data-path="conducting-the-training.html"><a href="conducting-the-training.html#special-tasks"><i class="fa fa-check"></i><b>14.7</b> Special tasks</a>
 <ul>
-<li class="chapter" data-level="14.1" data-path="assessment-selection.html"><a href="assessment-selection.html#written-tests"><i class="fa fa-check"></i><b>14.1</b> Written Tests</a>
+<li class="chapter" data-level="14.7.1" data-path="conducting-the-training.html"><a href="conducting-the-training.html#specialized-teams"><i class="fa fa-check"></i><b>14.7.1</b> Specialized teams</a></li>
+</ul></li>
+<li class="chapter" data-level="14.8" data-path="conducting-the-training.html"><a href="conducting-the-training.html#responding-to-inquiries"><i class="fa fa-check"></i><b>14.8</b> Responding to inquiries</a></li>
+<li class="chapter" data-level="14.9" data-path="conducting-the-training.html"><a href="conducting-the-training.html#final-field-test-often-called-pilot"><i class="fa fa-check"></i><b>14.9</b> Final field test (often called pilot)</a></li>
+<li class="chapter" data-level="14.10" data-path="conducting-the-training.html"><a href="conducting-the-training.html#supervisor-training"><i class="fa fa-check"></i><b>14.10</b> Supervisor Training</a></li>
+<li class="chapter" data-level="14.11" data-path="conducting-the-training.html"><a href="conducting-the-training.html#data-monitor-training"><i class="fa fa-check"></i><b>14.11</b> Data Monitor Training</a></li>
+<li class="chapter" data-level="14.12" data-path="conducting-the-training.html"><a href="conducting-the-training.html#trainer-meeting"><i class="fa fa-check"></i><b>14.12</b> Trainer meeting</a></li>
+</ul></li>
+<li class="chapter" data-level="15" data-path="assessment-selection.html"><a href="assessment-selection.html"><i class="fa fa-check"></i><b>15</b> Assessment &amp; Selection</a>
 <ul>
-<li class="chapter" data-level="14.1.1" data-path="assessment-selection.html"><a href="assessment-selection.html#designing-tests"><i class="fa fa-check"></i><b>14.1.1</b> Designing tests</a></li>
-<li class="chapter" data-level="14.1.2" data-path="assessment-selection.html"><a href="assessment-selection.html#conducting-the-test"><i class="fa fa-check"></i><b>14.1.2</b> Conducting the test</a></li>
-<li class="chapter" data-level="14.1.3" data-path="assessment-selection.html"><a href="assessment-selection.html#marking-tests"><i class="fa fa-check"></i><b>14.1.3</b> Marking tests</a></li>
-<li class="chapter" data-level="14.1.4" data-path="assessment-selection.html"><a href="assessment-selection.html#providing-feedback"><i class="fa fa-check"></i><b>14.1.4</b> Providing feedback</a></li>
-</ul></li>
-<li class="chapter" data-level="14.2" data-path="assessment-selection.html"><a href="assessment-selection.html#evaluating-soft-skills"><i class="fa fa-check"></i><b>14.2</b> Evaluating soft skills</a>
+<li class="chapter" data-level="15.1" data-path="assessment-selection.html"><a href="assessment-selection.html#written-tests"><i class="fa fa-check"></i><b>15.1</b> Written Tests</a>
 <ul>
-<li class="chapter" data-level="14.2.1" data-path="assessment-selection.html"><a href="assessment-selection.html#identify-key-skills"><i class="fa fa-check"></i><b>14.2.1</b> Identify key skills</a></li>
-<li class="chapter" data-level="14.2.2" data-path="assessment-selection.html"><a href="assessment-selection.html#design-a-scoring-system"><i class="fa fa-check"></i><b>14.2.2</b> Design a scoring system</a></li>
-<li class="chapter" data-level="14.2.3" data-path="assessment-selection.html"><a href="assessment-selection.html#create-a-skill-matrix"><i class="fa fa-check"></i><b>14.2.3</b> Create a skill matrix</a></li>
-<li class="chapter" data-level="14.2.4" data-path="assessment-selection.html"><a href="assessment-selection.html#rate"><i class="fa fa-check"></i><b>14.2.4</b> Rate</a></li>
+<li class="chapter" data-level="15.1.1" data-path="assessment-selection.html"><a href="assessment-selection.html#designing-tests"><i class="fa fa-check"></i><b>15.1.1</b> Designing tests</a></li>
+<li class="chapter" data-level="15.1.2" data-path="assessment-selection.html"><a href="assessment-selection.html#conducting-the-test"><i class="fa fa-check"></i><b>15.1.2</b> Conducting the test</a></li>
+<li class="chapter" data-level="15.1.3" data-path="assessment-selection.html"><a href="assessment-selection.html#marking-tests"><i class="fa fa-check"></i><b>15.1.3</b> Marking tests</a></li>
+<li class="chapter" data-level="15.1.4" data-path="assessment-selection.html"><a href="assessment-selection.html#providing-feedback"><i class="fa fa-check"></i><b>15.1.4</b> Providing feedback</a></li>
 </ul></li>
-<li class="chapter" data-level="14.3" data-path="assessment-selection.html"><a href="assessment-selection.html#field-worker-selection"><i class="fa fa-check"></i><b>14.3</b> Field worker selection</a>
+<li class="chapter" data-level="15.2" data-path="assessment-selection.html"><a href="assessment-selection.html#evaluating-soft-skills"><i class="fa fa-check"></i><b>15.2</b> Evaluating soft skills</a>
 <ul>
-<li class="chapter" data-level="14.3.1" data-path="assessment-selection.html"><a href="assessment-selection.html#timing"><i class="fa fa-check"></i><b>14.3.1</b> Timing</a></li>
-<li class="chapter" data-level="14.3.2" data-path="assessment-selection.html"><a href="assessment-selection.html#criteria"><i class="fa fa-check"></i><b>14.3.2</b> Criteria</a></li>
-<li class="chapter" data-level="14.3.3" data-path="assessment-selection.html"><a href="assessment-selection.html#selection-process"><i class="fa fa-check"></i><b>14.3.3</b> Selection process</a></li>
+<li class="chapter" data-level="15.2.1" data-path="assessment-selection.html"><a href="assessment-selection.html#identify-key-skills"><i class="fa fa-check"></i><b>15.2.1</b> Identify key skills</a></li>
+<li class="chapter" data-level="15.2.2" data-path="assessment-selection.html"><a href="assessment-selection.html#design-a-scoring-system"><i class="fa fa-check"></i><b>15.2.2</b> Design a scoring system</a></li>
+<li class="chapter" data-level="15.2.3" data-path="assessment-selection.html"><a href="assessment-selection.html#create-a-skill-matrix"><i class="fa fa-check"></i><b>15.2.3</b> Create a skill matrix</a></li>
+<li class="chapter" data-level="15.2.4" data-path="assessment-selection.html"><a href="assessment-selection.html#rate"><i class="fa fa-check"></i><b>15.2.4</b> Rate</a></li>
+</ul></li>
+<li class="chapter" data-level="15.3" data-path="assessment-selection.html"><a href="assessment-selection.html#specialised-tasks"><i class="fa fa-check"></i><b>15.3</b> Specialised tasks</a></li>
+<li class="chapter" data-level="15.4" data-path="assessment-selection.html"><a href="assessment-selection.html#field-worker-selection"><i class="fa fa-check"></i><b>15.4</b> Field worker selection</a>
+<ul>
+<li class="chapter" data-level="15.4.1" data-path="assessment-selection.html"><a href="assessment-selection.html#timing"><i class="fa fa-check"></i><b>15.4.1</b> Timing</a></li>
+<li class="chapter" data-level="15.4.2" data-path="assessment-selection.html"><a href="assessment-selection.html#criteria"><i class="fa fa-check"></i><b>15.4.2</b> Criteria</a></li>
+<li class="chapter" data-level="15.4.3" data-path="assessment-selection.html"><a href="assessment-selection.html#selection-process"><i class="fa fa-check"></i><b>15.4.3</b> Selection process</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="15" data-path="supervisor-training.html"><a href="supervisor-training.html"><i class="fa fa-check"></i><b>15</b> Supervisor Training</a></li>
-<li class="part"><span><b>V Fieldwork</b></span></li>
-<li class="chapter" data-level="" data-path="introduction-2.html"><a href="introduction-2.html"><i class="fa fa-check"></i>Introduction</a></li>
+<li class="part"><span><b>VI Fieldwork</b></span></li>
+<li class="chapter" data-level="" data-path="introduction-1.html"><a href="introduction-1.html"><i class="fa fa-check"></i>Introduction</a></li>
 <li class="chapter" data-level="16" data-path="listing.html"><a href="listing.html"><i class="fa fa-check"></i><b>16</b> Listing</a></li>
 <li class="chapter" data-level="17" data-path="monitoring.html"><a href="monitoring.html"><i class="fa fa-check"></i><b>17</b> Monitoring</a></li>
 <li class="chapter" data-level="18" data-path="effective-feedback.html"><a href="effective-feedback.html"><i class="fa fa-check"></i><b>18</b> Effective Feedback</a></li>
 <li class="chapter" data-level="19" data-path="avoiding-nonresponse.html"><a href="avoiding-nonresponse.html"><i class="fa fa-check"></i><b>19</b> Avoiding nonresponse</a></li>
-<li class="part"><span><b>VI Post Survey</b></span></li>
-<li class="chapter" data-level="" data-path="introduction-3.html"><a href="introduction-3.html"><i class="fa fa-check"></i>Introduction</a></li>
-<li class="chapter" data-level="20" data-path="data-editing.html"><a href="data-editing.html"><i class="fa fa-check"></i><b>20</b> Data Editing</a></li>
-<li class="chapter" data-level="21" data-path="weighting.html"><a href="weighting.html"><i class="fa fa-check"></i><b>21</b> Weighting</a></li>
-<li class="chapter" data-level="22" data-path="archiving.html"><a href="archiving.html"><i class="fa fa-check"></i><b>22</b> Archiving</a></li>
-<li class="chapter" data-level="23" data-path="documentation.html"><a href="documentation.html"><i class="fa fa-check"></i><b>23</b> Documentation</a></li>
+<li class="chapter" data-level="20" data-path="notes-2.html"><a href="notes-2.html"><i class="fa fa-check"></i><b>20</b> Notes</a></li>
+<li class="part"><span><b>VII Post Survey</b></span></li>
+<li class="chapter" data-level="" data-path="introduction-2.html"><a href="introduction-2.html"><i class="fa fa-check"></i>Introduction</a></li>
+<li class="chapter" data-level="21" data-path="data-editing.html"><a href="data-editing.html"><i class="fa fa-check"></i><b>21</b> Data Editing</a></li>
+<li class="chapter" data-level="22" data-path="weighting.html"><a href="weighting.html"><i class="fa fa-check"></i><b>22</b> Weighting</a></li>
+<li class="chapter" data-level="23" data-path="archiving.html"><a href="archiving.html"><i class="fa fa-check"></i><b>23</b> Archiving</a></li>
+<li class="chapter" data-level="24" data-path="documentation.html"><a href="documentation.html"><i class="fa fa-check"></i><b>24</b> Documentation</a></li>
 <li class="appendix"><span><b>Appendix</b></span></li>
 <li class="chapter" data-level="" data-path="abbreviations-and-acronyms.html"><a href="abbreviations-and-acronyms.html"><i class="fa fa-check"></i>Abbreviations and Acronyms</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
@@ -236,7 +256,7 @@ div.csl-indent {
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">The Go-to Guide to Survey Quality</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">The LSMS Guide to Survey Quality</a>
           </h1>
         </div>
 
@@ -244,8 +264,8 @@ div.csl-indent {
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="monitoring" class="section level1" number="17">
-<h1><span class="header-section-number">Chapter 17</span> Monitoring</h1>
+<div id="monitoring" class="section level1 hasAnchor" number="17">
+<h1><span class="header-section-number">Chapter 17</span> Monitoring<a href="monitoring.html#monitoring" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>work in progress</p>
 </div>
             </section>
