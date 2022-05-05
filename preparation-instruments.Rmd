@@ -1,5 +1,5 @@
 
-# (PART) Design and Preparation {-}
+# (PART) Design {-}
 
 
 # Introduction {-}

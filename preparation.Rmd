@@ -1,0 +1,47 @@
+
+# (PART) Preparation {-}
+
+
+# Introduction to preparation {-}
+
+work in progress
+
+# Fieldworker recruitment
+
+general rule, smaller teams better, easier to keep track off, higher interviewer effect, so need to streamline and monitor. 
+
+
+check DHS, quite comprehensive.
+
+for supervisor, data monitors, if new team, recommend to identify suitable candidates during the training when abilities and personality become clearer. 
+
+Beware of experienced trainees coming from other surveys. Standards might have been lower in their previous training and they may have developed some undesirable habits that you need to untrain. Also, they might have a stronger sense of “I already know that” and engage less. Most surveys are significantly different for even experienced interviewers to learn the concepts and protocols.
+
+
+MICS: "
+Recruitment/Selection of pool of field staff
+It is key to identify individuals to invite to the training. The practise of recruitment or selection of staff to invite for training differ from country to country and from survey to survey. In some situations, the implementing agency can decide to recruit a brand-new set of staff and in others, select from an existing pool of staff, either from a previous survey or actual staff on payroll. 
+
+Here follows some overall recommendations to select the adequate mixture of participants and screen individuals for the training:
+•	Gender: The protocol demands that the individual questionnaires are administered by an Interviewer of the same sex as the respondent. Depending on the sample of individual men (all households, half, one third, etc.), one or more male Interviewers will be required on each team. If the survey does not include an Individual Questionnaire for Men, then all the Interviewers must be women. However, since it is also recommended, based on experience, that all teams include members of both sexes, it is advised that, the Supervisor or the Measurer is male (if no male interviewers). It is important that all interviews can be observed by the Supervisor, but Supervisors should be advised to leave an individual interview during the most sensitive subjects, such as sexual behaviour and victimisation or other questions where an observer of the opposite sex may make the respondent uncomfortable.
+•	Education: Normally, secondary education of trainees is a good target to bear in mind when recruiting. There are mixed experiences with university graduates: Recent graduates are often highly motivated and can be excellent Interviewers, but in other cases graduates have proven problematic by developing their own protocols in the field (being too smart). In any case, monitor performance carefully for all field staff.
+•	Experience: Having worked in the field on other surveys is certainly helpful for Supervisors and can be equally so for other staff. However, please be careful, as other surveys may not pay as much attention to quality as the MICS or may have instituted protocols that are not recommended for MICS and are difficult to “unlearn”. A typical example is for Interviewers that have worked on market research that is not always conducted according to the standards of a national statistical office or MICS.
+•	Language: All field staff must be completely fluent in the language(s) used for the training, which is typically also the language of the survey documents, such as the instructions and manuals. When deciding on the number of Interviewers fluent in other languages, it is important to have the fieldwork plan in mind, as well as a complete understanding of languages necessary in the different parts of the country. For example, if the fieldwork plan requires that just one team is fluent in a particular language, it is important that more trainees are invited than needed with this particular language skill. The “rule” of 10% is a rule of thumb that applies to total number of trainees, whereas it may be appropriate to invite 1-2 extra with a special language skill.
+•	Appearance: Fieldwork is demanding, not just on physical fitness, but also, for some, on the ability to dress appropriately. 
+•	Attitude: A good candidate will show a respectful attitude and maturity and take interest in the work.
+•	Diversity: With the demands for languages above, there is a good chance that recruiting happens across the country. However, for various reasons, there may be a natural bias towards candidates from the capital city or other major urban areas. It is important to ensure that the opportunity to apply is given across the country, perhaps through advertising that covers all regions. Even if the language requirements can be met in the capital, some candidates tend to appear so sophisticated to a rural population that a good rapport can never be established.
+•	Avoid: It is risky to use staff currently employed for example in the health sector, both because of the issues mentioned under education and experience above and because a large part of the survey is measuring performance of the health sector and thus there is a potential conflict of interest. 
+
+An objective set of requirements, based on the above, should always be developed and be transparent applied, so that the pressure the survey managers may feel to hire certain individuals can be eliminated.
+
+It is equally important that all applicants that meet the requirements are interviewed and tested as part of the selection process. This takes a lot of work and therefore planning far in advance is necessary. Very simple testing can be applied, i.e. if the candidate reads well, writes correct answers to simple questions, and can communicate in whatever languages are necessary and indicated by the applicant. There is a further need to at least check if candidates can operate simple functions in a tablet computer. Advanced computer literacy is not necessary, but a certain comfort with computers or smart phones is valuable. Additionally, measures must be able to see well (with glasses if used) as they will be reading out measurements that may be unclear in certain lighting."
+
+# Fieldworker terms
+
+- make it fair: pay fair. Mix of daily and piece rate. Only use peice rate if control meachnisms in place to counter act effects, only use daily rate if sufficent control that do sufficnet work. 
+- due diligence: insurance for health and accidents
+
+- give incentives to do well, e.g. bonus at the end if still there (to combat attrition) and based on performance 
+- put in deterrents to bad behaviour, make sure you can fire if gross mis conduct, not hire again 
+
+- write up short terms  and conditions, including pay, DSA allowances,  contract, duration, selection process, possibility of not getting selected, required tasks, duration fo field work and places of work. Make every candidate read the terms and conditions. If they agree, they should sign a copy. This is important that expectations of all trainees are correct at the beginning of the training, so trainee attricition is reduced, and to avoid collective walkouts by trainees. 

@@ -1,7 +1,42 @@
 
-# Assessment & Selection
+# Assessment & Selection 
+
+Often field worker selection is done by the implementing organisation that might follow their own procedures. Be cautious as the selection criteria and processes might not result in optimal outcomes. We recommend the following procedures. 
+
+However, the processes described here are highly recommended. Try to exert some control over the implementing agency and make it conditional. 
+
+- ultimate means to get to knwo interviewers so you can select them. last stage of interviewer recruitment process. Past survey experience, CVs and interview often not enough during recruitment process to identify those that are good at being interviewers form those that are not. Motivation, etc can only be observed over a sustained amount of time. Selection rpoecess should be at the end.
+
+?? 
+
+Especially when working with unknown teams of trainees, it is beneficial to not determine roles up-front, but to select trainees into field worker roles (interviewer, supervisor, etc) based on their skills and knowledge. Long term supervisors sometimes develop a sense of entitlement or superiority, don’t pay attention as much and as a result don’t know the material as much as interviewers. Sometimes they also don’t hold their position due to other factors. See more on sections FIELD WORKERS and SELECTION.   
+
+
+if pre-determined supervisors data mmonitors or other roles, they have to attend, contribute to and demonstrate understanding of the material in order to take on supervisory roles.     
+
+ here make overall process clear again:
+ 
+ - train excess
+ - evaluate on ongoing basis, content and skills 
+ - select at end of training
+ 
+ rationale:
+ - allow selection of best (only capable ones), discard 
+ - general motivator during the training, as trainees understand ti is serious and merit based selection, same attitudes transmit into field work
+- better performance: people do better if they know it matters and and cared about 
+- selection into roles based on skills, capacity, best fits, supervisors, monitors etc. 
+- transparent and objective selection, fair, if applied over repetaed surveys overall improvement of interviewer stock. 
+- creates pool of trained fieldworkers that can be brought up to speed relatively quickly if there is field worker attriction during field work.
+
+ 
+ 
+
 
 ## Written Tests 
+
+measns to test caapcity
+also make sure trainers and designers thinking is aligned with that of the team
+very powerfu to show trianees what they do not know and can be agreta motivator to pay attention, participate in the training and learn. 
 
 Conduct written tests  on a regular basis throughout the training, i.e. daily or every other day during class room days. On days with in-field practicing it is often not feasible to conduct tests, and there tends to be less new theoretical material that can be tested.  
 
@@ -83,54 +118,43 @@ How to create a skill matrix:
 
 ### Identify key skills 
 
-To produce a comparable and comprehensive ranking, identify a few key skills that matter most for the project and cannot easily be probed for in the written test. Examples are: 
+To produce a comparable and comprehensive ranking, identify a few key skills that matter most for the project and cannot easily be probed for in the written test. Examples are:
 
 - CAPI and tablet use 
-
 - Sound of voice, intonation (especially for phone surveys) 
-
 - Reading questions, reading speed 
-
-- Getting respondents to participate 
-
+- Ability to convince respondents to participate in survey
+- Capacity to self-organize
+- Inquiring
 - Friendliness and likability 
-
 - Determinism (especially if high unit non-response rate is expected) 
-
 - Trustworthiness and reliability (especially if working alone without supervision) 
-
 - Thoroughness 
-
-- Team leading and organizing (if selecting supervisors from trainees) 
+- Team leading and organizing (if selecting supervisors from trainees)
+- Interaction with children and mothers (for anthropomorphic or student tests)
 
 Aim to get a rating for each of the selected key skills for each trainee during the training. Be realistic, prioritize and select only the skills that matter most, max 3 - 5, so you actually manage to score all trainees against them. 
 
+If there is limited capacity and time to score against several criteria, give trainees scores for overall skills. When scoring, evaluate against the key skills, and record any diimensions in which they are outliers, i.e. perform very well or bad.
+
 ### Design a scoring system 
 
-You need to use a common scoring system to evaluate skills across trainees, especially if more than one trainer is evaluating trainees. Prepare a detailed scoring system with descriptions of each score. Make sure trainers know it and refer to it during scoring. Below table shows an example scoring system ranging from 1 to 5: 
+You need to use a common scoring system to evaluate skills across trainees, especially if more than one trainer is evaluating trainees. Prepare a detailed scoring system with descriptions of each score. Make sure trainers know it and refer to it during scoring. Table \@ref(tab:scoringsystem) shows an example scoring system ranging from 1 to 5: 
 
-
-```{r scoring_system, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+```{r , echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
 library(kableExtra)
+options(kableExtra.html.bsTable = T)
 
-score<-data.frame(
-Score = c(5:1),
-Rating= c(
-"Excellent, exceptionally mastery",
-"Very good, above average",
-"Good, acceptable, average",
-"Weak, less than acceptable",
-"Poor, unacceptable"),
-Description = c(
-"Can be expected to perform extremely well. Can act as an exemplary role during training and field work.", 
-"More than adequate for effective performance. Possess high skill level. No counterproductive behavior or deficiencies. No major deficiencies.",
-"Should be adequate for performance requirements. Posses acceptable skill level. No major counterproductive behavior or deficiencies.", 
-"Insufficient for performance requirements. Does not possess sufficient skill level. Some counterproductive behavior or deficiencies.",
-"Significantly below performance requirements. Does not possess the skill. Counterproductive behavior. Many deficiencies.") 
-)
+score <- tibble::tribble(~Score, ~Rating, ~Description,
+  5,"Excellent, exceptionally mastery","Can be expected to perform extremely well. Can act as an exemplary role during training and field work.", 
+  4,"Very good, above average","More than adequate for effective performance. Possess high skill level. No counterproductive behavior or deficiencies. No major deficiencies.",
+  3,"Good, acceptable, average","Should be adequate for performance requirements. Posses acceptable skill level. No major counterproductive behavior or deficiencies.", 
+  2,"Weak, less than acceptable","Insufficient for performance requirements. Does not possess sufficient skill level. Some counterproductive behavior or deficiencies.",
+  1,"Poor, unacceptable","Significantly below performance requirements. Does not possess the skill. Counterproductive behavior. Many deficiencies.") 
+
 score %>%
-  kbl(align = "cll") %>%
-  kable_styling() %>%
+  kable(align = "cll", caption = 'A skill scoring system.', label = "scoringsystem") %>%
+  kable_styling(bootstrap_options = c("striped")) %>%
   column_spec(1, bold = T)
 
 ```
@@ -167,9 +191,20 @@ Be aware of changes over time as trainees have (hopefully) acquired skills durin
 
 Reconfirm extreme scores, especially bad ones towards the end of the training, and scores for trainees that are not clearly in or outside of the selection that is merging towards the end.
 
+## Specialised tasks
+have them do the tasks, and test outcomes. 
+Anthro testing, compare against expert measurer. 
+
+
 ## Field worker selection 
 
 Field worker selection should happen at the end of the training and be skill-based, objective and transparent.  
+
+anthropomorphic standardization tests, compare individual testa against the group average and those of experts.
+
+stations, see MICS page 13/14.
+
+<!-- something on different roles? -->
 
 ### Timing 
 
@@ -178,6 +213,8 @@ Select field workers at the end of the training and prior to the start of field 
 Selecting after the address allows for more time to observe trainees and for trainees to show their strength in the field. Trainees that will not be selected and act as a replacement reserve will have had some field experience. 
 
 On the other hand, selecting prior to the dress rehearsal allows you to form the actual field teams already, so they can practice in their field composition and so that you can make adjustments if necessary.  
+
+AK NOTES: Some trainees might deselect themselves during the training by dropping out. Prior to the selection, only dismiss trainees where it is already clear that they have unacceptable skill levels or personality traits (e.g. unrealibility). be careful to not drop trainees that might improve. Many need more time, or start to improve once they realise their relative performance levels are low. 
 
 ### Criteria 
 

@@ -1,5 +1,5 @@
 --- 
-title: "The Go-to Guide to Survey Quality"
+title: "The LSMS Guide to Survey Quality"
 author: "Josefine Durazo, Kevin McGee, James Arthur Shaw, Andreas Kutka"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,4 +15,122 @@ link-citations: yes
 github-repo: andreaskutka/g2sq
 favicon: images/favicon.ico
 ---
+
+# Preface {-}
+:::: { .careful  data-latex=""}
+Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
+::::
+
+Version 0.1.
+
+Last updated on `r format(Sys.Date(),"%d %B %Y")`.
+
+
+## About this book{-}
+
+What is survey quality and how can it be achieved? This book gives practical advice 
+
+experiences and practices that have worked in. 
+
+based upon our experience in designing and implementing large scale socio-economic surveys in a variety of contexts. 
+
+
+recognises the multi-dimensionality of survey quality and follows the total survey error paradigm
+
+total survey quality optimization
+
+The book is targeted towards a range of survey practitioner roles. Survey designers, sponsors will find guidance on design decisions that are relevant for quality in chapters X and Y. They might also benefit from reading the introduction chapters to the following chapters. Survey implementer will find tips & tricks and best practices in chapters Z and ZZ to maximize quality for all main steps of survey implementation. Individual sections provide details for individual key roles, including trainers, translators, etc. 
+
+The book provides detailed steps and best practices for all survey phases. Survey practitioners are not encouraged to implement everything, as this would be beyond most surveys' budget and time constraints, and as there might be alternative methods with equally good outcomes. Survey practitioners can use the detailed information for those components that form part of their quality assurance plan, or use the detail to reflect on or improve own practices. 
+
+The book is a companion and go-to reference for survey practitioners aiming to improve the quality of the surveys they design and implement. The book follows the survey life cycle, and explaining the best practices and providing tips and tricks on how to achieve high quality surveys. 
+
+The book is very comprehensive on each of the survey phases. Readers are not expected to implement all how-to-guidelines listed in the book. Instead, the book is meant to be a collection best practices to achive high quality in surveys. Survey practitioners are encouraged to evaluate which improvements can be implemented within the context and constraints of their respective survey.
+
+
+Follows the total survey quality framework, and touches base on the survey design, implementation and analysis. 
+
+The book is written as companion for survey managers to help them take the right decisions, organize their team and works streams and how to obtain the right types of inputs in every phase of the survey to achieve high quality outputs. While providing a lot of detail in some parts, the book does not aim to be a comprehensive how-to-survey guide. Further guidelines and the input of experts are needed to achieve high quality surveys. 
+
+The tips and processes described in the book are not necessarily the only way of doign things. They have, however, proven to be effective in conducting surveys that produce good quality data and are huzzle-free and without bad surprises. We welcome comments that point us into alternative. 
+
+
+The book is divided into 6 parts. Part I provides a short introduction of key concepts of survey quality. It is the only theoretical part of the book. Parts II - IV follow the different stages of a survey life cycle from inception, design, preparation, training, fieldwork to post-field. Each part is comprised of several chapters. The first chapter to each part is an introduction that outlines the content of the remaining chapters and provides a "cheatsheet" version of our key recommendations, called [TL;DR](https://www.merriam-webster.com/dictionary/TL%3BDR).
+
+References for each chapter are added to the bottom. In the Appendix, you can find the list of Abbreviations and Acronyms, as well as a complete list of all references used throughout the book.
+
+The book is a living document that is being expanded and revised on an ongoing basis. Whenever we become aware of new best practices, we will try to integrate them into the book. The last update was made on `r format(Sys.Date(),"%d %B %Y")`. 
+
+Book is often written with reference to a LSMS-style household surveys implemented in cAPI (Survey Solutions) as most surveys are now. However, almost everything in the book applies generally to most survey types or other software packages. 
+
+## How to use this book{-}
+
+The book provides a lot of information and details that are probably difficult to absorb entirely and retain for the duration of the survey. 
+
+* For those who are managing one of their first surveys we recommend skim reading the document focusing on the introductions to each chapter and skipping the details. They summarize the key points and provide you with a general idea of what matters to achieve survey quality. Once the survey is underway, reading the relevant chapters prior to thinking about a phase will give you all the details you need at this point.  
+
+* Experienced survey managers who are curious about or aiming to improve certain aspects can read the relevant chapters only. 
+
+* The book is relatively extensive and contains a lot of detail. It is not written to be read in one go (we applaud your stamina if you do), but rather as go-to reference that can be visited during any stage of the survey to get relevant practical advice and learn about best practices.
+
+* Chapters are written to be independent of each other. Links to other chapters are added to where relevant information is  References are provided if they built upon other parts of the book or if more detail is provided elsewhere.
+
+* Use the search function to quickly find all occurrences of a word or phrase. Open the search function by clicking on the search icon on top or by typing `f` on your keyboard. Use the up and down arrow keys to navigate between different search matches.
+
+<!-- * You can download a printable pdf document of the current version of the book. For previous versions, check on GitHub. -->
+
+* You can edit the book! Yes, you read this correctly. If you come across anything that you think could be improved, from correcting typos to adding content to chapters, click on the edit icon on top. This will open the underlying file on github where you can make the modifications and submit them as a pull request (you will need a GitHub account). The book is written using Rmarkdown in [bookdown](https://bookdown.org/yihui/rmarkdown-cookbook). For most parts of the text, the syntax is following simple markup language, of which you can learn the basics in under 2 minutes. (For more experienced github & Bookdown user, you can fork the depository and make commits). If accepted, your suggestions will be added with the next version. 
+
+* If you have any suggestions but prefer to not edit the book, please list an [issue on GitHub](https://github.com/andreaskutka/happy-surveys/issues/new). Thank you!
+
+- You can share the book or any page you like using the sharing icons on the top right. Each chapter and subchapter have specfic links. Copy the link, either by 
+    - right clicking on the blue # icon next to the heading and copying the link address, or by
+    - clicking on the (sub)chapter in the table of content and copying the url from the browser. 
+
+
+
+
+## About The LSMS Guideline series{-}
+
+The LSMS Guidebook series offers information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies.
+
+## About the authors{-}
+
+Josefine Durazo ...
+
+Kevin McGee ...
+
+James Arthur Shaw ...
+
+Andreas Kutka ....
+
+## callout box examples{-}
+
+:::: { .fyi  data-latex=""}
+Did you know that ... this book is work in progress and in a pre-publish state. 
+something long
+and longer ahhds oh yeahaaahjkl
+::::
+
+:::: { .lightbulb  data-latex=""}
+Did you know that ... this book is work in progress and in a pre-publish state. 
+something long
+and longer ahhds oh yeahaaahjkl
+::::
+
+:::: { .warning  data-latex=""}
+Warning ... this book is work in progress and in a pre-publish state. 
+something longer
+::::
+
+:::: { .careful  data-latex=""}
+Warning ... this book is work in progress and in a pre-publish state. 
+something longer and longer ajetztabera test
+::::
+
+:::: {.errorbox data-latex=""}
+**DO NOT SHARE!**
+
+The book is work in progress and in a pre-publish state. 
+::::
 

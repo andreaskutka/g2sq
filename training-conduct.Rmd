@@ -1,7 +1,15 @@
 
-# Conduct the Training
+# Conducting the Training
 
-This chapter provides details on how to deliver a successful interviewer training that facilitates learning. It is broken into subchapters corresponding to a different session type.  
+This chapter provides details on how to deliver an effective and efficient interviewer training that facilitates learning without overstretching survey resources. The chapter assumes in-person training as is the case for most surveys conducted with in person interviews. The first subchapter covers general training considerations. The following chapters are organised by training module, provide details on the rational, optimal timing and good ways of conducting each respective module. See the field plan on how modules relate and when to deliver them.   
+
+* intended to be used by trainers 
+* fieldwork training 
+* recommendations
+ 
+Before you start, make sure the training is fully set up LINK PREPARATION.
+
+## General considerations
 
 In general, consider the following points for the training.  
 
@@ -25,9 +33,23 @@ In general, consider the following points for the training.
 
 - __Make it fun__! Let the last person entering the venue late and unexcused sing a song in front of the class to help with punctuality (Youtube is full of Karaoke videos). Play fun and exciting group games like Protect the egg or let trainees get to know each other in ice breakers. 
 
-## Welcome & introduction
+- __Use video & audio__. Some things are best demonstrated to interviewers, so they can see/hear what should and should not be done and learn from examples. Examples can be introduction to household, take anthropocentric measures, or other practical or non-scripted tasks. Use existing material, or collect video/audio material during pre-test, pilots and field practices to demonstrate good and bad practices to the class. 
 
-Before you start, make sure the training is fully set up LINK PREPARATION. At the beginning, introduce the survey, sketch out the training and field work plan and set the training rules. Keep it short so you can focus on content during this day. 
+- __Control the group__. Set rules on talking use of mobile phones, punctuality and enforce them. 
+
+- __Ask if you don't know.__ Keep notes of any scenarios that you do not know how to interpret and run them by relevant experts or decision makers in the evening. Provide feedback to the class once you have received the answer (ideally the following day).
+
+ If theTrainers should compile  survey designers are not present, questions need to be compiled, sent to them and answered quickly, so feedback can be given the following day.
+
+Trainees should attend all training days and must catch up in other ways if it has been inevitable to miss one session or day.  
+
+## Opening module
+
+speaches, importace, introduction big shots, try to keep short as much as political
+
+introduction of team, sure, can roatate, but people will not get to know ech other, will do in group practices and lunch etc. instead a short ice breaker 
+
+ At the beginning, introduce the survey, sketch out the training and field work plan and set the training rules. Keep it short so you can focus on content during this day. 
 
 Introduction to organization, the survey, the project/study, etc. Do not go into too much detail here and limit it to the essential. Interviewers do not need to know about the details of the analysis plan or the full history of surveys in the country. You can provide more details in the manual and refer trainees to it. 
 
@@ -37,15 +59,25 @@ Ask trainees to write their name on a name tag and carry it during the training.
 
 Set training rules. You can also print/write them on a poster. Examples: 
 
-- __Be on time__. Trainees must be on time in the morning and after breaks. Trainers should respect the schedule and not run over time.  
+- __Be on time__. Trainees must be on time in the morning and after breaks. Trainers should respect the schedule and not run over time. Late comers in the morning or after breaks could sing a song in front of class or donate to the cookie jar.  
 
-- __No phones, no side activities__. Trainees must pay attention and should not use their phones or have unnecessary side conversations. You could collect phones and keep them until the end of the day if someone is using them repeatedly.  
+- __No phones, no side activities__. Trainees must pay attention and should not use their phones or have unnecessary side conversations. Phone users could donate to the cookie jar or you could collect a phone and keep them until the end of the day if used repeatedly.  
 
 - __Trainees are responsible for their learning__. Trainees can read the manual, practice outside the class, learn from peers etc to make sure they understand everything. It is no problem - and is actually encouraged - to ask questions during or after the training, but it will be a problem to not understand something and not say anything. There is a transparent selection process and they must pass it. 
 
 - __Zero tolerance for cheating__. This is a high quality survey that collects valid data. Anybody being caught making up data or purposefully breaking protocols will be immediately dismissed. There is nothing to fear as long as one follows what has been taught during training and communicates special cases to the survey management. 
 
-## Introduction to CAPI 
+
+MICS: 
+
+The opening day should be kept light, but also set the stage for the task ahead:
+-	All trainers and members of the survey management should be introduced.
+-	One or more high level officials should be invited to give opening speeches.
+-	Each participant should introduce themselves (keep it short).
+-	The survey should be introduced along with key concepts and norms for the training and the agenda.
+-	Trainees should be briefed on all logistical arrangements and payments, so that they are not distracted by these details during the training.
+
+## CAPI use 
 
 You can train the questionnaire directly in CAPI if you are using Survey Solutions or another CAPI software that  
 
@@ -70,7 +102,6 @@ The fewer slides you have in the CAPI training and the more demo and practice yo
 If training the questionnaire directly in Survey Solutions, train on the following in the initial introduction to CAPI: 
 
 - A general overview, interviewer server, assignments, files, marking as complete, synchronizing to the server. Keep this part short.  
-
 - How to log-in to the Interviewer app. Make sure tablets and accounts have been set up prior to the training. How to create an interview file from their assignment.  
 
 - The general overview of the application and how to navigate through the questionnaire.  
@@ -95,12 +126,11 @@ The remaining functionality is best trained throughout the training on an as nee
 
 - How to receive rejected interviews, respond to comments, etc after the field test or the dress rehearsal, so trainees can practice it directly in interviews they have created. See details LINK TO SECTION.  
 
-## Questionnaire reading 
+## Questionnaire content 
 
-During the training, all questionnaires must be read and discussed in full, including all related definitions and concepts. Questionnaire reading sessions can be extremely dry and a waste of time if implemented badly. Follow below points to ensure the sessions are fruitful:   
+During the training, all questionnaires must be read and discussed in full, including all related definitions and concepts. Questionnaire reading sessions can be extremely dry and a waste of time if implemented badly. Follow below points to ensure the sessions are fruitful:
 
 - Allow for enough time. Do not underestimate the required time. Some survey firms, especially when coming from opinion surveys, only allocate a few hours for a single quick read of the questionnaire. This is not sufficient for complex socio-economic surveys where interviewers need to understand a wide range of concepts, definitions, and scenarios to correctly administer the questionnaire.  
-
 - Avoid long blocks of questionnaire reading. They are an information overload and make it impossible for trainees to internalize the content. Spread the questionnaire reading over several days and let trainees regularly practice the newly learned material in between.    
 
 - Apply the theory. Definitions for survey concepts such as “household”, “wage employed”, “self-employed”, “parcel”, etc. are very theoretical and hard for trainees to translate into the real world. Illustrate them with examples and scenarios to make them tangible for trainees. 
@@ -113,11 +143,30 @@ During the training, all questionnaires must be read and discussed in full, incl
 
 - Use your time effectively. There will always be a few rare cases in the population that the questionnaire does not cover well. Trainees love pointing those out, e.g. “But what if ….?” Get a feeling if these are frequent enough that they require you to update the questionnaire. If not, tell trainees to leave comments in the questionnaire if the situation arises in the field, and move on with the training, so that you have enough time to focus on the important concepts. If longer discussions arise on a certain point, clarify and stop the discussion. If you are not sure how to answer, get back to them the next day after having read up or consulted with the design team.  
 
-- Train the questionnaire directly in CAPI without training on paper first, if you use Survey Solutions or another CAPI software that provides a good overview of the questionnaire, makes routing behavior clearly understandable for interviewers and allows for free navigation (Do NOT do this with software that displays one question per screen). Training first on paper requires trainees to learn the instrument in two formats and often delays trainees becoming confident with the CAPI version. By training directly in CAPI, trainees only learn the questionnaire in the interface used in the field and learn from the beginning how to use and navigate it. It also reduces the material that needs to be covered.   
+- Train the questionnaire directly in CAPI without training on paper first, if you use Survey Solutions or another CAPI software that provides a good overview of the questionnaire, makes routing behavior clearly understandable for interviewers and allows for free navigation (Do NOT do this with software that displays one question per screen). Training first on paper requires trainees to learn the instrument in two formats and often delays trainees becoming confident with the CAPI version. By training directly in CAPI, trainees only learn the questionnaire in the interface used in the field and learn from the beginning how to use and navigate it. It also reduces the material that needs to be covered.
 
 - If the questionnaire is administered in other languages than the training language, display the questionnaire in the training language and ask interviewers to look at it in the translated local languages. For each question, ask it to be read in the training and local languages. This serves to verify the translation and to familiarize trainees with the questionnaire in the local language. Update the translations if anything needs correction. Ask the class for inputs or a dedicated person to help if there are many issues slowing down the training.  
 
-## Group practice 
+As trainees read questions loud, as a mini role play to mimic the interviewer-respondent interaction. Check for their interviewer intonation way of asking tone of voice etc. Give feedback and ask interviewers to repeat until correct. 
+
+MICS: "Training sessions for each module should start with an overall short introduction to the module topic conveying why the topic is of importance. This introduction can be done by the topical expert who needs to be instructed to be concise. The session should then proceed by a detailed description of each question with instructions on how to administer the question and follow the skip patterns. This session is done by MICS trainer, who will use examples to illustrate flow of interview. When appropriate, sessions must address established ethical protocols, ranging from how to handle private information or specifically how to deal with respondents volunteering information on unlawful behaviour either by themselves or others, or protocol when observation or measurement reveal critical conditions. 
+
+Every session should end with time allocated for questions and answers.
+"
+
+- Unfortunately, due to budget and time constraints, often changes have been implmented to the questionnaire or processes between pre-test and training that have not been field tested  when there are still changes to the instruments or  were introduced pre-testing was rushed or no full-scale pilot conducted prior. The training makes . In those circumstances, interviewer training also effectively serves as a field test of methodology. Crucial to reduce of specification error. 
+
+something on translation verification
+
+correct mistakes if you spot any.
+
+## Practicing
+
+Trainees should frequently practice learnt material in the form of group practicing, with respondents on-site or in the field. Different practice forms are not mutually exclusive. They fulfill different purposes and should occur at different stages of the training.
+
+mini role plays, 
+
+### Group practice 
 
 Frequent group practice sessions are important for trainees to familiarize themselves with the questionnaire, practice the use of CAPI, learn from peers, and to break-up the monotony of questionnaire training. 
 
@@ -137,7 +186,7 @@ Trainers should observe groups that have been allocated to them, correct mistake
 
 Debrief with the entire class immediately after the exercise. Ask groups for their written feedback and discuss and answer their questions in class involving input from other teams/trainees. Ask trainers to provide the feedback from their observations, explaining what was done wrongly and also how to do it correctly. Ask trainees who have been observed to do something well to demonstrate to the class (e.g. how to explain a concept/question), so that all can learn from good examples.
 
-## On-site respondents  
+### On-site respondents  
 
 While group practicing is a good way to get trainees familiarized with the instrument, the scenarios and concepts remain hypothetical and theoretical until trainees learn to apply them with actual respondents. The first exposure to the real-world often is during field testing, which can have some logistical downsides: It is time consuming to move trainees to the field and allocate them to respondents willing to participate. Also it is impossible for trainers to observe more than a handful of trainees who are scattered across many homes.  
 
@@ -153,7 +202,7 @@ If there is sufficient time, groups can switch respondents and conduct a second 
 
 Collect feedback, observe and debrief as described above in Chapter GROUP PRACTICE.
 
-## Field practice 
+### Field practice 
 
 The purpose of field practice is for trainees to get first experience in implementing the questionnaire with real respondents. There is no need to completely mimic field conditions as one does in dress rehearsals. Rather, aim to maximize the number of interviews each trainee can conduct and the number of respondents and scenarios they are exposed to. Prepare them well, observe trainees and collect good feedback to make them a success.  
 
@@ -173,55 +222,89 @@ Try to observe as many of the pairs as possible, help and correct where necessar
 
 Collect as much feedback as possible from trainees __before__ you leave the community. It becomes much harder later and the quality of the feedback decreases rapidly. As pairs of trainees arrive back at the meeting place, ask for their written notes, debrief quickly with each pair, clarify any issues they had, and record general feedback for the class. 
 
-After each field test, hold a general debrief session with the entire class in which you respond to the written feedback from the team, answer any questions, and provide feedback from your observations. This might involve short retraining of concepts or questions that have been ill understood, practicing or role plays. Clarify all issues prior to the next field test. It is normal for quite a few things to go wrong in the first preptest and to improve quickly.   
+:::: { .warning  data-latex=""}
+Often trainers assume that the questionnaire is working well and that interviewers are able to administer it correctly because they did not report any issues during feedback sessions. This assumption is wrong. Many issues cannot be identified by interviewers, are forgotten or not reported. Those reported are biased towards trainee’s concerns, e.g. they are quick to report something that caused extra effort from their side. Trainers must observe interviews being conducted and compile their own feedback. To receive meaningful feedback from trainees, trainees must note down issues or questions as they experience them and must be debriefed shortly after conducting interviews.
+::::
 
-Sometimes, you can debrief to some extent directly in the field in an empty classroom, a community centre, the shadow of a big tree, etc. This way interviews are still fresh in everyone's head and there is no need to go back to the classroom after the transport back from the field. If you are required to debrief the same day in the classroom, make sure to leave the field in time and to allow for a long break, as everyone tends to be really tired after field practicing, especially after the transport back.  
+After each field test, hold a general debrief session with the entire class in which you respond to the written feedback from the team, answer any questions, and provide feedback from your observations. This might involve short retraining of concepts or questions that have been ill understood, practicing or role plays. Clarify all issues prior to the next field test. It is normal for quite a few things to go wrong in the first field test and to improve quickly.   
+
+Sometimes, you can debrief to some extent directly in the field in an empty classroom, a community center, the shadow of a big tree, etc. This way interviews are still fresh in everyone's head and there is no need to go back to the classroom after the transport back from the field. If you are required to debrief the same day in the classroom, make sure to leave the field in time and to allow for a long break, as everyone tends to be really tired after field practicing, especially after the transport back.  
 
 Design your training schedule such that field practicing days are followed by classroom days, so you can have a detailed debrief session in the classroom with the big screen and other all required facilities.  
 
-:::: {.infobox data-latex=""}
-**WARNING!**
 
-Often survey managers assume that a question/module/protocol is working well and that the team is implementing it correctly because interviewers did not report any issues during feedback sessions. This assumption is wrong. Many issues cannot be identified by interviewers, are forgotten or not reported. Those reported are biased towards trainee’s concerns, e.g. they are quick to report something that caused extra effort from their side. Survey designers, analysts and trainers must observe interviews and compile their own feedback. To get meaningful feedback from trainees, trainees must write down issues or questions as they experience them and must be debriefed shortly after conducting interviews.
-::::
 
-## Role plays 
+## Interviewing techniques 
 
-Trainees must master a range of interviewing skills that are crucial to collect good quality data. Examples are:  
+In addition to understanding the questionnaire content, interviewers must master a range of interviewing techniques that are crucial to collect good quality data. Some examples are:  
 
-- The way interviewers introduce themselves, the survey and ask for participation is a big determinant of response rates and the perception of the survey and the organization in the population. Part of this is sometimes written up in consent statements, but in reality interviewers interact with respondents before they get to this point. It is important to get this interaction right and standardized across the team. 
+- __Introduction and interview request__: Being able to convince respondents to participate in the survey is key to keep unit non-response error low, particularly in urban areas or other settings with high refusal rates.
 
-- Socio-economic surveys can be complex. Often respondents don’t know the answer on top of their head, did not understand or misinterpreted the question or might digress and talk about something else. Interviewers need to learn how to inquire correctly to get the answers they need and lead the conversation. 
+- __Interview continuation__: Being able to keep respondents engaged in lengthy interviews and stop them from prematurely ending the interview is important to minimize item non-response and measurement error.
 
-- In long interviews respondents often respond fatigue kicks in. Interviewers need to learn how to keep respondents mentally engaged and prevent them from stopping the interview.    
+- __Inquiring__: Respondents often do not understand or misinterpret a question, give incomplete answers, respond *"I don't know"* or do not want to disclose some information. Interviewers need to be able to get respondents to answer all questions in a neutral and non-leading manner. 
 
-Most of those skills are about the correct wording, attitude, intonation of voice, posture or gestures, etc. To learn, interviewers have to see and hear what they should and should not do, and learn from positive examples, e.g. from other trainees that are doing something very well. Interviewing skills are best learnt and practiced in role plays. 
+- __Controlling interviews__: Respondents sometimes digress, give lengthy explanations, or talk about other things. Interviewers need to be able to lead the conversation in a pleasant and courteous manner to maintain the respondent's cooperation. 
 
-For a role play, explain a scenario, what they can and cannot do, any tricks there are to do it well or any things they must avoid. Select a trainee (more on selection, see LINK SELECTION) to act as interviewer and if needed one to act as respondent. Often it is more useful for the trainer to act as respondent as it allows you to better drive the conversation. Ask selected trainees to come to the front or just stand up and speak towards the class, which is often faster.  
+Unfortunately, these interviewing techniques are rarely trained. Instead it is assumed that interviewers automatically know them or will learn them over the course of the survey. In reality, while some interviewers are experienced or naturally good at it, many others struggle or resort to undesirable practices such as making wrong promises to obtain consent or leading responses. This can exacerbate interviewer effects and lead to high levels of measurement error and unit and item non-response. Teaching trainees that are not good a task the skills of those that are mitigates these effects, e.g. see @Groves2001.
 
-Put them into the context of the scenario and ask them to act as if you were a real respondent, speaking loudly so the entire class can hear. Give them feedback on what they have done well and what not. Ask the class for inputs. Not only does it make it more interactive and fun, but often the best responses depend on the culture and context. If what the trainee said could be improved, ask them to do it again, collect and give feedback and repeat it until the trainee does it well. Practice with as many trainees as possible or until the scenario generally works well. This can be quite a lot of fun and is a good way of breaking longer theoretical sessions.  
+Teaching interviewing techniques goes beyond theory. All features of communication are relevant for the interaction between interviewers and respondents, including the choice of words, tone of voice, volume, as well as attitude, facial expressions or gestures. To learn a technique, trainees have to see and hear what they should and shouldn't do, and learn from good examples. To be able to put techniques into use, trainees need to repeatedly practice and receive feedback until they are able to (re)act correctly and quickly.. 
 
-Some examples. 
+Which interviewing techniques are best trained depend on the survey. Interviewers can face different challenges in the field. For example, refusals may be rare in a household survey, but very frequent in a enterprise survey, requiring dedicated training on how to address them. In addition, best practices often are sensitive to the culture and context, e.g. how to inquire if respondents are hesitant to disclose their income. Therefore, the training agenda on interviewing techniques usually needs to be tailored to each survey.
 
-To practice introduction, select one trainee, ask them to stand up, tell them that they just knocked at a door, and that they should introduce themselves and ask for participation. Check that they are giving all necessary information, that they say nothing wrong, how easy they are to understand, etc. Let the trainee repeat their introduction until it is correct in content and well presented.  
+### Identify challenges and responses
 
-To practice convincing respondents to participate, ask interviewers to introduce as above, but this time act as a respondent giving responses that are commonly used by people not initially willing to participate, such as _“I am busy now”_ or _“What do I get out of this?”_. With the class, find good ways to respond to each of them and practice with trainees how to respond to them and  
+To establish which interviewing techniques are most relevant for the survey and should be trained, first compile a list of the key challenges that interviewers are expected to face in the field and need to be prepared for. Focus on those that are most common and have the biggest effect on survey error. Consider any response, concern or action by the respondent or any other situation that can negatively affect data quality if interviewers do not apply the right technique. Examples are:
 
-Practice difficult situations that come up in interviews, such as _“How much longer is this going to take? I really need to do …”_, parts of the questionnaire that require inquiring, such as _“I don’t know how many square meters one MELGA is”_ or scenarios that you have observed in interviews during practicing or had feedback about. 
+- respondents refusing an interview stating reasons related to time, etc.
+- other members trying to listen to sections to be administered in privacy
+- respondents unable to quantify consumption amounts in units
+- long and damaging breaks if tablet needs to be restarted
+- error messages flagging gross mismatch in harvest quantities, land size and sale prices
+
+Record different ways in which a challenge may manifest itself or how the interviewer can recognize them in the field, using colloquial terms or used by respondents where it applies. As an example, respondents may say *"I am really busy "*, *"I need to leave"* or *"I need to cook/wash/..."* when refusing and stating reasons related to time.
+
+For each challenge, identify good interviewer responses. These can include verbal responses actions or procedures. Often, there is no single response to a challenge that works equally well with all respondents and in all circumstances. Good interviewers often have a repertoire of responses and tailor them to observable features of the respondent or the context. For example, if a respondent refused based on time and appears to be rushed or pre-occupied about something (e.g. fighting children) the best response tends to be to ask for a different moment, e.g. by saying *"I see that now is difficult. When would be a good moment for me to come back?"*. However, if the respondent refuses because they have to do a chore but seems generally collaborative, it is often good to offer to do the interview while they do their activity. 
+
+For each challenge, also record bad practices or responses that interviewers should avoid, if there are any. As an example, if respondents do not know the quantity consumed of an item, a bad probing practice would be say *"Was it maybe 1 kg?"*, as this is leading the respondent to answer 1 KG. 
+
+Allocate challenges and responses into separate modules by topic, importance and anticipated time required to train. It is usually good to have at least one module on *Introduction and interview request*, one on *Inquiring and controlling interview* and one on *Challenges observed during field testing*. You might need additional modules on key questions or sections, such as *Estimating land size* or *Conducting consumption module*. 
+
+Ideally, challenges and responses should be compiled prior to the training to facilitate planning and make training sessions more productive. Use a combination of any of the following sources to identify challenges and responses:
+
+- experience from previous surveys with similar context, populations and subject
+- focus groups with experienced interviewers
+- observations and feedback from pre-test or pilots
+
+If you are unable to prepare prior to the training, use challenges and responses observed during field practice sessions or hold short "focus groups" with the class at the beginning of each module. 
+
+See HERE be a core set of challenges and responses that are common to many surveys. && NOTE: WOULD IT MAKE SENSE TO COMPILE ONE?
+
+### Train & Practice
+
+Schedule modules on interviewing techniques just prior to field practice and final field tests so trainees can apply the techniques soon after. Additionally, you might need to schedule some modules after field practice and field test to practice new situations that came up during field practice or retrain those that do not yet work well. Module between 45 min and 1.5 hrs tend to be sufficient to cover one core topic. 
+
+For each module, first train interviewers on what challenges are likely to occur and what the best response are. Project the list of challenges, categories and good responses on the big screen. Work through each category, identifying together with the class the ways in which challenges may manifest themselves and any tips and tricks for a good response. Also cover bad practices that interviewers should avoid. Ask trainees that are good at a technique (experienced or good inter-personal skills) to demonstrate the best practices in front of class in a role play. Give feedback if necessary and ask the class for input to get consensus and make sure responses are appropriate for culture and context. Try to keep this part short.
+
+After having covered the theory, drill trainees until they are able to respond to a challenge quickly, correctly and in a natural manner. This is best done by asking trainees to simulate the interviewer-respondent interaction in front of class in a role play, providing immediate feedback and letting them repeat if necessary. Depending on class size and skill level, it might be best to divide the class into large groups, each supervised by a trainer. 
+
+To practice, select one trainee to act as interviewer and if needed another one to act as respondent. Usually, it is more useful for the trainer to act as respondent as it allows them to better drive the conversation. Ask the selected trainee to come to the front or just stand up and speak towards the class, which is often faster. Explain the scenario and challenge and ask the trainee to re-enact the interviewer response as if it was a real field situation, speaking loudly so the entire class can hear. Give feedback on what they have done well and what not. Ask the class for inputs. If the response could be improved, ask the trainee to repeat the response. Collect feedback, correct them and ask them to repeat until the trainee does it well. Practice with as many trainees as possible or until the response generally works well. This can be quite a lot of fun and is a good way of breaking longer theoretical sessions.  
+
+Two examples to illustrate: 
+
+To practice introduction to the survey, select one trainee, ask them to stand up, tell them that they just knocked at a door, a certain type of person opened, that they should introduce themselves and ask for participation. Check that they are giving all necessary information, say nothing wrong, are easy to understand, use the right tone of voice, have good facial expressions and gestures, etc. Collect feedback from the class. Ask the trainee to repeat their introduction until it is correct in content and well presented.
+
+To practice asking for participation, ask a selected trainee to make an introduction and ask for participation as above. Act as respondent who is unwilling to participate, stating one of the challenges discussed in the training, such as such as _“I am really busy now”_ or _“What do I get out of this?”_. Ask the trainee to respond and convince you to participate. Again, together with the class, check if the trainee's response was quick, correct and natural. Give feedback on possible improvements and let the trainee repeat their response until satisfactory.   
 
 ## Special tasks 
 
 For some surveys interviewers need to learn a special task that requires repeated and structured practice until they can perform it correctly and on auto pilot. As a trainer, you need to identify trainees who are struggling with the task and be aware of scenarios that cause issues. Examples for special tasks are:  
 
 - Plot size measurement 
-
-- Collecting samples, e.g. to measure water quality 
-
-- Behavioral games 
-
-- Extracting information from registries, records, etc 
-
 - Anthropometry 
+- Collecting samples, e.g. to measure water quality 
+- Extracting information from registries, records, etc. 
+- Behavioral games 
 
 Typically, these tasks require interviewers to strictly implement a protocol, use additional tools or aids or understand differently structured documents. Explaining the theory and going through one example is not enough. You need to practice in a structured way and evaluate trainees, exposing them to different scenarios if necessary. The best way of doing this depends on the task at hand.  
 
@@ -239,11 +322,14 @@ If a task is very complicated, requires special background knowledge or if there
 
 - Medical tests, such as taking blood pressure or measuring hemoglobin values. This often requires the use of specialized equipment and trained nurses. 
 
-Training any of those tasks can take several days. For example, learning outcome assessments require trainees to handle test booklets, CAPI and a timer all at once while keeping a young child engaged. It usually takes days to practice until all trainees can conduct the assessment tests in a homogenous way, and not everyone is good at it. 
+Training any of those tasks can take several days. For example, learning outcome assessments require trainees to handle test booklets, CAPI and a timer all at once while keeping a young child engaged. It usually takes days to practice until all trainees can conduct the assessment tests in a homogenos way, and not everyone is good at it. 
 
 Train selected trainees in separate sessions in parallel to the interviewer training. Practice all components of the task, including the equipment use, measurement reading, and interaction with the respondent. Invite practicing respondents to the training venue to practice the human component and create closer to field conditions. For more details, see section Inhouse respondents.  
 
 For anthropometrics, the components that need to be practiced include the correct setup of scales and height/length boards, taking the measurements, how to treat the children/babies, reading the measurements (careful, some are dislexic), and recording them. At the beginning, the measurements taken for the same person differ quite a bit between trainees. Practice until they converge after a few days.
+
+
+* parallel sessions
 
 ## Responding to inquiries 
 
@@ -290,3 +376,17 @@ Make sure field teams arrive early in the communities, so that interviewers have
 Collect feedback and debrief as described in chapter FIELD PRACTICE. Ask all interviewers to submit their interviews at the end of the day. Use the data to finalize your data system (link DATA SYSTEM) and quality control system, e.g. by updating the data checks. Review submitted interviews using the standard processes of the quality control system. In addition, visually review as many cases as possible and compile feedback for interviewers and the quality assurance team.  
 
 The data collected during dress rehearsal is a great way to learn and practice receiving feedback with the team, see chapter feedback.
+
+## Supervisor Training
+
+check DHS, has some material 
+
+
+## Data Monitor Training
+
+## Trainer meeting
+review feedback, 
+review test results
+progress
+include predetermined supervisors
+
