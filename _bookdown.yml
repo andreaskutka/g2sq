@@ -9,7 +9,7 @@ rmd_files:
 - preparation.Rmd
 - preparation-instruments.Rmd
 - training-introduction.Rmd
-- training-plan-and-prepare.Rmd
+- training-planning-preparation.Rmd
 - training-conduct.Rmd
 - training-assessment.Rmd
 - fieldwork.Rmd

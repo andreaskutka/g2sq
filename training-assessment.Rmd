@@ -30,7 +30,10 @@ if pre-determined supervisors data mmonitors or other roles, they have to attend
 
  
  
+Different fieldworker roles can be trained in parallel training sessions. These can start from day 1 if there is no overlap in questionnaires/tasks and if different profiles of trainees have been recruited for different roles, e.g. trained nurses to conduct anemia tests. If not, it is usually useful to start parallel sessions after a few days of general training once there is a clearer picture of trainees' capabilities and personalities.  E.g. measurers need ot eb good with kids and practice, good number rading skills, but do not need to understand all concepts in a long hh questionnaire. Allows to trainees that perfroma ccordingly in the training. 
 
+
+slower ones might become the best interviewers. 
 
 ## Written Tests 
 
@@ -52,7 +55,7 @@ Write questions clearly and that they can be clearly answered unambiguously. Goo
 
 - List things and ask trainees to select all that apply, e.g. select all those people who would be household members according to a definition, all the jobs that are considered a self-employment, etc   
 
-Avoid putting many questions with a simple yes/no or true/false answer. They can be answered 50% correctly by just randomly selecting an answer. Include numeric questions and multi-select questions that require a combination of answers to be selected to be correct.  
+Avoid putting many questions with a simple yes/no or true/false answer. They can be answered 50% correctly by just randomly selecting an answer and are no good indicator of level of understanding. Instead, include more numeric questions and multi-select questions that require a combination of answers to be selected or steps to e taken to be correct.  
 
 Don’t make it too obvious. Sprinkle irrelevant or misleading information into the question text or scenarios. Add “Don’t have enough information” as an answer option. For multi-select answer questions, make sure the wrong options are plausible, and occasionally use only correct or wrong options. Avoid open-ended questions, unless you have enough resources to review and score them for all trainees. 
 
@@ -98,9 +101,9 @@ Sometimes discussions arise if test questions were ambiguous or if trainees feel
 
 Keep an Excel sheet or other systematic record that for each test records the total number of points possible, and the points achieved by each trainee. Calculate a total score and ranking. With tests probably not being equally long or difficult between the days, you probably want to calculate the total score as the sum of points achieved over the sum of total points possible. In the sheet, also record marks and comments from observations, see the following chapter. 
 
-## Evaluating soft skills 
+## Evaluating skills 
 
-Understanding the questionnaire alone does not make a good field worker. Other “soft” skills are equally important and must be observed during the training to inform a good field worker selection. Examples are the ability to use a tablet and CAPI, friendliness, seriousness, thoroughness, motivation, intonation of voice, etc.  
+Understanding the questionnaire alone does not make a good field worker. Other skills are equally important and must be observed during the training to inform a good field worker selection. Examples are the ability to use a tablet and CAPI, friendliness, seriousness, thoroughness, motivation, intonation of voice, etc.  
 
 Observing those skills with all trainees and evaluating their qualification as fieldworkers during the training requires you to be systematic, produce comparable scores and make good use of all sessions. Doing it “just like that” without a systematic marking and non comprehensively is not fair and becomes quickly unfeasible to get a comprehensive picture if there are more than a few trainees. There is benefit in identifying as early as possible if trainees do not possess any of the key skills, so you can still address it in the training, e.g. by giving additional extra tablet/CAPI practice sessions for those not comfortable enough using the tablet or software. 
 
@@ -175,7 +178,7 @@ Ideally, the skill matrix also contains the results for every test and the overa
 
 If needed, you can calculate an average score across all skills for each trainee and also combine it with the test result to obtain a single score only, but be aware that the individual components might be quite different and best not be aggregated, or might have to be  weighted differently. Always also rely on the individual components if referring to the aggregate.  
 
-### Rate 
+### Rate skills
 
 A fieldworker training only provides you with a short amount of time to do a comprehensive rating of trainees skills, so start as early as possible and rate in all phases of the training.  
 

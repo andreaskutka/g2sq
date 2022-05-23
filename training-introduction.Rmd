@@ -20,7 +20,7 @@ This part of the book gives recommendations on how to implement fieldwork traini
 
 Readers who are interested in a cheatsheet version can read the key recommendations for fieldwork training in the [TL;DR](#tldrtraining) below. Those looking for more detail will benefit from reading the respective chapters. 
 
-Chapter \@ref(planning-and-preparing) [Planning and Preparing] is targeted at survey designers, managers, fieldwork managers, trainers or any other role that is involved in the planning, budgeting and preparation of the fieldwork training. It provides recommendations on the training location, timing, size, the trainers, training content and schedules, and includes checklists of the key items to prepare prior to the training. 
+Chapter \@ref(planning-and-preparation) [Planning and Preparation] is targeted at survey designers, managers, fieldwork managers, trainers or any other role that is involved in the planning, budgeting and preparation of the fieldwork training. It provides recommendations on the training location, timing, size, the trainers, training content and schedules, and includes checklists of the key items to prepare prior to the training. 
 
 Chapter \@ref(conducting-the-training) [Conducting the Training](#conducting-the-training) gives useful recommendations on how an effective and efficient fieldwork training can be conducted. It provides extensive details and step-by-step guides for different training modules. It is mainly targeted towards trainers and is best during training preparation and the training itself.
 

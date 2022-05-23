@@ -1,6 +1,11 @@
 
 # (PART) Preparation {-}
 
+# in field sampling (For design)
+
+if in-field sampling, has to be traceable, and recreateble, e.g. write numebrs in book, use kish tables, send data to HQ if there is internet remove all possibility of interviewers to ahve an influence over selection. 
+
+
 
 # Introduction to preparation {-}
 
@@ -9,6 +14,17 @@ work in progress
 # Fieldworker recruitment
 
 general rule, smaller teams better, easier to keep track off, higher interviewer effect, so need to streamline and monitor. 
+
+
+special roles:
+for separate tasks, split roles. for example, dedicated anthropomterics staff, 
+
+less content for all trainees, can specialize and get good at it, more time to train and learn properly
+
+requires parallel training. 
+
+
+
 
 
 check DHS, quite comprehensive.
