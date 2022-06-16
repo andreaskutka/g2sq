@@ -4,7 +4,7 @@
 
 Fieldwork training is arguably one of the most important activities of any survey and has one of the biggest impacts on data quality. It serves several purposes: 
 
-1. __Build fieldworker capacity__. In-depth content training, extensive practicing and capacity-based selection ensure that fieldworkers are capable of implementing the survey as designed. This is key to limit [measurement](#measurement-error) and [nonresponse error], as well as [coverage](#coverage-error) and [sampling error] if the survey includes listing and in-field sampling.  
+1. __Build fieldworker capability__. In-depth content training, extensive practicing and capability-based selection ensure that fieldworkers are capable of implementing the survey as designed. This is key to limit [measurement](#measurement-error) and [nonresponse error], as well as [coverage](#coverage-error) and [sampling error] if the survey includes listing and in-field sampling.  
 
 1. __Standardize fieldworker behavior__. Repeated practicing under supervision and continuous feedback streamlines how fieldworkers implement the survey. Reducing idiosyncratic behavior is important to mitigate the very damaging [fieldworker effects](#impacterror).
 
@@ -18,21 +18,22 @@ Unfortunately, in many surveys fieldwork training is not effective in producing 
 
 This part of the book gives recommendations on how to implement fieldwork training that effectively prepares field workers while not while not overburdening trainers or overstretching survey resources. It assumes fieldwork training to be in-person, as is custom for most socio-economic surveys with personal interviews. For remote training, check XYZ ??QUESTION Do we have any resources?   
 
-Readers who are interested in a cheatsheet version can read the key recommendations for fieldwork training in the [TL;DR](#tldrtraining) below. Those looking for more detail will benefit from reading the respective chapters. 
+Readers who are interested in a cheatsheet version can read the key recommendations for fieldwork training in the TL;DR below. Those looking for more detail will benefit from reading the respective chapters. 
 
 Chapter \@ref(planning-and-preparation) [Planning and Preparation] is targeted at survey designers, managers, fieldwork managers, trainers or any other role that is involved in the planning, budgeting and preparation of the fieldwork training. It provides recommendations on the training location, timing, size, the trainers, training content and schedules, and includes checklists of the key items to prepare prior to the training. 
 
 Chapter \@ref(conducting-the-training) [Conducting the Training](#conducting-the-training) gives useful recommendations on how an effective and efficient fieldwork training can be conducted. It provides extensive details and step-by-step guides for different training modules. It is mainly targeted towards trainers and is best during training preparation and the training itself.
 
-LSMS recommends to continuously evaluate trainees throughout the training and to select fieldworkers based on capacity at the end. Chapter \@ref(assessment-selection) [Assessment & Selection](#assessment-selection) is mainly targeted towards trainers and gives step-by-step guide on how to effectively implement written tests, systematically evaluate skills and select fieldworkers. 
+LSMS strongly recommends a capability-based selection of fieldworkers at the end of the training, informed by a continuous evaluation of trainees throughout the training. Chapter \@ref(assess-select) [Assess & select fieldworkers](#assess-select) is mainly targeted towards trainers and gives step-by-step guide on how to effectively implement written tests, systematically evaluate skills and select fieldworkers. Survey desigeners and managers may be interested in reading about the benefits of this approach that are summarized at the beginning of the chapter.  
+  
+  
+:::tldr
+<h2>TL;DR<span style="color:#17BEBB;">.</span></h2>
+Follow below key recommendation to ensure a successful fieldworker training. 
 
-## TL;DR{- #tldrtraining}
+1. __Train an excess of at least 20% of fieldworkers__ to allow for meaningful competency-based fieldworker selection at the end to have a fieldworker reserve. If working with unknown teams, mainly new recruits, or expect high attrition, increase the excess to 40% to ensure capable fieldworkers. 
 
-Follow below key recommendation to ensure a successful interviewer training. 
-
-1. __Train an excess of 40% of fieldworkers__ to allow for trainee attrition, competency-based fieldworker selection and to have a fieldworker reserve. This can be reduced to 20% if you are working with experienced teams with low attrition. Anything less does not allow for a meaningful selection process. 
-
-1. __Select based on skills__. Continuously evaluate trainee performance and capacity in written tests, role plays, questions in class and observing them while practicing. Select fieldworkers at the end of training in a transparent process based on their capacity and skills. 
+1. __Select based on skills__. Continuously evaluate trainee performance and capability in written tests, role plays, questions in class and observing them while practicing. Select fieldworkers at the end of training in a transparent process based on their capability and skills. 
 
 Select roles based on skills__ who wil be supervisor, data monitors, etc 
 
@@ -65,15 +66,6 @@ Select roles based on skills__ who wil be supervisor, data monitors, etc
 
 1. __Only select capable interviewers__. Only select interviewers that have demonstrated full understanding and capability of satisfactory and reliable completion of required tasks. If there are more than needed and you have flexibility, you can  have slightly more teams operate over shorter time as long as overall size is kept at bay.  If not enough trainees are available, extend training.    
 
+1. __Specialize fieldworkers__. For surveys with many questionnaires or special tasks such as anthropometric measurements often it is too much material for trainees to learn how to do well in a short amount of time. See if you can divide tasks between different fieldworker roles and train them in parallel. 
 
-## notes
-
-- debriefing fter interviews
-
-- retraining, when 
-
-- quality assurance mechanisms 
-
-- keep notes to write training report, for documentation and to learn for future rounds. 
-
-- design training prrotocols
+::: 

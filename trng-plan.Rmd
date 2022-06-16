@@ -1,13 +1,13 @@
 
-# Planning and Preparation
+# Planning and preparation
 
 The chapter presents recommendations for survey designers, survey managers and trainers on how to plan and prepare an effective and efficient fieldwork training. Fieldwork training should be planned well in advance and must be well prepared. They usually consist of a main interviewer training and separate training for supervisors, data monitors or other fieldworker roles.    
 
-Survey designers, take note of the chapters duration, training size and trainees, as they are budget and timeline relevant. For survey managers and trainers all sub-chapters are relevant to plan and prepare solid  fieldworker training.
+Survey designers, please take note of the sub-chapters [training size](#training-size), [trainers](#trainers) and [Timing & duration](#trainingduration), as they are budget and timeline relevant. For survey managers and trainers all sub-chapters are relevant to plan and prepare a solid fieldworker training.
 
-## Training size 
+## Training size {#trainingsize}
 
-LSMS strongly recommends to train more trainees than are ultimately needed as fieldworkers, i.e. as interviewers, supervisors, data monitors or other roles. This allows for a [competency-based selection](#assessment-selection) of fieldworkers at the end of the training. Training more people than needed also compensates any attrition of trainees during the training and builds a reserve of already trained persons that can be brought up to speed relatively quickly during fieldwork, should fieldworkers need to be replaced.
+LSMS strongly recommends to train more trainees than are ultimately needed as fieldworkers, i.e. as interviewers, supervisors, data monitors or other roles. This allows for a [competency-based selection](#assess-select) of fieldworkers at the end of the training. Training more people than needed also compensates any attrition of trainees during the training and builds a reserve of already trained persons that can be brought up to speed relatively quickly during fieldwork, should fieldworkers need to be replaced.
 
 Train __at least 40% more fieldworkers__ than are required if you are working with unknown trainees, a new implementing partner or in a new context. For example, train at least 56 people if you are aiming for 40 fieldworkers. Even if some drop out before the end of the training, this still allows you to not select some of the trainees that are not up to the task. You can reduce the excess to 20% if you are working with experienced teams who you have worked with before and if you are expecting few trainees to drop out during the training. Training less than 20% additional people is not recommended as it prohibits a meaningful fieldworker selection process. 
 
@@ -17,7 +17,7 @@ Often, some trainees will drop out during the training, particularly after day 1
 In some surveys, there have been walk-outs of trainees, often towards the end of the training, in which trainees collectively refuse to continue the training or fieldwork unless their demands are met. Usually, there is no time or budget to repeat the training with other trainees, leaving survey management in a very weak bargaining position and putting the survey itself at risk. Avoid walk-outs by setting fair [fieldworker terms and conditions](Fieldworker terms), making them clear to trainees prior to the training, and asking them to agree by signing a copy of the terms and conditions. 
 ::::
 
-In many circumstances it is beneficial to select supervisors, data monitors and any other fieldwork roles from the pool of trainees based on their performance and capabilities observed during the training (see [Assessment & Selection](#assessment-selection)). If any of the fieldwork roles are predetermined, the designated persons should participate in the fieldwork training without being counted towards the trainees excess (and demonstrate full understanding of the trained material).  
+In many circumstances it is beneficial to select supervisors, data monitors and any other fieldwork roles from the pool of trainees based on their performance and capabilities observed during the training (see [Assessment & Selection](#assess-select)). If any of the fieldwork roles are predetermined, the designated persons should participate in the fieldwork training without being counted towards the trainees excess (and demonstrate full understanding of the trained material).  
 
 Keep the number of trainees as small as possible, __ideally below 50 trainees__, which corresponds to around 36 fieldworkers. Learning outcomes quickly decrease with increasing class size, as each trainee receives less supervision and personal feedback and as it is more difficult for trainers to keep track of trainees' performance. If possible, adjust the fieldwork plan, so that fewer fieldworkers work over a longer period of time and fewer fieldworkers need to be trained. See Chapter [Fieldworker Recruitment](#fieldworker-Recruitment) for other benefits of having a smaller field team.  
 
@@ -88,7 +88,7 @@ __Supervisor training__: Supervisors must learn how to manage field teams, manag
 
 __Data monitor training__: Data monitors need to learn all the tools and background information necessary to be effective in their roles, including how to review interviews, conduct re-interviews review audio, how to interpret summarized information, how to provide effective feedback to fieldworkers, how to compile feedback for survey management and archiving. 
 
-## Timing & Duration 
+## Timing & duration {#trainingduration}
 
 Fieldwork training should be held __just prior to the start of fieldwork__, with a maximum of 1-3 days between training and fieldwork to allow for administrative matters, a rest day travel to the field. An immediate fieldstart with strong supervision and feedback in the first few days is the best way to ensure the survey is being implemented as trained and that fieldworker behavior is streamlined. 
 
@@ -192,6 +192,33 @@ schedule[,2:4] %>%
   kable(escape = FALSE) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
   pack_rows(index = days, label_row_css = "background-color: #666; color: #fff;")
+```
+
+new old 
+
+```{r training_schedule_2, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+library(kableExtra)
+options(kableExtra.html.bsTable = T)
+options(knitr.kable.NA = '')
+library(readxl)
+
+schedule <- read_xlsx("resources/training_schedule.xlsx", 
+                      sheet = "new",
+                      col_types = c("numeric","text","text","text"))
+schedule$Module <-  cell_spec(
+    schedule$Module,
+    popover = spec_popover(
+      content = schedule$Explanation,
+      title = NULL,  # title will add a Title Panel on top
+      position = 'auto')
+    )
+days <- rle(schedule$Day)$lengths
+names(days) <- paste("Day",rle(schedule$Day)$values)
+
+schedule[,1:3] %>%
+  kable(escape = FALSE) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, bold = T)
 ```
 
 ## Location

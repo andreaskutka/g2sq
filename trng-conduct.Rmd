@@ -1,5 +1,5 @@
 
-# Conducting the Training
+# Conducting the training
 
 This chapter is targeting trainers and provides details on how to deliver an effective and efficient interviewer training that facilitates learning without overstretching survey resources. The chapter assumes in-person training as is the case for most surveys conducted with in person interviews. The first sub-chapter covers general considerations for the training. The remainder of the chapters is organised by training module. Each sub-chapter provides details on the rational, optimal timing and recommendations for the implementation of the respective module. See the [training schedule](#trainingschedule) in Chapter \@ref(planning-and-preparation) on how individual modules relate and are best combined.   
 
@@ -43,6 +43,9 @@ must be aligned all the way from how it has been designed to how it is fielded. 
 - __Zero tolerance for cheating__. Make it clear from the beginning that there will be serious consequences for anybody being caught intentionally making up data or purposefully breaking protocols (ideally being immediately dismissed). Also make clear that fieldworkers have nothing to fear as long as they follow what has been taught during training and check with supervisors or fieldwork managers if there are any situations they are unsure about. 
 
 - __Daily trainer meeting__. Trainers should meet daily at the end of the day to compare notes, evaluate progress and trainee performance, review tests and class feedback and plan the following day(s). Include supervisors if they are pre-determined.
+
+- __Document__. Throughout the training, note down any changes to the methodology, known problems and general training details, so the details are available available for data documentation and to inform for future rounds. 
+
 
 ## Opening module
 
@@ -136,7 +139,7 @@ Trainees must understand in detail the entire questionnaire(s), including the un
 
 - __Update the questionnaire & CAPI__. Depending on the level of pre-testing, piloting and subsequent change, the questionnaire, CAPI and translations may still contain issues that are uncovered during the questionnaire content training. Ideally, trainers not actively leading the training can make immediate corrections, as it tends to be less time consuming and allows corrected versions to be used sooner during the training. Be consistent and follow updating protocols when making changes, e.g. update the live version of the paper questionnaire, the CAPI and the translation sheet. Do NOT simply update the questionnaire on CAPI or local language only, as this will lead to inconsistencies, mistakes and survey error. Ask the class for inputs if useful, e.g. how to phrase a question, or what answer categories exists. If there are many corrections, ask a dedicated person in order to not slow down the training.  
 
-
+- __Use samples__. If interviewers need to extract information from documents, certificates or packages, or have to evaluate or rate items, it is important to expose them range of different scenarios and streamline their behavior. Bring a set of diverse samples to the training and practice in a structured way. One option is to run through scenarios together, e.g. by projecting examples of school time tables on the big screen and asking trainees to record the required information in their tablets. Another option is to set-up work stations with different scenarios and ask trainees to rotate through the stations, complete the required task and record the information in their tablets. Trainers can staff individual stations and provide personal feedback to each trainee.  
 
 ## Practicing
 
@@ -168,7 +171,7 @@ Debrief with the entire class immediately after the exercise. Ask groups for the
 
 Asking trainees to conduct (parts of) an interview in front of the class is a good way to demonstrate how interviews should (not) be conducted and evaluate trainee skills. It also shows if the class is able to spot any mistakes done and allows trainers to provide feedback on interviewing to the entire class. It is a good means of practicing after a good part of the questionnaire has been covered, and before practicing with respondents on-site. This exercise tends to take much longer than a normal interview, so either practice only parts of the questionnaire, or schedule several hours.
 
-Project one tablet to the big screen on which the responses for the interview will be recorded. It is best to not chnage the tablet during the exercise.  
+Project one tablet to the big screen on which the responses for the interview will be recorded. It is best to not change the tablet during the exercise.  
 
 For front-of-class interviews, select one trainee to come to the front and act as interviewer in a mini-role play. Select one at random that has not yet been to the front. It usually makes sense to rotate trainees after a few questions (e.g. 5-10), so more trainees get the opportunity to practice in the front and make the exercise less monotonous. Ask the next trainee to already prepare and wait in front in order, so the rotation of trainees does not take up too much time.
 
@@ -199,7 +202,7 @@ Collect feedback, observe and debrief as described above for [group practice](#g
 The purpose of field practice is for trainees to get first experience in implementing the questionnaire with real respondents. There is no need to completely mimic field conditions as one does in dress rehearsals. Rather, aim to maximize the number of interviews each trainee can conduct and the number of respondents and scenarios they are exposed to. Prepare field practice well, observe trainees and collect good feedback to make it a success.  
 
 :::: { .warning  data-latex=""}
-Field practice often is implemented inefficiently with a lot of time being wasted on logistics that could have been prepared in advance: Teams waiting for transport, community introduction, looking for respondents, etc. It is not uncommon that during a whole day of field practicing, trainees only get to practice for 1 hour or could not practice at all as they did not find any respondent. Prepare well, so trainees can practice interviewing, not waiting.  
+Field practice often is implemented inefficiently with a lot of time being wasted on logistics that could have been prepared in advance: Teams waiting for transport, community introduction, looking for respondents, etc. It is not uncommon that during a whole day of field practicing, trainees only get to practice for 1 hour or could not practice at all as they did not find any respondent. Prepare well, so trainees can practice how to interview, not how to wait.  
 ::::
 
 Field practice sessions should be held after the questionnaire has been trained and practiced in class, and before the final dress rehearsal at the end of the training. Often it also makes sense to conduct it prior to sessions on household tracking, receiving rejecting interviews, logistics etc, so that content is broken down more and the field test can focus on the understanding and implementation of the questionnaire only. If the questionnaire is really long, e.g. a LSMS-ISA style questionnaire with long household and agricultural questionnaires, it can be beneficial to conduct more frequent field practices for different parts of the questionnaire. 
@@ -292,40 +295,64 @@ To practice introduction to the survey, select one trainee, ask them to stand up
 
 To practice asking for participation, ask a selected trainee to make an introduction and ask for participation as above. Act as respondent who is unwilling to participate, stating one of the challenges discussed in the training, such as such as _“I am really busy now”_ or _“What do I get out of this?”_. Ask the trainee to respond and convince you to participate. Again, together with the class, check if the trainee's response was quick, correct and natural. Give feedback on possible improvements and let the trainee repeat their response until satisfactory.   
 
-## Special tasks 
+## Expert measurements
 
-For some surveys interviewers need to learn a special task that requires repeated and structured practice until they can perform it correctly and on auto pilot. This can take As a trainer, you need to identify trainees who are struggling with the task and be aware of scenarios that cause issues. Examples for special tasks are:  
+As part of some surveys, fieldworkers have to take measurements that require a relatively high level of expertise and thus need special attention during the fieldwork training. Examples include: 
 
-- Plot size measurement 
-- Anthropometry 
-- Collecting samples, e.g. to measure water quality 
-- Extracting information from registries, records, etc. 
-- Behavioral games 
+- Anthropometric measurements, i.e. height/length and middle upper arm circumference (MUAC)
+- Plot size measurements, soil sample orcrop cuttings in agricultural surveys
+- Learning outcome assessments in school surveys, measuring reading, writing and math skills
+- Medical tests, such as taking blood pressure or measuring hemoglobin levels
+- Water quality tests
 
-Typically, these tasks require interviewers to strictly implement a protocol, use additional tools or aids or understand differently structured documents. Explaining the theory and going through one example is not enough. You need to practice in a structured way and evaluate trainees, exposing them to different scenarios if necessary. The best way of doing this depends on the task at hand.  
+For this type of measurements to be accurate and precise, fieldworkers usually have to be able to correctly handle specialized equipment and strictly follow testing procedure. For example, in learning outcome assessment tests, interviewers need to simultaneously handle testing booklets, a timer, and the CAPI questionnaire, while guiding a young child and maintaining a neutral testing environment. For water quality tests, interviewers need to handle the water testing equipment and respect the procedures from taking the water sample to testing and reading the results.   
 
-One option is to run through scenarios together so all trainees practice the same thing at the same time. For example, if interviewers need to record details from school time tables, display a picture of an actual timetable from a school on the big screen, and ask trainees to record the required information on their tablets. Run through examples of different time table formats, so interviewers get used to different scenarios. Walk through the class and identify any trainees who are struggling. Provide feedback and discuss in the wider class if there is any confusion. If interviewers need to perform a task on automatic pilot, for example, operate testing equipment, ask the class to repeat it over and over until everyone can perform it correctly all the time.  
+Learning how to implement any of those tasks to sufficiently high standards usually takes several days. Trainees need to learn the theory, extensively practice to gain confidence and be drilled until they are able to take the measurements quickly and always correctly. In addition, for some measurements such as anthropometrics, repeated standardization exercises need to be conducted to streamline trainees behavior and ensure reliability and validity of the measurements.  
 
-Another option is to set up workstations that interviewers need to go through. Set up different scenarios in or around the venue and staff some with trainers if necessary. Trainees go from station to station and complete the respective task. At the end, each trainee should have undergone the same scenarios and a general debrief can be held. Trainers can observe each trainee at their respective station, evaluate and provide personal feedback. Set up stations such that interviewers spend their time practicing, not queuing. Examples for workstations can be plots with different shapes and cultivation, trainers playing common scenarios in behavioral games, or different documents that need to be evaluated. 
+Often, the available training time does not allow for trainees to learn and practice both, interviewing and taking the measurements. In those instances, it is best to specialize fieldworker roles, so that some will conduct interviews, while others will focus on taking measurements only. Training for measurement specialists can happen in parallel to the main interviewer training, either from the beginning of fieldwork training (e.g. if a special profile such as trained nurses is required), or from any point during the training, e.g. once a picture is emerging which trainees are better suited for which role.
 
-### Specialized teams 
+To effectively and efficiently train measurement experts, follow the four steps below.  
 
-If a task is very complicated, requires special background knowledge or if there is not enough time to train it well to all interviewers during the training, field work model permitting, it is often best to specialize some fieldworkers to exclusively conduct the task and distribute them across the field teams. Examples where this tends to be useful are: 
+### Theory
 
-- Anthropometrics, especially when taking all measures, i.e. weight, height/length and middle upper arm circumference (MUAC)   
+First, cover the theory including the background and purpose, the functionality and use of the equipment, the detailed steps of the measurement procedure, things to be aware of, avoid, how to answer common questions by respondents, etc. Make this part tangible for trainees by including demonstrations by experts, or videos showing the right use of the tools and the measurement procedures. Test the trainees' level of understanding of the theory using [written tests](#written-tests).
 
-- Learning outcome assessments used in school surveys that include reading, writing and math tests with strict administration protocols.   
+### Practice components
 
-- Medical tests, such as taking blood pressure or measuring hemoglobin values. This often requires the use of specialized equipment and trained nurses. 
+Second, practice as much as possible all components of the measurement process, such as handling testing equipment, taking the sample or reading the measurement. Drill trainees until they can implement all components routinely, quickly and correctly. Being fully familiar with all tools and routines breaks down the overall measurement process and helps trainees to not get overwhelmed when first practicing with subject or samples.  Since testing subjects (e.g. children) are hard to come by and testing kits can have expensive per-unit costs, it is usually also more efficient to practice individual components first. As an example, for anthropometrics, the following components can be practiced:
 
-Training any of those tasks can take several days. For example, learning outcome assessments require trainees to handle test booklets, CAPI and a timer all at once while keeping a young child engaged. It usually takes days to practice until all trainees can conduct the assessment tests in a homogenos way, and not everyone is good at it. 
+- __Set-up and handling of equipment__. Scales, height and length boards need to be set up on uneven terrain and be correctly packed, unpacked and carried through communities. Scales might have to be calibrated or calibration checked.
 
-Train selected trainees in separate sessions in parallel to the interviewer training. Practice all components of the task, including the equipment use, measurement reading, and interaction with the respondent. Invite practicing respondents to the training venue to practice the human component and create closer to field conditions. For more details, see section Inhouse respondents.  
+- __Measurement procedures__. For example, depending on the available scales, to take the weight of a young child, one measurement procedure is for the caretaker to step onto the scales first, take Tara, hand the child to the caretaker and take the reading. This process can be easily practiced by trainees e.g. by handing over a backpack.
 
-For anthropometrics, the components that need to be practiced include the correct setup of scales and height/length boards, taking the measurements, how to treat the children/babies, reading the measurements (careful, some are dislexic), and recording them. At the beginning, the measurements taken for the same person differ quite a bit between trainees. Practice until they converge after a few days.
+- __Taking and reading measurements__. Especially for length, measurers only have a moment to take and read the measurement, as children want to move and fight the postion they are held in. Depending on the length board, taking and reading the measurement quickly is far from straightforward and requires a significant amount of practice. You will be surprised by the amount of error that can be eliminated at this stage by repeated practicing. Practice by asking trainees to measure things of known length and gradually decrease the time available per item. Compare individual measurements to the known length. 
+
+### Practice full measurements
+
+Third, once trainees have a good command of all components, bring it all together by practicing to take measurements of actual subjects or real samples. Provide enough and diverse subjects/samples, so trainees can practice repeatedly and are exposed to different scenarios/cases. For example, for anthropometrics, invite children and care takers to the training venue or visit health centers or other institutions with sufficient number of children as testing subjects. Observe trainees and provide immediate feedback to individuals or the entire class. Trouble shoot any issues and re-practice individual components if they can be improved. Practice until trainees can implement the entire measurement procedure correctly and have developed a routine for it.
+
+### Standardize
+
+Fourth, conduct standardization exercises to improve the accuracy and precision of trainees' measurements. In standardization exercises, their measurements are compared against those of an expert, and individual measurements against one another. The exercises serve to identify and eliminate as much as possible any idiosyncratic measurement practices trainees might have causing measurements to deviate from the true value, and as [tests](#standardization-tests) for the final selection of fieldworkers.
+
+Hold standardization exercises towards the end of the training, once trainees can implement the measurement procedures reliably and quickly. Often, it is useful to hold at least two separate exercises, with a break of 1-2 days in between to retrain and practice. 
+
+For a standardization exercise, set up stations with subjects/samples. For example, for anthropometrics this can be children with care takers and sets of scales, length and height board. Ideally, stations have variation in characteristics, e.g. children of different age groups, below and above 2 years, with and without braided hair, etc. The number of stations required depends on the number of trainees. It should be large enough for each trainee to get enough practice and exposure to different scenarios. For larger groups of trainees it might be best to split trainees into groups and let each group rotate through a subset of stations. Consider the burden on the persons who form part of the station, especially on children for anthropometric measurements.
+
+First, the expert measurer should take two independent measurements at each station and record the values. Their measurements serve as the benchmark against which trainee measurements are compared. If the excercie serves as the test, trainees should not be able to observe this process.
+
+Subsequently, trainees should rotate between all stations and take their own measurements. Use different starting points or directions to speed things up and avoid queues at individual stations. Trainees should record their measurements at each station, together with the station name/ID and their own name. This can be done on paper and later entered into a spreadsheet, or ideally in a short customized CAPI questionnaire, Google Form or the like. As during practicing, observe trainees and provide immediate feedback. Try to identify why their measurements are deviating what they need to do to correct it, e.g. stretch the child's legs more to not under-measure their length. Ideally, two independent rounds of measurements should be taken, so that each trainee has measured each station twice. 
+
+The difference between first and second measurement for each trainee at each station is an indication of the precision/reliability of the measurements. The difference between the measurement taken by trainees at a station and that taken by the expert is indicative of their accuracy/validity. Calculate and interpret the *technical error of measurement (TEM)* to assess the variation of measurements taken by each trainee. For more details, see e.g. [WHO/UNICEF guide on athropometry in children < 5](https://data.unicef.org/wp-content/uploads/2019/05/Anthropometry-children-under-5-guidance-English_2019.pdf). 
 
 
-* parallel sessions
+:::tools
+**Useful tools**   
+- [WHO/UNICEF guide on anthropometry for children < 5](https://data.unicef.org/wp-content/uploads/2019/05/Anthropometry-children-under-5-guidance-English_2019.pdf
+){target="_blank"}  
+- [Video on anthropometric measurements (French) ](https://www.youtube.com/watch?v=t4dholcfl84)  
+- [Video on LandInfo module for soil characterisation and identification ](https://landpotential.org/knowledge/landinfo-training/)  
+:::
 
 
 ## Pre-interview tasks
@@ -348,21 +375,21 @@ better trained towards the end of training, prior to field practicing or final f
 
 ## Post-interview tasks
 
-??Team any other post-interview tasks?
+In many surveys, interviewers have to conduct certain tasks after completing an interview, such as checking for completion, responding to feedback or inquiries, correcting mistakes, revisiting respondents, etc. These tasks are often underdefined and insufficiently trained, which can result in significant measurement and processing error. For example, interviewers may “fix” interviews by simply changing recorded responses to make an issues go away, without actually addressing the underlying problem. Interviewers need to learn what they must and must not do in a dedicated module towards the end of the training.
 
-In some surveys, interviewers receive feedback or inquiries about interviews they have submitted that require them to take some action or respond. In Survey Solutions, this is done using rejected interview files. This often goes wrong in surveys and needs to be covered in the training if implemented in the field. There is a big risk that interviewers “fix” interviews by simply changing answers to make issues go away, without actually addressing the underlying problem. Interviewers need to understand what they must and must not do. Train and practice in a dedicated session towards the end of the training. 
+For surveys conducted in Survey Solutions, one of the main post-interview tasks is to review and respond to reject interview files. This is used as an example to illustrate how these tasks can be trained. The same principles can be apply to other tasks. 
 
-Ideally, trainees can practice with actual examples from interview files they have produced themselves. This makes it less theoretical and shows trainees that they made mistakes and what they were. You can use interview files from the field test (LINK) or even better, the final dress rehearsal (LINK), as interviews will generally be of better quality. This implies that the session needs to be held towards the very end of the survey.  
+Reviewing and responding to rejected interview files is best trained practically, by looking at actual examples. Ideally, trainees can practice with interview files they have produced themselves. Not only does this make it less theoretical, but it can also show trainees that they actually made some mistakes, what they were and how to prevent them in the future. Use interview files from the [field practice](#) or even better, the [final field test](#final-field-test), as interviews will generally be of better quality and be produced under close to field conditions.
 
-Prior to the session, carefully review submitted interviews and identify any issues. Normally,  at the beginning there tends to be at least one per interview, make up some if there are none. Write comments and feedback as would be written during field work and reject the interviews to the interviewer. Try to do this with at least one file per trainee/pair. 
+Prior to training this module, trainers (and data monitors if pre-determined or as part of their training) should carefully review submitted interviews and identify issues. Normally,  at the beginning there tends to be at least one per interview. They can make some up for practicing purposes if there are none. They should write comments and feedback as would be written during field work and reject the interviews to the interviewer. Try to do this with at least one file per trainee (or pair of trainees working together during field test). 
 
-During the session, first give a quick general introduction to explain the rejected files tab on the interviewer dashboard, how to open a rejected file, how to read the rejection comment, how to see all comments by the supervisor, how to react to rejected files, respond to comments and resubmit them by marking them as complete and synchronizing.  
+During the training, first give a quick general introduction to explain the rejected files tab on the interviewer dashboard, how to open a rejected file, how to read the rejection comment, how to see all comments by the supervisor, how to react to rejected files, respond to comments and resubmit them by marking them as complete and synchronizing.  
 
 Then, project a rejected interview to the main screen and ask the respective trainee/pair to come to the front. They should explain what led to their mistake and what they should do if this occurred in the field. Ask them to respond to the issues and resubmit the file on screen. Ask the class to help and comment. Repeat this with as many files/trainees as possible and useful. Ask all trainees who did not solve their file on the big screen to solve it on their tablet and resubmit them. 
 
-This exercise is also a great way to identify and streamline the rules around responding to rejected files, revisiting respondents, etc. For more information see chapter REJECTING FILES.
+This exercise is also a great way to identify and streamline the rules around responding to rejected files, revisiting respondents, etc. Update the manual if necessary. 
  
-## Final field test (often called pilot) 
+## Final field test (often called pilot) {#final-field-test}
 
 At the end of the training, a final field test should be conducted in which all survey questionnaires and protocols are tested under real-field conditions prior to field work. It is an important exercise to:  
 
@@ -397,7 +424,45 @@ The data collected during dress rehearsal is a great way to learn and practice r
 ??Team: any inputs?
 DHS has some (limited) material 
 
+should be held outside the hours of the main fieldworker training, so supervisors can attend it in full. 
 
 ## Data Monitor Training
-??Team: any inputs?
 
+Data monitor training is an important component of quality assurance in surveys. It serves to:
+
+- __Prepare data monitors for their role__, so they can correctly identify issues in the received data, conduct back checking exercises, take the right actions and provide meaningful feedback. 
+
+- __Homogenize behavior of data monitors__ as much as possible, to ensure all field teams receive the same level of scrutiny and to reduce the [data monitor effect](#impacterror)
+
+- __Improve data monitoring process__. The issues occurring in a survey and the actions required by data monitors tend to differ from survey to survey. Extensive practicing using actual cases from the survey context is a great way to refine the tools, processes and tasks for data monitors, improving the overall review process. 
+
+The data monitor training is best held after the final field test, once a good number of interviews created under near-field conditions are available for practicing. Importantly, this also allows data monitors to attend the main fieldworker training in full, so they can have a solid understanding of the content and the activities they will be monitoring. If data monitors are selected as part of the fieldworker selection, the training can also only start after it. Data monitors must be able to start their work once fieldwork has started and the first cases are available to be reviewed, typically on day 2 of fieldwork. It is important that fieldworkers receive timely feedback, especially for the first few cases, and that there are no backlogs of un-reviewed cases building up.
+
+In most cases, a total of 2-3 days of data monitoring training is sufficient, if you supervise and work closely with them for the first few days of fieldwork. The training can be held in the afternoons or evenings of the last few days of fieldwork training, or during sessions that are not relevant for data monitors, such as administrative matters for fieldworkers. If data monitors stay at a central location you can also train on the day the fieldteams travel to the field and the first day(s) of fieldwork before cases become available to be reviewed. 
+
+Prior to the training, clearly define data monitors' tasks, procedures they need to follow, check list, etc. and write everything in a short manual focusing on the essentials (see an example [here](resources/IFAD package data monitor manual.pdf){target="_blank"}). Add to the manual a list of scenarios data monitors will face frequently and the actions they should take. For example, `If GPS question is missing -> trouble shoot tablet's location setup with interviewer. If not working -> report to survey management. If working -> Check if they can revisit household. If yes -> reject interview. If no -> comment in interview file, explaining reasons`. Alternatively, list common issues and responses in a Google sheet or similar that is made available to data monitors and that they can refer to. Add to this list and refine responses throughout the training and beginning of fieldwork.  
+
+At the beginning of the data monitor training, cover all theory and components of the tasks/procedures. While the details depend on the survey, this may include:
+
+- general overview of the quality assurance process and their role  
+- how to use any tool or software, such as Survey Solutions Supervisor interface, dashboards, etc.  
+- how to check completion or use field check tables, etc.   
+- how to review cases, what to check for, how to interpret error messages, etc.  
+- how to back check cases, conduct re-interviews, conduct audio audits, etc.    
+- how to provide feedback to field teams and survey management  
+
+Keep presentations to a minimum and train hands-on as much as possible. For example, while explaining how to review an interview file in Survey Solutions, data monitors can follow on their own devices, so they can immediately try out and learn how to find comments, unanswered questions, approve/reject, etc. Provide copies of the material that data monitors need to work with, such as interview cases, back check questionnaires, reports, etc. 
+
+As a next step, practice with data monitors so they can learn and internalize their tasks. This should be done using real interviews that are not part of the sample, such as the interviews from field practices, or ideally of the final field test, as they more closely resemble the data from actual fieldwork. Using actual interviews makes the exercise more tangible for data monitors, as they can see the type of issues that are expected to occur and learn how to react to them. Use the practicing to update and refine the review process, i.e. the list of key issues data monitors need to check, the type of feedback they should provide and the actions they need to take. 
+
+Practicing should be done such that data monitors' behavior starts to be harmonized.  An easy to prepare and very effective way for practicing is to first run through a couple of cases together. Project the necessary material on the big screen in front, and ask one data monitor to come to the front and work through the case on the big screen. Ask the others to observe and provide input. Provide immediate input if they have done something wrong, missed something, but also if they have done things correctly. Discuss any points of doubt and updated procedures if necessary. Repeat this with other cases and other data monitors until all data monitors have worked through several cases.
+
+Also effective, but more demanding in the preparation, is to provide the same cases to all data monitors, ask them to work through them and to compare results afterwards. As an example, provide each data monitor with the audio recording of the same interview and an auditing form, ask them to listen to the interview and fill in the form. Once complete, compare the forms in the group, discuss any discrepancies and reiterate important points.
+
+Practice until data monitors are able to correctly implement all tasks, until you have run out of practicing cases, or until field work has started. 
+
+Once the first data is received from the field, it is important that data monitors shift to work on the actual cases from the sample. Often, however, at this stage data monitors are not fully ready to implement all tasks in a harmonized way. Therefore it is paramount that data monitors are closely supervised  by one fo the trainer during the first few days and that good communication channels are put into place. 
+
+If working from a central location, data monitors should ideally work from the same room so they can quickly exchange thought and one of the trainers can rotate, observe and provide feedback if necessary. If working from different locations, a common group chat or channel on WhatsApp, Teams, etc. should be set up to facilitate quick and easy communication and ensure all data monitors receive the same information. Data monitors should immediately communicate in the common channel if they have any doubts about a case or scenario or if they have made any noteworthy observations. Update the manual, tools or processes if necessary. 
+
+Conduct spot checks of some of the cases that have been worked through by data monitors. Hold regular debriefs with all data monitors to provide feedback.  

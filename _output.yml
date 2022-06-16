@@ -13,10 +13,4 @@ bookdown::gitbook:
         <li><a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="blank">A LSMS Guidebook</a></li>
     edit: https://github.com/andreaskutka/g2sq/edit/master/%s
     download: ["pdf"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+

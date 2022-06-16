@@ -130,6 +130,22 @@ Warning ... this book is work in progress and in a pre-publish state.
 something longer and longer ajetztabera test
 ::::
 
+:::: { .tools  data-latex=""}
+**Useful tools:**   
+a
+b
+c
+::::
+
+:::: { .question  data-latex=""}
+**Useful tools:**   
+a
+b
+c
+::::
+
+
+
 :::: {.errorbox data-latex=""}
 **DO NOT SHARE!**
 

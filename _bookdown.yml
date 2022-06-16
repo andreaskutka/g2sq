@@ -8,10 +8,10 @@ rmd_files:
 - inception.Rmd
 - preparation.Rmd
 - preparation-instruments.Rmd
-- training-introduction.Rmd
-- training-planning-preparation.Rmd
-- training-conduct.Rmd
-- training-assessment.Rmd
+- trng-intro.Rmd
+- trng-plan.Rmd
+- trng-conduct.Rmd
+- trng-assess.Rmd
 - fieldwork.Rmd
 - post-field.Rmd
 - appendix.Rmd
