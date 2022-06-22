@@ -1,7 +1,7 @@
 fig:tse-comp
 fig:val-rel
 tab:qd
-tab:trainingschedule
+fig:training-schedule
 tab:scoringsystem
 fig:skill-matrix
 introduction-to-survey-quality
@@ -66,7 +66,7 @@ practice-full-measurements
 standardize
 pre-interview-tasks
 post-interview-tasks
-final-field-test-often-called-pilot
+final-field-test
 supervisor-training
 data-monitor-training
 assess-select
@@ -82,7 +82,6 @@ create-a-skill-matrix
 rate-skills
 standardization-tests
 fieldworker-selection
-notes
 timing
 criteria
 selection-process
@@ -90,9 +89,8 @@ listing
 monitoring
 effective-feedback
 avoiding-nonresponse
-notes-1
+notes
 data-editing
 weighting
 archiving
 documentation
-final-field-test

@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105.83334mm"
+   height="458.52292mm"
+   version="1.1"
+   id="svg1593"
+   sodipodi:docname="training-schedule.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1599">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1597" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview1595"
+     showgrid="false"
+     inkscape:zoom="1.3931034"
+     inkscape:cx="433.55271"
+     inkscape:cy="50.368763"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="table"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="table">
+    <rect
+       width="400"
+       height="42"
+       id="rect1208"
+       x="0"
+       y="0"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1210"
+       x="0"
+       y="0"
+       style="fill:#e0e0e0" />
+    <rect
+       transform="translate(0,42)"
+       width="400"
+       height="42"
+       id="rect1212"
+       x="0"
+       y="0"
+       style="fill:#ffffff" />
+    <rect
+       transform="translate(0,42)"
+       width="400"
+       height="1"
+       id="rect1214"
+       x="0"
+       y="0"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="110.19307"
+       id="rect1216"
+       x="0"
+       y="154"
+       style="fill:#f5f5f5;stroke-width:1.61976683" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1218"
+       x="0"
+       y="154"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1220"
+       x="0"
+       y="264"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1222"
+       x="0"
+       y="264"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="112"
+       id="rect1224"
+       x="0"
+       y="376"
+       style="fill:#f5f5f5;stroke-width:1.6329931" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1226"
+       x="0"
+       y="376"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1228"
+       x="0"
+       y="488"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1230"
+       x="0"
+       y="488"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="111"
+       id="rect1232"
+       x="0"
+       y="576"
+       style="fill:#f5f5f5;stroke-width:1.62568665" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1234"
+       x="0"
+       y="576"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1236"
+       x="0"
+       y="686"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1238"
+       x="0"
+       y="686"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="110.00001"
+       id="rect1240"
+       x="0"
+       y="728"
+       style="fill:#f5f5f5;stroke-width:1.61834729" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1242"
+       x="0"
+       y="728"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1244"
+       x="0"
+       y="838"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1246"
+       x="0"
+       y="838"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="88"
+       id="rect1248"
+       x="0"
+       y="950"
+       style="fill:#f5f5f5;stroke-width:1.44749367" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1250"
+       x="0"
+       y="950"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1252"
+       x="0"
+       y="1038"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1254"
+       x="0"
+       y="1038"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="111.62872"
+       id="rect1256"
+       x="0"
+       y="1126"
+       style="fill:#f5f5f5;stroke-width:1.63028419" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1258"
+       x="0"
+       y="1126"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1260"
+       x="0"
+       y="1238"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1262"
+       x="0"
+       y="1238"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1264"
+       x="0"
+       y="1304"
+       style="fill:#f5f5f5" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1266"
+       x="0"
+       y="1304"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1268"
+       x="0"
+       y="1346"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1270"
+       x="0"
+       y="1346"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="64.000023"
+       id="rect1272"
+       x="0"
+       y="1434"
+       style="fill:#f5f5f5;stroke-width:1.23442698" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1274"
+       x="0"
+       y="1434"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1276"
+       x="0"
+       y="1498"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1278"
+       x="0"
+       y="1498"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="61.381187"
+       id="rect1280"
+       x="0"
+       y="1606"
+       style="fill:#f5f5f5;stroke-width:1.20890725" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1282"
+       x="0"
+       y="1606"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="42"
+       id="rect1284"
+       x="0"
+       y="1668"
+       style="fill:#ffffff" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1286"
+       x="0"
+       y="1668"
+       style="fill:#e0e0e0" />
+    <rect
+       width="400"
+       height="1"
+       id="rect1290"
+       x="0"
+       y="1732"
+       style="fill:#e0e0e0" />
+    <text
+       transform="translate(17,28)"
+       font-size="18"
+       id="text1314"
+       style="font-size:18px;font-family:'Open Sans-Medium', 'Open Sans'">
+      <tspan
+         x="0"
+         y="0"
+         style="font-weight:bold"
+         id="tspan1312">Day</tspan>
+    </text>
+    <text
+       transform="translate(17,70)"
+       font-size="18"
+       id="text1318"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="0"
+         y="0"
+         id="tspan1316">1</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1322"
+       x="17"
+       y="182"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="182"
+         id="tspan1320">2</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1326"
+       x="17"
+       y="292"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="292"
+         id="tspan1324">3</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1330"
+       x="17"
+       y="404"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="404"
+         id="tspan1328">4</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1334"
+       x="17"
+       y="516"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="516"
+         id="tspan1332">5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1338"
+       x="17"
+       y="604"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="604"
+         id="tspan1336">6</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1342"
+       x="17"
+       y="714"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="714"
+         id="tspan1340">7</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1346"
+       x="17"
+       y="756"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="756"
+         id="tspan1344">8</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1350"
+       x="17"
+       y="866"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="866"
+         id="tspan1348">9</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1354"
+       x="17"
+       y="978"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="978"
+         id="tspan1352">10</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1358"
+       x="17"
+       y="1066"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1066"
+         id="tspan1356">11</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1362"
+       x="17"
+       y="1154"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1154"
+         id="tspan1360">12</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1366"
+       x="17"
+       y="1266"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1266"
+         id="tspan1364">13</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1370"
+       x="17"
+       y="1332"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1332"
+         id="tspan1368">14</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1374"
+       x="17"
+       y="1374"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1374"
+         id="tspan1372">15</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1378"
+       x="17"
+       y="1462"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1462"
+         id="tspan1376">16</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1382"
+       x="17"
+       y="1526"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1526"
+         id="tspan1380">17</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1386"
+       x="17"
+       y="1634"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1634"
+         id="tspan1384">18</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1390"
+       x="17"
+       y="1696"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="17"
+         y="1696"
+         id="tspan1388">19</tspan>
+    </text>
+    <text
+       transform="translate(17,868)"
+       font-size="18"
+       id="text1392"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(17,910)"
+       font-size="18"
+       id="text1394"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(17,952)"
+       font-size="18"
+       id="text1396"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(17,994)"
+       font-size="18"
+       id="text1398"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(17,1036)"
+       font-size="18"
+       id="text1400"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(17,1078)"
+       font-size="18"
+       id="text1402"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,28)"
+       font-size="18"
+       id="text1406"
+       style="font-size:18px;font-family:'Open Sans-Medium', 'Open Sans'">
+      <tspan
+         x="0"
+         y="0"
+         style="font-weight:bold"
+         id="tspan1404">Main</tspan>
+    </text>
+    <text
+       transform="translate(77,70)"
+       font-size="18"
+       id="text1410"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2151"
+         x="0"
+         y="0">Opening module</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2153"
+         x="0"
+         y="22.5">CAPI use</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2155"
+         x="0"
+         y="45">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="0"
+         y="67.5"
+         id="tspan2175">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1414"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="182">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2111"
+         x="77"
+         y="182">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2113"
+         x="77"
+         y="204.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2115"
+         x="77"
+         y="227">Group practicing</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="249.5"
+         id="tspan2135">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1418"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="292">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2075"
+         x="77"
+         y="292">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="314.5"
+         id="tspan2095">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="337"
+         id="tspan2091">Front-of-class interview</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="359.5"
+         id="tspan2087">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1422"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="404">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2023"
+         x="77"
+         y="404">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2025"
+         x="77"
+         y="426.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2027"
+         x="77"
+         y="449">Practice respondents on-site</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="471.5"
+         id="tspan2055">Debrief</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1426"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="516">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1987"
+         x="77"
+         y="516">Written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1989"
+         x="77"
+         y="538.5">Interviewing skills</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="561"
+         id="tspan2011">Field practice</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1430"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="604">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1947"
+         x="77"
+         y="604">Debrief field practice</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1949"
+         x="77"
+         y="626.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1951"
+         x="77"
+         y="649">Group practicing</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="671.5"
+         id="tspan1971">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1434"
+       x="77"
+       y="714"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="77"
+         y="714"
+         id="tspan1432">Rest day</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="756">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1907"
+         x="77"
+         y="756">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1909"
+         x="77"
+         y="778.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1911"
+         x="77"
+         y="801">Front-of-class interview</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="823.5"
+         id="tspan1931">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1442"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="866">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1855"
+         x="77"
+         y="866">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1857"
+         x="77"
+         y="888.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1859"
+         x="77"
+         y="911">Group practicing</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="933.5"
+         id="tspan1891">Written test</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="978">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1819"
+         x="77"
+         y="978">Review written test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1821"
+         x="77"
+         y="1000.5">Questionnaire content</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1023"
+         id="tspan1843">Practice respondents on-site</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1450"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1066">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1793"
+         x="77"
+         y="1066">Debrief</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1088.5"
+         id="tspan1807">Interviewing skills</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1111"
+         id="tspan1803">Field practice</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1154">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1747"
+         x="77"
+         y="1154">Debrief field practice</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1749"
+         x="77"
+         y="1176.5">Pre-interview tasks</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1751"
+         x="77"
+         y="1199">Post-interview tasks</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1221.5"
+         id="tspan1775">Fieldworker selection</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1266">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1723"
+         x="77"
+         y="1266">Final field test</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1288.5"
+         id="tspan1739">Supervisor training</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1462"
+       x="77"
+       y="1332"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'">
+      <tspan
+         x="77"
+         y="1332"
+         id="tspan1460">Rest day</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1466"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1374">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1693"
+         x="77"
+         y="1374">Debrief final field test</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1396.5"
+         id="tspan1707">Post-interview tasks</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1419"
+         id="tspan1703">Supervisor training</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1470"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1462">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1675"
+         x="77"
+         y="1462">Final field test</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1484.5"
+         id="tspan1683">Supervisor training</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1474"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1526">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1635"
+         x="77"
+         y="1526">Debrief final field test</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1637"
+         x="77"
+         y="1548.5">Administrative matters</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1639"
+         x="77"
+         y="1571">Supervisor training</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1593.5"
+         id="tspan1671">Data monitor training</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1478"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1634">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1619"
+         x="77"
+         y="1634">Travel to the field</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1656.5"
+         id="tspan1631">Data monitor training</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="77"
+       y="1696">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1611"
+         x="77"
+         y="1696">Field start</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="77"
+         y="1718.5"
+         id="tspan1615">Data monitor training</tspan>
+    </text>
+    <text
+       transform="translate(77,868)"
+       font-size="18"
+       id="text1484"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,910)"
+       font-size="18"
+       id="text1486"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,952)"
+       font-size="18"
+       id="text1488"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,994)"
+       font-size="18"
+       id="text1490"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,1036)"
+       font-size="18"
+       id="text1492"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(77,1078)"
+       font-size="18"
+       id="text1494"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,28)"
+       font-size="18"
+       id="text1498"
+       style="font-size:18px;font-family:'Open Sans-Medium', 'Open Sans'">
+      <tspan
+         x="0"
+         y="0"
+         style="font-weight:bold"
+         id="tspan1496">Hrs</tspan>
+    </text>
+    <text
+       transform="translate(357,70)"
+       font-size="18"
+       id="text1502"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2159"
+         x="0"
+         y="0">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2161"
+         x="0"
+         y="22.5">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2163"
+         x="0"
+         y="45">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="0"
+         y="67.5"
+         id="tspan2187">1</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1506"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="182">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2119"
+         x="357"
+         y="182">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2121"
+         x="357"
+         y="204.5">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2123"
+         x="357"
+         y="227">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="249.5"
+         id="tspan2147">0.5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1510"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="292">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2079"
+         x="357"
+         y="292">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2081"
+         x="357"
+         y="314.5">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2083"
+         x="357"
+         y="337">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="359.5"
+         id="tspan2107">0.5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="404">
+      <tspan
+         sodipodi:role="line"
+         id="tspan2031"
+         x="357"
+         y="404">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2033"
+         x="357"
+         y="426.5">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan2035"
+         x="357"
+         y="449">2.5</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="471.5"
+         id="tspan2067">1</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="516">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1993"
+         x="357"
+         y="516">0.5</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1995"
+         x="357"
+         y="538.5">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="561"
+         id="tspan2019">5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="604">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1955"
+         x="357"
+         y="604">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1957"
+         x="357"
+         y="626.5">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1959"
+         x="357"
+         y="649">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="671.5"
+         id="tspan1983">6</tspan>
+    </text>
+    <text
+       transform="translate(357,322)"
+       font-size="18"
+       id="text1524"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       font-size="18"
+       id="text1528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="756">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1915"
+         x="357"
+         y="756">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1917"
+         x="357"
+         y="778.5">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1919"
+         x="357"
+         y="801">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="823.5"
+         id="tspan1943">0.5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="866">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1867"
+         x="357"
+         y="866">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1869"
+         x="357"
+         y="888.5">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1871"
+         x="357"
+         y="911">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="933.5"
+         id="tspan1903">0.5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="978">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1825"
+         x="357"
+         y="978">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1827"
+         x="357"
+         y="1000.5">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1023"
+         id="tspan1851">3.5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1540"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1066">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1797"
+         x="357"
+         y="1066">1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1799"
+         x="357"
+         y="1088.5">1.5</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1111"
+         id="tspan1815">5</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1544"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1154">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1759"
+         x="357"
+         y="1154">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1761"
+         x="357"
+         y="1176.5">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1763"
+         x="357"
+         y="1199">2</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1221.5"
+         id="tspan1787">1</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1548"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1266">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1727"
+         x="357"
+         y="1266">7</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1288.5"
+         id="tspan1743">2</tspan>
+    </text>
+    <text
+       transform="translate(357,616)"
+       font-size="18"
+       id="text1550"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       font-size="18"
+       id="text1554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1374">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1697"
+         x="357"
+         y="1374">3.5</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1699"
+         x="357"
+         y="1396.5">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1419"
+         id="tspan1715">2</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1462">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1679"
+         x="357"
+         y="1462">7</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1484.5"
+         id="tspan1687">2</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1526">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1641"
+         x="357"
+         y="1526">3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1645"
+         x="357"
+         y="1548.5">4</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1647"
+         x="357"
+         y="1571">4</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1593.5"
+         id="tspan1659">4</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="357"
+       y="1634">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1623"
+         x="357"
+         y="1634">7</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1656.5"
+         id="tspan1627">7</tspan>
+    </text>
+    <text
+       transform="translate(357,826)"
+       font-size="18"
+       id="text1568"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,868)"
+       font-size="18"
+       id="text1570"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,910)"
+       font-size="18"
+       id="text1572"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,952)"
+       font-size="18"
+       id="text1574"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,994)"
+       font-size="18"
+       id="text1576"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,1036)"
+       font-size="18"
+       id="text1578"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <text
+       transform="translate(357,1078)"
+       font-size="18"
+       id="text1580"
+       style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
+    <rect
+       width="1"
+       height="1733"
+       id="rect1582"
+       x="0"
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.25976038" />
+    <rect
+       width="1"
+       height="1732.2971"
+       id="rect1584"
+       x="60"
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.2595048" />
+    <rect
+       width="1"
+       height="1732.297"
+       id="rect1586"
+       x="340"
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.25950491" />
+    <rect
+       width="1"
+       height="1732"
+       id="rect1588"
+       x="399"
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.25939691" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1729"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1731"><rect
+           id="rect1733"
+           width="465.14853"
+           height="724.28217"
+           x="-25.841583"
+           y="577.84656" /></flowRegion><flowPara
+         id="flowPara1735"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1829"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1831"><rect
+           id="rect1833"
+           width="499.60397"
+           height="1043.7129"
+           x="-25.841583"
+           y="453.66336" /></flowRegion><flowPara
+         id="flowPara1835"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1873"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1875"><rect
+           id="rect1877"
+           width="478.06931"
+           height="1351.6584"
+           x="-19.381187"
+           y="414.901" /></flowRegion><flowPara
+         id="flowPara1879"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1997"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1999"><rect
+           id="rect2001"
+           width="479.50494"
+           height="2062.302"
+           x="-36.60891"
+           y="240.47029" /></flowRegion><flowPara
+         id="flowPara2003"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2037"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion2039"><rect
+           id="rect2041"
+           width="544.10889"
+           height="1903.6633"
+           x="-33.019802"
+           y="205.29703" /></flowRegion><flowPara
+         id="flowPara2043"></flowPara></flowRoot>  </g>
+</svg>
