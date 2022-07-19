@@ -2,6 +2,7 @@ fig:tse-comp
 fig:val-rel
 tab:qd
 fig:training-schedule
+tab:schedule-day
 tab:scoringsystem
 fig:skill-matrix
 introduction-to-survey-quality

@@ -12,5 +12,13 @@ bookdown::gitbook:
       after: |
         <li><a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="blank">A LSMS Guidebook</a></li>
     edit: https://github.com/andreaskutka/g2sq/edit/master/%s
-    download: ["pdf"]
-
+    sharing:
+      linkedin: true
+      twitter: true
+      whatsapp: false
+      facebook: false
+      github: false
+      weibo: false
+      instapaper: false
+      vk: false
+      all: ['linkedin', 'twitter', 'whatsapp', 'facebook','github']
