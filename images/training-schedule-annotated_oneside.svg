@@ -7,15 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="248.26909mm"
-   height="483.81458mm"
+   width="229.82961mm"
+   height="463.81458mm"
    version="1.1"
    id="svg1593"
    sodipodi:docname="training-schedule-annotated.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\andre\Dropbox\g2sq\images\schedule.png"
-   inkscape:export-xdpi="122.77"
-   inkscape:export-ydpi="122.77">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata1599">
     <rdf:RDF>
@@ -24,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +37,7 @@
        inkscape:isstock="true">
       <path
          id="path3493"
-         style="fill:#ffa600;fill-opacity:1;fill-rule:evenodd;stroke:#ffa600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)"
          inkscape:connector-curvature="0" />
@@ -86,7 +83,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6"
-         style="fill:#ffa600;fill-opacity:1;fill-rule:evenodd;stroke:#e9c46a;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -101,7 +98,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-9"
-         style="fill:#ff6361;fill-opacity:1;fill-rule:evenodd;stroke:#ff6361;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -116,7 +113,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-9-3"
-         style="fill:#ff6361;fill-opacity:1;fill-rule:evenodd;stroke:#ff6361;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -131,7 +128,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6"
-         style="fill:#bc5090;fill-opacity:1;fill-rule:evenodd;stroke:#bc5090;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -146,7 +143,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-4"
-         style="fill:#58508d;fill-opacity:1;fill-rule:evenodd;stroke:#58508d;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -206,7 +203,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-1"
-         style="fill:#003f5c;fill-opacity:1;fill-rule:evenodd;stroke:#003f5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -221,7 +218,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-1-9"
-         style="fill:#bc5090;fill-opacity:1;fill-rule:evenodd;stroke:#bc5090;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -251,7 +248,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-3-9"
-         style="fill:#ff6361;fill-opacity:1;fill-rule:evenodd;stroke:#ff6361;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -266,7 +263,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-9"
-         style="fill:#58508d;fill-opacity:1;fill-rule:evenodd;stroke:#58508d;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -281,7 +278,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-16"
-         style="fill:#003f5c;fill-opacity:1;fill-rule:evenodd;stroke:#003f5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -296,7 +293,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-9-1"
-         style="fill:#ffa600;fill-opacity:1;fill-rule:evenodd;stroke:#ffa600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -311,7 +308,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-9-1-9"
-         style="fill:#ff6361;fill-opacity:1;fill-rule:evenodd;stroke:#ff6361;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -341,7 +338,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-9-1-9-5-5"
-         style="fill:#bc5090;fill-opacity:1;fill-rule:evenodd;stroke:#bc5090;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -356,7 +353,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-4-8"
-         style="fill:#58508d;fill-opacity:1;fill-rule:evenodd;stroke:#58508d;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -371,52 +368,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3493-6-6-4-63"
-         style="fill:#58508d;fill-opacity:1;fill-rule:evenodd;stroke:#58508d;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3495-6-1-11-9"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3493-6-6-16-5"
-         style="fill:#003f5c;fill-opacity:1;fill-rule:evenodd;stroke:#005186;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3495-6-1-1-1-3-4"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3493-6-6-9-1-9-0"
-         style="fill:#003f5c;fill-opacity:1;fill-rule:evenodd;stroke:#003f5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3495-6-1-1-1-3-4-1"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3493-6-6-9-1-9-0-2"
-         style="fill:#003f5c;fill-opacity:1;fill-rule:evenodd;stroke:#003f5c;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#2ed3a5;fill-opacity:1;fill-rule:evenodd;stroke:#2ed3a5;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6)" />
     </marker>
@@ -435,22 +387,20 @@
      id="namedview1595"
      showgrid="false"
      inkscape:zoom="0.93248703"
-     inkscape:cx="306.15652"
-     inkscape:cy="611.17451"
+     inkscape:cx="507.00133"
+     inkscape:cy="1450.2609"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="table"
      units="mm"
-     fit-margin-top="10"
+     fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="10"
-     showguides="false"
-     inkscape:snap-text-baseline="true" />
+     fit-margin-bottom="0"
+     showguides="false" />
   <g
-     id="table"
-     transform="translate(258.44128,37.795276)">
+     id="table">
     <rect
        width="400"
        height="42"
@@ -467,11 +417,11 @@
        style="fill:#e0e0e0" />
     <rect
        width="400"
-       height="112"
+       height="111.00549"
        id="rect1212"
        x="0"
        y="42"
-       style="fill:#ffffff;stroke-width:1.6329931" />
+       style="fill:#ffffff;stroke-width:1.62572682" />
     <rect
        transform="translate(0,42)"
        width="400"
@@ -580,11 +530,11 @@
        style="fill:#e0e0e0" />
     <rect
        width="400"
-       height="113"
+       height="111.00549"
        id="rect1244"
        x="0"
        y="838"
-       style="fill:#ffffff;stroke-width:1.64026701" />
+       style="fill:#ffffff;stroke-width:1.62572682" />
     <rect
        width="400"
        height="1"
@@ -608,11 +558,11 @@
        style="fill:#e0e0e0" />
     <rect
        width="400"
-       height="111.99994"
+       height="88.256424"
        id="rect1252"
        x="0"
        y="1038"
-       style="fill:#ffffff;stroke-width:1.63299263" />
+       style="fill:#ffffff;stroke-width:1.44960105" />
     <rect
        width="400"
        height="1"
@@ -664,11 +614,11 @@
        style="fill:#e0e0e0" />
     <rect
        width="400"
-       height="88.999954"
+       height="87.498123"
        id="rect1268"
        x="0"
        y="1366"
-       style="fill:#ffffff;stroke-width:1.45569456" />
+       style="fill:#ffffff;stroke-width:1.44336021" />
     <rect
        width="400"
        height="1"
@@ -706,11 +656,11 @@
        style="fill:#e0e0e0" />
     <rect
        width="400"
-       height="61.999962"
+       height="61.381187"
        id="rect1280"
        x="0"
        y="1626"
-       style="fill:#f5f5f5;stroke-width:1.21498537" />
+       style="fill:#f5f5f5;stroke-width:1.20890725" />
     <rect
        width="400"
        height="1"
@@ -1054,14 +1004,14 @@
        y="182">
       <tspan
          sodipodi:role="line"
+         id="tspan2111"
          x="77"
-         y="182"
-         id="tspan1409">Review written test &amp; recap</tspan>
+         y="182">Review written test</tspan>
       <tspan
          sodipodi:role="line"
+         id="tspan2113"
          x="77"
-         y="205.33333"
-         id="tspan1413">Questionnaire content</tspan>
+         y="205.33333">Questionnaire content</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan2115"
@@ -1083,7 +1033,7 @@
          sodipodi:role="line"
          id="tspan2075"
          x="77"
-         y="292">Review written test &amp; recap</tspan>
+         y="292">Review written test</tspan>
       <tspan
          sodipodi:role="line"
          x="77"
@@ -1110,7 +1060,7 @@
          sodipodi:role="line"
          id="tspan2023"
          x="77"
-         y="404">Review written test &amp; recap</tspan>
+         y="404">Review written test</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan2025"
@@ -1140,14 +1090,14 @@
          y="516">Written test</tspan>
       <tspan
          sodipodi:role="line"
+         id="tspan1989"
          x="77"
-         y="539.33331"
-         id="tspan2011">Interviewing techniques</tspan>
+         y="539.33331">Interviewing skills</tspan>
       <tspan
          sodipodi:role="line"
          x="77"
          y="562.66669"
-         id="tspan1327">Field practice</tspan>
+         id="tspan2011">Field practice</tspan>
     </text>
     <text
        font-size="18"
@@ -1198,7 +1148,7 @@
          sodipodi:role="line"
          id="tspan1907"
          x="77"
-         y="756">Review written test &amp; recap</tspan>
+         y="756">Review written test</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan1909"
@@ -1225,7 +1175,7 @@
          sodipodi:role="line"
          id="tspan1855"
          x="77"
-         y="866">Review written test &amp; recap</tspan>
+         y="866">Review written test</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan1857"
@@ -1252,7 +1202,7 @@
          sodipodi:role="line"
          id="tspan1819"
          x="77"
-         y="978">Review written test &amp; recap</tspan>
+         y="978">Review written test</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan1821"
@@ -1277,14 +1227,14 @@
          y="1066">Debrief</tspan>
       <tspan
          sodipodi:role="line"
-         id="tspan23300"
+         id="tspan23298"
          x="77"
-         y="1089.3334">Interviewing techniques</tspan>
+         y="1089.3334">Interviewing skills</tspan>
       <tspan
          sodipodi:role="line"
+         id="tspan23300"
          x="77"
-         y="1112.6666"
-         id="tspan1268">Field practice</tspan>
+         y="1112.6666">Field practice</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan23302"
@@ -1316,7 +1266,7 @@
          sodipodi:role="line"
          x="77"
          y="1244"
-         id="tspan23308">Supervisor training (after)</tspan>
+         id="tspan23308">Supervisor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1333,7 +1283,7 @@
          sodipodi:role="line"
          x="77"
          y="1309.3334"
-         id="tspan1739">Supervisor training (after)</tspan>
+         id="tspan1739">Supervisor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1367,7 +1317,7 @@
          sodipodi:role="line"
          x="77"
          y="1440.6666"
-         id="tspan1703">Supervisor training (after)</tspan>
+         id="tspan1703">Supervisor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1384,7 +1334,7 @@
          sodipodi:role="line"
          x="77"
          y="1505.3334"
-         id="tspan1683">Supervisor training (after)</tspan>
+         id="tspan1683">Supervisor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1404,14 +1354,14 @@
          y="1569.3334">Administrative matters</tspan>
       <tspan
          sodipodi:role="line"
+         id="tspan1639"
          x="77"
-         y="1592.6666"
-         id="tspan1671">Supervisor training (parallel)</tspan>
+         y="1592.6666">Supervisor training</tspan>
       <tspan
          sodipodi:role="line"
          x="77"
          y="1616"
-         id="tspan1260">Data monitor training (parallel)</tspan>
+         id="tspan1671">Data monitor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1428,7 +1378,7 @@
          sodipodi:role="line"
          x="77"
          y="1677.3334"
-         id="tspan1631">Data monitor training (parallel)</tspan>
+         id="tspan1631">Data monitor training</tspan>
     </text>
     <text
        font-size="18"
@@ -1445,7 +1395,7 @@
          sodipodi:role="line"
          x="77"
          y="1739.3334"
-         id="tspan1615">Data monitor training (parallel)</tspan>
+         id="tspan1615">Data monitor training</tspan>
     </text>
     <text
        transform="translate(77,868)"
@@ -1512,7 +1462,7 @@
          sodipodi:role="line"
          x="0"
          y="70"
-         id="tspan2187">0.5</tspan>
+         id="tspan2187">1</tspan>
     </text>
     <text
        font-size="18"
@@ -1615,7 +1565,7 @@
          sodipodi:role="line"
          x="357"
          y="562.66669"
-         id="tspan2019">4</tspan>
+         id="tspan2019">5</tspan>
     </text>
     <text
        font-size="18"
@@ -1642,7 +1592,7 @@
          sodipodi:role="line"
          x="357"
          y="674"
-         id="tspan1983">0.5</tspan>
+         id="tspan1983">6</tspan>
     </text>
     <text
        transform="translate(357,322)"
@@ -1733,19 +1683,19 @@
        y="1066">
       <tspan
          sodipodi:role="line"
-         id="tspan1513"
+         id="tspan1797"
          x="357"
          y="1066">1</tspan>
       <tspan
          sodipodi:role="line"
+         id="tspan1799"
          x="357"
-         y="1089.3334"
-         id="tspan5297">1.5</tspan>
+         y="1089.3334">1.5</tspan>
       <tspan
          sodipodi:role="line"
          x="357"
          y="1112.6666"
-         id="tspan5293">4</tspan>
+         id="tspan1815">5</tspan>
     </text>
     <text
        font-size="18"
@@ -1757,7 +1707,7 @@
          sodipodi:role="line"
          id="tspan1759"
          x="357"
-         y="1174">2.5</tspan>
+         y="1174">2</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan1761"
@@ -1863,6 +1813,23 @@
          id="tspan1659">4</tspan>
     </text>
     <text
+       font-size="18"
+       id="text1566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       x="357"
+       y="1654">
+      <tspan
+         sodipodi:role="line"
+         id="tspan1623"
+         x="357"
+         y="1654">7</tspan>
+      <tspan
+         sodipodi:role="line"
+         x="357"
+         y="1677.3334"
+         id="tspan1627">7</tspan>
+    </text>
+    <text
        transform="translate(357,826)"
        font-size="18"
        id="text1568"
@@ -1899,32 +1866,32 @@
        style="font-size:18px;font-family:'Open Sans-Regular', 'Open Sans'" />
     <rect
        width="1"
-       height="1753"
+       height="1733"
        id="rect1582"
        x="0"
        y="0"
-       style="fill:#e0e0e0;stroke-width:1.26700878" />
+       style="fill:#e0e0e0;stroke-width:1.25976038" />
     <rect
        width="1"
-       height="1752.5426"
+       height="1732.2971"
        id="rect1584"
        x="60"
-       y="-3.5998849e-07"
-       style="fill:#e0e0e0;stroke-width:1.26684344" />
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.2595048" />
     <rect
        width="1"
-       height="1752.6726"
+       height="1732.297"
        id="rect1586"
        x="340"
-       y="-3.6178017e-07"
-       style="fill:#e0e0e0;stroke-width:1.26689053" />
+       y="0"
+       style="fill:#e0e0e0;stroke-width:1.25950491" />
     <rect
        width="1"
-       height="1753"
+       height="1732"
        id="rect1588"
        x="399"
        y="0"
-       style="fill:#e0e0e0;stroke-width:1.26700878" />
+       style="fill:#e0e0e0;stroke-width:1.25939691" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot1729"
@@ -1998,21 +1965,21 @@
          id="flowPara2723" /></flowRoot>    <text
        font-size="18"
        id="text1434-8"
-       x="-232.23523"
-       y="845.99146"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       x="672.37799"
+       y="699.36212"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan2787"
-         x="-232.23523"
-         y="845.99146"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">Allow at least one</tspan>
+         x="672.37799"
+         y="699.36212"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">allow at least one</tspan>
       <tspan
          sodipodi:role="line"
-         x="-232.23523"
-         y="870.02161"
+         x="672.37799"
+         y="723.39227"
          id="tspan2791"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">rest day per week.</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">rest day per week</tspan>
     </text>
     <flowRoot
        xml:space="preserve"
@@ -2025,32 +1992,31 @@
            x="482.28009"
            y="676.6853" /></flowRegion><flowPara
          id="flowPara2799" /></flowRoot>    <path
-       style="fill:none;fill-opacity:1;stroke:#ffa600;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495)"
-       d="M 71.383085,712.50948 C -1.4353208,720.1565 -53.153113,760.52419 -90.103007,828.13365"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495)"
+       d="m 385.59657,709.29228 33.34942,-0.44139 224.47327,-2.97096"
        id="path3473"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="ccc" />
     <text
        font-size="18"
        id="text1434-8-1"
-       x="420.48431"
-       y="61.21006"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       x="623.16809"
+       y="31.182831"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan1139"
-         x="420.48431"
-         y="61.21006"
-         style="fill:#ffa600;fill-opacity:1">Keep this short so you can cover</tspan>
+         x="623.16809"
+         y="31.182831">keep short so you can cover</tspan>
       <tspan
          sodipodi:role="line"
-         x="420.48431"
-         y="84.543396"
-         id="tspan1143">some content on the first day.</tspan>
+         x="623.16809"
+         y="54.516163"
+         id="tspan1143">some content on the first day</tspan>
     </text>
     <path
-       style="fill:#ffa600;fill-opacity:1;stroke:#e9c46a;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6)"
-       d="m 392.7981,77.003382 21.85905,-9.025318"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6)"
+       d="M 411.02891,75.930981 C 496.9698,74.793527 526.03805,38.015885 611.97894,36.878436"
        id="path3473-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2059,7 +2025,7 @@
        id="text1434-8-1-7"
        x="375.28842"
        y="88.889435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan13046"
@@ -2086,109 +2052,79 @@
     <text
        font-size="18"
        id="text1434-8-1-0"
-       x="-258.94528"
-       y="94.00975"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       x="499.24222"
+       y="110.09577"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
-         x="-258.94528"
-         y="94.00975"
-         id="tspan8931">Regular written tests after</tspan>
+         id="tspan8763"
+         x="499.24222"
+         y="110.09577">Regular written tests, whenever new content</tspan>
       <tspan
          sodipodi:role="line"
-         x="-258.94528"
-         y="117.34309"
-         id="tspan1333">new content was covered. Start</tspan>
+         x="499.24222"
+         y="133.42911"
+         id="tspan8931">was covered. Start from the first day.</tspan>
       <tspan
          sodipodi:role="line"
-         x="-258.94528"
-         y="140.67642"
-         id="tspan8933">from the first day. The following</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-258.94528"
-         y="164.00975"
-         id="tspan1325">day, review the test and recap</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-258.94528"
-         y="187.34308"
-         id="tspan1403">learnt material.</tspan>
+         x="499.24222"
+         y="156.76244"
+         id="tspan8933">Review test on the same or following day.</tspan>
     </text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5)"
-       d="M 69.675835,135.61086 22.061275,131.3101"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5)"
+       d="m 185.49514,136.68326 c 43.87953,5.71735 92.3445,9.84763 139.04691,11.74194 15.43712,0.62615 30.68168,1.00801 45.5044,1.12213 62.26116,0.47936 77.91775,-5.07936 114.21965,-19.30963"
        id="path3473-7-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cssc" />
     <path
-       style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5-7)"
-       d="M 70.57095,172.70123 C 60.834681,156.81144 60.531225,144.76314 69.675835,135.61086"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5-7)"
+       d="m 232.07458,172.69007 c 23.55145,-16.63023 47.54832,-21.30612 60.82097,-23.20962 11.70202,-1.67824 13.04155,-1.53912 27.03554,-0.76341"
        id="path3473-7-5-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="csc" />
     <text
        font-size="18"
        id="text1434-8-1-7-9"
-       x="264.48303"
-       y="330.79886"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       x="264.91745"
+       y="223.12436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan13046-4"
-         x="264.48303"
-         y="330.79886">}</tspan>
+         x="264.91745"
+         y="223.12436">}</tspan>
     </text>
     <path
-       style="fill:none;stroke:#bc5090;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1)"
-       d="M 283.97902,315.47741 409.861,288.22129"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1)"
+       d="m 286.12383,212.52692 c 18.31576,-0.0221 54.87637,-2.544 78.59769,-1.49282 45.91642,2.03473 45.28714,1.1131 96.61472,8.55352"
        id="path3473-7-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="csc" />
     <text
        font-size="18"
        id="text1434-8-1-6"
-       x="424.93991"
-       y="234.32755"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       x="468.90833"
+       y="203.22794"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan10572"
-         x="424.93991"
-         y="234.32755">Practice newly learnt content.</tspan>
+         x="468.90833"
+         y="203.22794">Practice newly learnt content. Change between</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan10574"
-         x="424.93991"
-         y="257.66089">Break these into shorter</tspan>
+         x="468.90833"
+         y="226.56126">content and practising e.g. two 1.5 hrs. sessions</tspan>
       <tspan
          sodipodi:role="line"
-         x="424.93991"
-         y="280.9942"
-         id="tspan1425">sessions and change between</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="424.93991"
-         y="304.32755"
-         id="tspan10576">content and practice. For an</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="424.93991"
-         y="327.66089"
-         id="tspan1433">example, see the detailed</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="424.93991"
-         y="350.9942"
-         id="tspan1256">schedule for one training day</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="424.93991"
-         y="374.32755"
-         id="tspan1275">below.</tspan>
+         x="468.90833"
+         y="249.89461"
+         id="tspan10576">of content and two 1 hrs. sessions of practice.</tspan>
     </text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#58508d;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4)"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4)"
        d="M 68.357158,331.15616 C 20.801136,288.60271 53.571382,243.42467 69.840597,225.61476"
        id="path3473-7-6-8"
        inkscape:connector-curvature="0"
@@ -2196,236 +2132,178 @@
     <text
        font-size="18"
        id="text1434-8-1-6-9"
-       x="-258.04416"
-       y="338.89468"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1">
+       x="443.30609"
+       y="339.9671"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan23468"
-         x="-258.04416"
-         y="338.89468">Make practice gradually more</tspan>
+         x="443.30609"
+         y="339.9671">Make practice gradually more real.</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan23470"
-         x="-258.04416"
-         y="362.22803">realistic. Start with group</tspan>
+         x="443.30609"
+         y="363.30045">Start with group practice and front-</tspan>
       <tspan
          sodipodi:role="line"
-         x="-258.04416"
-         y="385.56134"
-         id="tspan23472">practice and front-of-class</tspan>
+         x="443.30609"
+         y="386.63376"
+         id="tspan23472">of-class interviews. Later, practice with</tspan>
       <tspan
          sodipodi:role="line"
-         x="-258.04416"
-         y="408.89468"
-         id="tspan23478">interviews. Later, practice</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-258.04416"
-         y="432.22803"
-         id="tspan1244">with respondents in-house</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-258.04416"
-         y="455.56134"
-         id="tspan1355">and in-field.</tspan>
+         x="443.30609"
+         y="409.9671"
+         id="tspan23478">respondents in-house and in-field.</tspan>
     </text>
     <path
-       style="fill:none;stroke:#003f5c;stroke-width:2.08585572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-40)"
-       d="m 282.72326,529.57628 c 58.68668,-4.16755 74.8675,-4.33413 125.94407,-17.59883"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.08585572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-40)"
+       d="m 228.03081,531.72108 c 88.4483,1.53271 193.41847,-21.83507 250.34258,-28.32284"
        id="path3473-7-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-7"
-       x="417.19083"
-       y="473.12457"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1">
+       x="487.9693"
+       y="492.4278"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
+      <tspan
+         sodipodi:role="line"
+         id="tspan14070"
+         x="487.9693"
+         y="492.4278">e.g. how to introduce the survey and ask for</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan14072"
-         x="417.19083"
-         y="473.12457">Just prior to the first field</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="417.19083"
-         y="496.45792"
-         id="tspan1280">practice, train how to introduce</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="417.19083"
-         y="519.79126"
-         id="tspan1282">the survey to respondents and</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="417.19083"
-         y="543.12457"
-         id="tspan1278">ask for participation.</tspan>
+         x="487.9693"
+         y="515.76111">participation, just prior to field practice</tspan>
     </text>
     <path
-       style="fill:none;stroke:#bc5090;stroke-width:2.08585572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-40-2)"
-       d="m 67.233734,565.22465 -94.970527,23.15241"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.08585572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-40-2)"
+       d="m 194.84945,553.42824 c 98.31295,-1.57797 115.63194,-24.26671 320.04865,14.5732"
        id="path3473-7-6-3-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-13"
-       x="-255.20459"
-       y="584.6543"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       x="523.35852"
+       y="570.71307"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         id="tspan14816"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         x="523.35852"
+         y="570.71307">half a day to practice first part of the</tspan>
+      <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan14818"
-         x="-255.20459"
-         y="584.6543">Practice the first part of the</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="608.68445"
-         id="tspan1296">questionnaire. Half a day is</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="632.7146"
-         id="tspan1385">often sufficient. Debrief the</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="656.74481"
-         id="tspan1377">following day. Early exposure</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="680.77496"
-         id="tspan1395">to real respondents and the</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="704.80511"
-         id="tspan1461">field makes the rest of training</tspan>
-      <tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
-         x="-255.20459"
-         y="728.83527"
-         id="tspan1463">more tangible for trainees.</tspan>
+         x="523.35852"
+         y="594.74323">questionnaire, debrief the day after</tspan>
     </text>
     <path
-       style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-6-0)"
-       d="m 258.98128,630.23774 147.45313,82.57229"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-6-1)"
+       d="m 236.38118,1194.0226 c 64.17601,-83.0415 152.73583,-148.4381 188.0812,-151.6547"
+       id="path3473-7-6-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-6-0)"
+       d="m 263.27089,617.36893 c 78.64213,-23.82183 176.7084,-10.97576 249.20806,31.72593"
        id="path3473-7-6-5-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-13-8"
-       x="416.13239"
-       y="721.30951"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       x="534.0965"
+       y="653.3999"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan15854"
-         x="416.13239"
-         y="721.30951">After the first part of the</tspan>
+         x="534.0965"
+         y="653.3999">start second part of questionnaire</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1434-8-1-7-0"
+       x="1161.1501"
+       y="342.65558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.88322449px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1;stroke-width:2.85663795"
+       transform="scale(0.35006186,2.856638)">
       <tspan
          sodipodi:role="line"
-         x="416.13239"
-         y="744.64282"
-         id="tspan1397">questionnaire has been fully</tspan>
+         id="tspan13046-2"
+         x="1161.1501"
+         y="342.65558"
+         style="stroke-width:2.85663795">}</tspan>
+    </text>
+    <text
+       font-size="18"
+       id="text1434-8-6"
+       x="452.02808"
+       y="852.20258"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
-         x="416.13239"
-         y="767.9762"
-         id="tspan1357">practiced, start with the second</tspan>
+         id="tspan21637"
+         x="452.02808"
+         y="852.20258">Cover new parts of the questionnaire, again</tspan>
       <tspan
          sodipodi:role="line"
-         x="416.13239"
-         y="791.30951"
-         id="tspan1308">part. Follow the same pattern,</tspan>
+         id="tspan21639"
+         x="452.02808"
+         y="875.53589">breaking questionnaire content sessions with</tspan>
       <tspan
          sodipodi:role="line"
-         x="416.13239"
-         y="814.64282"
-         id="tspan1361">mixing content with pratice</tspan>
+         x="452.02808"
+         y="898.86926"
+         id="tspan21641">group practice, front-of-class interviews and</tspan>
       <tspan
          sodipodi:role="line"
-         x="416.13239"
-         y="837.9762"
-         id="tspan1302">sessions and making practice</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="416.13239"
-         y="861.30951"
-         id="tspan1315">gradually more realistic.</tspan>
+         x="452.02808"
+         y="922.20258"
+         id="tspan21643">eventually practicing with respondents on-site.</tspan>
     </text>
     <text
        font-size="18"
        id="text1434-8-13-8-4"
-       x="-249.93309"
-       y="964.77545"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1">
+       x="592.97406"
+       y="1049.4092"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan23134"
-         x="-249.93309"
-         y="964.77545">Just prior to the second field</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-249.93309"
-         y="988.10876"
-         id="tspan1489">practice, train relevant</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-249.93309"
-         y="1011.4421"
-         id="tspan1491">interviewing techniques such</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-249.93309"
-         y="1034.7754"
-         id="tspan1493">as inquiring and controlling</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-249.93309"
-         y="1058.1088"
-         id="tspan1507">the interview.</tspan>
+         x="592.97406"
+         y="1049.4092">just prior to field practise</tspan>
     </text>
     <path
-       style="fill:none;stroke:#58508d;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1)"
-       d="M 69.429553,1073.2576 -5.2274671,1008.4674"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1)"
+       d="m 252.81012,1076.4748 c 102.93752,-34.3402 215.29226,-45.5578 322.13134,-31.5457"
        id="path3473-7-6-56"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#003f5c;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-11)"
-       d="m 191.68326,1105.4297 211.67403,-41.1973"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-11)"
+       d="m 199.19007,1110.7917 c 96.24815,14.7063 88.33239,10.8266 120.49295,9.6884 26.66995,-0.9438 108.70488,-6.2372 135.14953,-10.1345"
        id="path3473-7-6-59"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="csc" />
     <text
        font-size="18"
        id="text1434-8-13-8-4-9"
-       x="413.58011"
-       y="1045.994"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1">
+       x="462.18652"
+       y="1112.569"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
-         x="413.58011"
-         y="1045.994"
-         id="tspan1274">Practice the entire questionnaire,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="413.58011"
-         y="1069.3274"
-         id="tspan1517">with focus on the second part.</tspan>
+         id="tspan23154"
+         x="462.18652"
+         y="1112.569">afternoon to practice the entire questionnaire once</tspan>
     </text>
     <text
        xml:space="preserve"
@@ -2436,213 +2314,90 @@
          sodipodi:role="line"
          id="tspan23288"
          x="182.30817"
-         y="1149.6454" /><tspan
+         y="1149.6454"></tspan><tspan
          sodipodi:role="line"
          x="182.30817"
          y="1199.6454"
          id="tspan23292" /></text>
     <path
-       style="fill:none;stroke:#ffa600;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1)"
-       d="m 250.06038,1133.1408 154.83679,61.7532"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1)"
+       d="m 255.42238,1130.0684 c 109.37193,8.5558 153.09301,24.1483 259.93209,38.1604"
        id="path3473-7-6-56-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-13-8-4-7"
-       x="410.6525"
-       y="1208.5646"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       x="535.1098"
+       y="1173.3201"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666667px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2ed3a5;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
-         id="tspan24641"
-         x="410.6525"
-         y="1208.5646">Select fieldworkers after you</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1231.8979"
-         id="tspan2542">could observe them in interviews</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1255.2312"
-         id="tspan2248">and prior to the final field test,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1278.5646"
-         id="tspan2250">so they can operate in anticipated</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1301.8979"
-         id="tspan2252">field team compositions and</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1325.2312"
-         id="tspan2254">supervisors can start to assume</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="410.6525"
-         y="1348.5646"
-         id="tspan2560">thier role.</tspan>
+         id="tspan24641">select prior to final field test</tspan>
     </text>
     <path
-       style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3)"
-       d="m 57.100609,1204.8724 -69.295016,37.088"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3)"
+       d="m 244.77078,1240.2616 c 58.62652,18.5801 67.50451,14.779 190.22602,4.916"
        id="path3473-7-6-56-2-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-13-8-4-7-1"
-       x="-255.96492"
-       y="1198.0974"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       x="445.38531"
+       y="1250.645"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan25098"
-         x="-255.96492"
-         y="1198.0974">Just prior to the final field test,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1221.4308"
-         id="tspan2776">train pre- and post-interview</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1244.764"
-         id="tspan2784">tasks that are needed for first</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1268.0974"
-         id="tspan2786">day of final field test, such as</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1291.4308"
-         id="tspan2772">the tracking sheets, respondent</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1314.764"
-         id="tspan2792">selection, completion checks,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1338.0974"
-         id="tspan2794">etc.</tspan>
+         x="445.38531"
+         y="1250.645">after main training hours, prepare for final field test</tspan>
     </text>
+    <path
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3-9)"
+       d="m 299.96662,1389.749 c 154.07021,-30.7503 64.28731,-15.2482 204.16723,-34.7628"
+       id="path3473-7-6-56-2-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        font-size="18"
        id="text1434-8-13-8-4-7-19"
-       x="-257.90616"
-       y="1456.5459"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1">
+       x="504.36737"
+       y="1338.5818"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2ed3a5;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan25952"
-         x="-257.90616"
-         y="1456.5459">Schedule classroom days after</tspan>
+         x="504.36737"
+         y="1338.5818">allow days between and after final field tests</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan25954"
-         x="-257.90616"
-         y="1479.8793">each day of final field test to</tspan>
+         x="504.36737"
+         y="1361.9152">to debrief, train pre- and post interviewing</tspan>
       <tspan
          sodipodi:role="line"
-         x="-257.90616"
-         y="1503.2125"
-         id="tspan1266">debrief, train pre- and post-</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-257.90616"
-         y="1526.5459"
-         id="tspan2940">interviewing tasks and retrain</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-257.90616"
-         y="1549.8793"
-         id="tspan2944">topics that need improvement.</tspan>
+         x="504.36737"
+         y="1385.2484"
+         id="tspan25956">tasks and refresh material</tspan>
     </text>
     <path
-       style="fill:none;stroke:#bc5090;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3-9-6)"
-       d="m 245.81301,1414.3043 c 71.13964,14.963 112.3379,26.6977 162.7662,70.7229"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3-9-6)"
+       d="M 281.20223,1544.0648 C 400,1455 364.25393,1374.5008 504.13385,1354.9862"
        id="path3473-7-6-56-2-3-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#58508d;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4-55)"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4-55)"
        d="M 66.873719,436.69756 C 19.317693,394.14411 52.087943,348.96607 68.357158,331.15616"
        id="path3473-7-6-8-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#58508d;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4-4)"
+       style="fill:none;stroke:#2ed3a5;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4-4)"
        d="M 65.39028,542.23896 C 17.834257,499.68551 50.604504,454.50747 66.873719,436.69756"
        id="path3473-7-6-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#003f5c;fill-opacity:1;stroke:#005186;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-11-9)"
-       d="M 306.46913,1023.2387 404,1039"
-       id="path3473-7-6-59-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       font-size="18"
-       id="text1434-8-1-7-7"
-       x="63.313419"
-       y="1213.6471"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
-      <tspan
-         sodipodi:role="line"
-         id="tspan13046-5"
-         x="63.313419"
-         y="1213.6471">{</tspan>
-    </text>
-    <path
-       style="fill:none;stroke:#003f5c;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3-4)"
-       d="m 61.34716,1415.2863 -65.0054063,28.5088"
-       id="path3473-7-6-56-2-3-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#003f5c;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-1-1-3-4-1)"
-       d="M 61.260667,1579.2464 -3.4551391,1549.9903"
-       id="path3473-7-6-56-2-3-4-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       font-size="18"
-       id="text1434-8-13-8-4-7-9"
-       x="415.19009"
-       y="1497.8604"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
-      <tspan
-         sodipodi:role="line"
-         x="415.19009"
-         y="1497.8604"
-         id="tspan2254-2">Train how to respond to rejected</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="415.19009"
-         y="1521.1937"
-         id="tspan3734">interviews and queries using as</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="415.19009"
-         y="1544.527"
-         id="tspan2560-4">examples the interviews from</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="415.19009"
-         y="1567.8604"
-         id="tspan4465">the final field test.</tspan>
-    </text>
   </g>
 </svg>

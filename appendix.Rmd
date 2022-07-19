@@ -1,5 +1,52 @@
 # (APPENDIX) Appendix {-} 
 
+## callout box examples{-}
+
+:::: { .fyi  data-latex=""}
+Did you know that ... this book is work in progress and in a pre-publish state. 
+something long
+and longer ahhds oh yeahaaahjkl
+::::
+
+:::: { .lightbulb  data-latex=""}
+Did you know that ... this book is work in progress and in a pre-publish state. 
+something long
+and longer ahhds oh yeahaaahjkl
+::::
+
+:::: { .warning  data-latex=""}
+Warning ... this book is work in progress and in a pre-publish state. 
+something longer
+::::
+
+:::: { .careful  data-latex=""}
+Warning ... this book is work in progress and in a pre-publish state. 
+something longer and longer ajetztabera test
+::::
+
+:::: { .tools  data-latex=""}
+**Useful tools:**   
+a
+b
+c
+::::
+
+:::: { .question  data-latex=""}
+**Useful tools:**   
+a
+b
+c
+::::
+
+
+
+:::: {.errorbox data-latex=""}
+**DO NOT SHARE!**
+
+The book is work in progress and in a pre-publish state. 
+::::
+
+
 # Abbreviations and Acronyms {-}
 
 ```{r acronyms, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}

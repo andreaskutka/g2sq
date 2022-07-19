@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="248.26909mm"
-   height="483.81458mm"
+   width="247.44501mm"
+   height="463.81458mm"
    version="1.1"
    id="svg1593"
    sodipodi:docname="training-schedule-annotated.svg"
@@ -24,13 +24,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs1597">
-    <marker
+
+	<marker
        inkscape:stockid="Arrow2Mstart"
        orient="auto"
        refY="0"
@@ -421,6 +422,9 @@
          transform="scale(0.6)" />
     </marker>
   </defs>
+    <style type="text/css">
+		@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700');
+	</style>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -435,22 +439,22 @@
      id="namedview1595"
      showgrid="false"
      inkscape:zoom="0.93248703"
-     inkscape:cx="306.15652"
-     inkscape:cy="611.17451"
+     inkscape:cx="486.85608"
+     inkscape:cy="1868.9211"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="table"
      units="mm"
-     fit-margin-top="10"
+     fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="10"
+     fit-margin-bottom="0"
      showguides="false"
      inkscape:snap-text-baseline="true" />
   <g
      id="table"
-     transform="translate(258.44128,37.795276)">
+     transform="translate(258.44128)">
     <rect
        width="400"
        height="42"
@@ -742,13 +746,14 @@
     <text
        font-size="18"
        id="text1314"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       font-family="Source Sans Pro"
        x="15"
        y="28">
       <tspan
          x="15"
          y="28"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         font-family="Source Sans Pro"
+		 font-weight="bold"
          id="tspan1312">Day</tspan>
     </text>
     <text
@@ -1024,7 +1029,8 @@
        transform="translate(77,70)"
        font-size="18"
        id="text1410"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">
+       font-weight="normal"
+	   font-family="Source Sans Pro">
       <tspan
          sodipodi:role="line"
          id="tspan2151"
@@ -1049,7 +1055,7 @@
     <text
        font-size="18"
        id="text1414"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="182">
       <tspan
@@ -1076,7 +1082,7 @@
     <text
        font-size="18"
        id="text1418"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="292">
       <tspan
@@ -1103,7 +1109,7 @@
     <text
        font-size="18"
        id="text1422"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="404">
       <tspan
@@ -1130,7 +1136,7 @@
     <text
        font-size="18"
        id="text1426"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="516">
       <tspan
@@ -1152,7 +1158,7 @@
     <text
        font-size="18"
        id="text1430"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="604">
       <tspan
@@ -1181,17 +1187,17 @@
        id="text1434"
        x="77"
        y="714"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">
+       style="font-weight:normal;font-family:'Source Sans Pro'">
       <tspan
          x="77"
          y="714"
          id="tspan1432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">Rest day</tspan>
+         style="font-weight:normal;font-family:'Source Sans Pro'">Rest day</tspan>
     </text>
     <text
        font-size="18"
        id="text1438"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="756">
       <tspan
@@ -1218,7 +1224,7 @@
     <text
        font-size="18"
        id="text1442"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="866">
       <tspan
@@ -1245,7 +1251,7 @@
     <text
        font-size="18"
        id="text1446"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="978">
       <tspan
@@ -1267,7 +1273,7 @@
     <text
        font-size="18"
        id="text1450"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1066">
       <tspan
@@ -1294,7 +1300,7 @@
     <text
        font-size="18"
        id="text1454"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1174">
       <tspan
@@ -1321,7 +1327,7 @@
     <text
        font-size="18"
        id="text1458"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1286">
       <tspan
@@ -1340,17 +1346,17 @@
        id="text1462"
        x="77"
        y="1352"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">
+       style="font-weight:normal;font-family:'Source Sans Pro'">
       <tspan
          x="77"
          y="1352"
          id="tspan1460"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">Rest day</tspan>
+         style="font-weight:normal;font-family:'Source Sans Pro'">Rest day</tspan>
     </text>
     <text
        font-size="18"
        id="text1466"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1394">
       <tspan
@@ -1372,7 +1378,7 @@
     <text
        font-size="18"
        id="text1470"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1482">
       <tspan
@@ -1389,7 +1395,7 @@
     <text
        font-size="18"
        id="text1474"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1546">
       <tspan
@@ -1416,7 +1422,7 @@
     <text
        font-size="18"
        id="text1478"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1654">
       <tspan
@@ -1433,7 +1439,7 @@
     <text
        font-size="18"
        id="text1482"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="77"
        y="1716">
       <tspan
@@ -1492,7 +1498,7 @@
        transform="translate(357,70)"
        font-size="18"
        id="text1502"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">
+       style="font-weight:normal;font-family:'Source Sans Pro'">
       <tspan
          sodipodi:role="line"
          id="tspan2159"
@@ -1517,7 +1523,7 @@
     <text
        font-size="18"
        id="text1506"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="182">
       <tspan
@@ -1544,7 +1550,7 @@
     <text
        font-size="18"
        id="text1510"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="292">
       <tspan
@@ -1571,7 +1577,7 @@
     <text
        font-size="18"
        id="text1514"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="404">
       <tspan
@@ -1598,7 +1604,7 @@
     <text
        font-size="18"
        id="text1518"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="516">
       <tspan
@@ -1620,7 +1626,7 @@
     <text
        font-size="18"
        id="text1522"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="604">
       <tspan
@@ -1652,7 +1658,7 @@
     <text
        font-size="18"
        id="text1528"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="756">
       <tspan
@@ -1679,7 +1685,7 @@
     <text
        font-size="18"
        id="text1532"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="866">
       <tspan
@@ -1706,7 +1712,7 @@
     <text
        font-size="18"
        id="text1536"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="978">
       <tspan
@@ -1728,7 +1734,7 @@
     <text
        font-size="18"
        id="text1540"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1066">
       <tspan
@@ -1750,7 +1756,7 @@
     <text
        font-size="18"
        id="text1544"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1174">
       <tspan
@@ -1777,7 +1783,7 @@
     <text
        font-size="18"
        id="text1548"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1286">
       <tspan
@@ -1799,7 +1805,7 @@
     <text
        font-size="18"
        id="text1554"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1394">
       <tspan
@@ -1821,7 +1827,7 @@
     <text
        font-size="18"
        id="text1558"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1482">
       <tspan
@@ -1838,7 +1844,7 @@
     <text
        font-size="18"
        id="text1562"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
+       style="font-weight:normal;font-family:'Source Sans Pro'"
        x="357"
        y="1546">
       <tspan
@@ -2000,19 +2006,19 @@
        id="text1434-8"
        x="-232.23523"
        y="845.99146"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan2787"
          x="-232.23523"
          y="845.99146"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">Allow at least one</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1;">Allow at least one</tspan>
       <tspan
          sodipodi:role="line"
          x="-232.23523"
          y="870.02161"
          id="tspan2791"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">rest day per week.</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1;">rest day per week.</tspan>
     </text>
     <flowRoot
        xml:space="preserve"
@@ -2025,7 +2031,7 @@
            x="482.28009"
            y="676.6853" /></flowRegion><flowPara
          id="flowPara2799" /></flowRoot>    <path
-       style="fill:none;fill-opacity:1;stroke:#ffa600;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495)"
+       style="fill:none;stroke:#ffa600;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495);fill-opacity:1"
        d="M 71.383085,712.50948 C -1.4353208,720.1565 -53.153113,760.52419 -90.103007,828.13365"
        id="path3473"
        inkscape:connector-curvature="0"
@@ -2035,13 +2041,13 @@
        id="text1434-8-1"
        x="420.48431"
        y="61.21006"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan1139"
          x="420.48431"
          y="61.21006"
-         style="fill:#ffa600;fill-opacity:1">Keep this short so you can cover</tspan>
+         style="fill:#ffa600;fill-opacity:1;">Keep this short so you can cover</tspan>
       <tspan
          sodipodi:role="line"
          x="420.48431"
@@ -2049,7 +2055,7 @@
          id="tspan1143">some content on the first day.</tspan>
     </text>
     <path
-       style="fill:#ffa600;fill-opacity:1;stroke:#e9c46a;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6)"
+       style="fill:#ffa600;stroke:#e9c46a;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6);fill-opacity:1"
        d="m 392.7981,77.003382 21.85905,-9.025318"
        id="path3473-7"
        inkscape:connector-curvature="0"
@@ -2059,7 +2065,7 @@
        id="text1434-8-1-7"
        x="375.28842"
        y="88.889435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan13046"
@@ -2088,7 +2094,7 @@
        id="text1434-8-1-0"
        x="-258.94528"
        y="94.00975"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          x="-258.94528"
@@ -2116,7 +2122,7 @@
          id="tspan1403">learnt material.</tspan>
     </text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5)"
+       style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5);fill-opacity:1"
        d="M 69.675835,135.61086 22.061275,131.3101"
        id="path3473-7-5"
        inkscape:connector-curvature="0"
@@ -2132,7 +2138,7 @@
        id="text1434-8-1-7-9"
        x="264.48303"
        y="330.79886"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan13046-4"
@@ -2150,7 +2156,7 @@
        id="text1434-8-1-6"
        x="424.93991"
        y="234.32755"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan10572"
@@ -2175,17 +2181,12 @@
          sodipodi:role="line"
          x="424.93991"
          y="327.66089"
-         id="tspan1433">example, see the detailed</tspan>
+         id="tspan1433">Sexample, see the detailed</tspan>
       <tspan
          sodipodi:role="line"
          x="424.93991"
          y="350.9942"
-         id="tspan1256">schedule for one training day</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="424.93991"
-         y="374.32755"
-         id="tspan1275">below.</tspan>
+         id="tspan1256">schedule for one day below.</tspan>
     </text>
     <path
        style="fill:none;fill-opacity:1;stroke:#58508d;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-4)"
@@ -2198,7 +2199,7 @@
        id="text1434-8-1-6-9"
        x="-258.04416"
        y="338.89468"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan23468"
@@ -2241,7 +2242,7 @@
        id="text1434-8-7"
        x="417.19083"
        y="473.12457"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan14072"
@@ -2274,49 +2275,49 @@
        id="text1434-8-13"
        x="-255.20459"
        y="584.6543"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans-Regular', 'Open Sans';-inkscape-font-specification:'Open Sans-Regular, Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          id="tspan14818"
          x="-255.20459"
-         y="584.6543">Practice the first part of the</tspan>
+         y="584.6543">Practice first part of the</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="608.68445"
          id="tspan1296">questionnaire. Half a day is</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="632.7146"
          id="tspan1385">often sufficient. Debrief the</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="656.74481"
          id="tspan1377">following day. Early exposure</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="680.77496"
-         id="tspan1395">to real respondents and the</tspan>
+         id="tspan1395">to real respondents and field</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="704.80511"
-         id="tspan1461">field makes the rest of training</tspan>
+         id="tspan1461">makes rest of training more</tspan>
       <tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bc5090;fill-opacity:1;"
          x="-255.20459"
          y="728.83527"
-         id="tspan1463">more tangible for trainees.</tspan>
+         id="tspan1463">tangible for trainees.</tspan>
     </text>
     <path
        style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-6-0)"
@@ -2371,7 +2372,7 @@
        id="text1434-8-13-8-4"
        x="-249.93309"
        y="964.77545"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58508d;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan23134"
@@ -2450,42 +2451,42 @@
     <text
        font-size="18"
        id="text1434-8-13-8-4-7"
-       x="410.6525"
+       x="406.6525"
        y="1208.5646"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa600;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan24641"
-         x="410.6525"
+         x="406.6525"
          y="1208.5646">Select fieldworkers after you</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1231.8979"
          id="tspan2542">could observe them in interviews</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1255.2312"
          id="tspan2248">and prior to the final field test,</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1278.5646"
          id="tspan2250">so they can operate in anticipated</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1301.8979"
          id="tspan2252">field team compositions and</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1325.2312"
          id="tspan2254">supervisors can start to assume</tspan>
       <tspan
          sodipodi:role="line"
-         x="410.6525"
+         x="406.6525"
          y="1348.5646"
          id="tspan2560">thier role.</tspan>
     </text>
@@ -2500,7 +2501,7 @@
        id="text1434-8-13-8-4-7-1"
        x="-255.96492"
        y="1198.0974"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan25098"
@@ -2542,7 +2543,7 @@
        id="text1434-8-13-8-4-7-19"
        x="-257.90616"
        y="1456.5459"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#003f5c;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan25952"
@@ -2598,7 +2599,7 @@
        id="text1434-8-1-7-7"
        x="63.313419"
        y="1213.6471"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1;">
       <tspan
          sodipodi:role="line"
          id="tspan13046-5"
