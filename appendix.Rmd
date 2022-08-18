@@ -1,6 +1,33 @@
+
 # (APPENDIX) Appendix {-} 
 
-## callout box examples{-}
+# callout box examples{-}
+
+New callout box design: smaller, nicer for shorter oneliners, more mobile friendly. 
+
+:::: {.tip}
+<img src="images/tip.svg" class="svg-inline"/> **Tips** highlight practices that work well and are recommended  
+:::: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+:::: {.tool}
+<img src="images/tool.svg" class="svg-inline"/> **Tools** link to examples of tools used in surveys that can be modified by users to fit their work.  
+:::: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+:::: {.exmpl}
+<img src="images/world.svg" class="svg-inline"/> **Real-world examples** provide valuable experiences from surveys around the globe that illustrate important issues. For negative examples the survey names are not stated.   
+:::: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Warnings** flag common pitfall that are to be avoided and practices that are not advisable as they can negatively affect survey quality.
+:::: 
+
+These are the old designs:
 
 :::: { .fyi  data-latex=""}
 Did you know that ... this book is work in progress and in a pre-publish state. 
@@ -20,15 +47,13 @@ something longer
 ::::
 
 :::: { .careful  data-latex=""}
-Warning ... this book is work in progress and in a pre-publish state. 
-something longer and longer ajetztabera test
+**WARNING!:** whats going on? try me again
 ::::
 
 :::: { .tools  data-latex=""}
 **Useful tools:**   
 a
 b
-c
 ::::
 
 :::: { .question  data-latex=""}
@@ -36,14 +61,6 @@ c
 a
 b
 c
-::::
-
-
-
-:::: {.errorbox data-latex=""}
-**DO NOT SHARE!**
-
-The book is work in progress and in a pre-publish state. 
 ::::
 
 
@@ -61,5 +78,15 @@ acronyms %>%
   kable_styling() %>%
   column_spec(1, bold = T)
 ```
+
+# Terminology  {-}
+
+Given that terminology for survey stages or personnel varies between organisations, we have defined the key terms used in this book.  
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Pilot | The testing exercise conducted prior to fieldwork training to establish full functionality of survey instruments and protocols |
+| Final field test | At the end of fieldworker training for trainees to test all survey instruments and protocols and to assess team's readiness for the field. |
+
 
 # References {-}

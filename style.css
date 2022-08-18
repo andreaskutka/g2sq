@@ -177,3 +177,64 @@ h1, h2, h3, h4 {
 .book.font-size-4 .book-body .page-inner section {
   font-size: 4rem;
 }
+
+/* tetsing wrapped images */
+
+svg:not(:root).svg-inline--fa {
+}
+.svg-inline--fa.fa-w-11 {
+    width: 0.6875em;
+}
+.svg-inline {
+    overflow: visible;
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
+
+.tip {
+    color: #155724;
+    background-color: #d4edda;
+    position: relative;
+    padding: 1em 1em 0 1em;
+    margin-bottom: 1rem;
+    border: 1px solid #B7E1C1;
+    border-radius: 0.25rem;
+}
+
+.warn {
+    color: #624904;
+    background-color: #FDEEC4;
+    position: relative;
+    padding: 1em 1em 0 1em;
+    margin-bottom: 1rem;
+    border: 1px solid #FBE29D;
+    border-radius: 0.25rem;
+}
+
+.tool {
+    color: #114155;
+    background-color: #BAE1F2;
+    position: relative;
+    padding: 1em 1em 0 1em;
+    margin-bottom: 1rem;
+    border: 1px solid #98D2EB;
+    border-radius: 0.25rem;
+}
+
+.exmpl {
+    color: #471F47;
+    background-color: #ECD4EC;
+    border: 1px solid #E0B8E0;
+    position: relative;
+    padding: 1em 1em 0 1em;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+}
+
+
+
+
+
