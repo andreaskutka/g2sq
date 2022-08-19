@@ -21,6 +21,10 @@ favicon: images/favicon.ico
 Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
 ::::
 
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
+::::
+
 Version 0.1.
 
 Last updated on `r format(Sys.Date(),"%d %B %Y")`.

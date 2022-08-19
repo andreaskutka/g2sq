@@ -180,11 +180,6 @@ h1, h2, h3, h4 {
 
 /* tetsing wrapped images */
 
-svg:not(:root).svg-inline--fa {
-}
-.svg-inline--fa.fa-w-11 {
-    width: 0.6875em;
-}
 .svg-inline {
     overflow: visible;
     display: inline-block;

@@ -6,7 +6,7 @@
 New callout box design: smaller, nicer for shorter oneliners, more mobile friendly. 
 
 :::: {.tip}
-<img src="images/tip.svg" class="svg-inline"/> **Tips** highlight practices that work well and are recommended  
+<img src="images/tip.svg" class="svg-inline"/> **Tips** highlight recommended practices or preferred options.  
 :::: 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
