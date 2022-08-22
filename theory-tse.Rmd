@@ -1,4 +1,4 @@
-# Total Survey Error {#tse}
+# Total survey error {#tse}
 
 In the survey context *error* refers to the deviation of a survey response from its underlying true value. Probably the best-known error type is *sampling error* that occurs when collecting information from a sample of the population rather than the full population. Early in the history of probability sample surveys, it was recognized that there is a variety of non-sampling error sources that can equally cause a survey statistic, often referred to as *survey estimator*, to deviate from its underlying true value in the population, referred to as *population parameter*. Over time, this knowledge evolved into the concept of *Total Survey Error* (TSE), which has become the dominant paradigm in the field of survey methodology @Groves2010. 
 
@@ -108,7 +108,7 @@ Processing error refers to any error occurring post-interview including error in
 
 <!-- Smith (2009), who extends the total survey error paradigm to also include international surveys whose main purpose is to compare countries. Among other things he therefore adds the source ‘‘comparison error.’’ He also adds the ‘‘conditioning error’’ that is unique for multi-wave panel studies. -->
 
-## Survey-related Effects  {#surveyeffects}
+## Survey-related effects  {#surveyeffects}
 
 Conducting a survey in the way it is being conducted, in its context, has itself effects on survey statistics. While these effects are often implicitly included in TSE and referred to as error, @Weisberg2005 uses the term *survey-related effects* and explicitly includes them into the framework. Examples of survey-related effects are:
 
@@ -122,7 +122,7 @@ Conducting a survey in the way it is being conducted, in its context, has itself
 While some of the survey-related effects can be minimized, e.g. through randomization of question or answer option order or careful field team planning, they cannot ever be eliminated completely as they are an inevitable product of a survey itself. For example, since a survey requires interviews to be conducted somehow, mode effect will always exist in a survey. In some cases, it is possible to study and quantify effects in experimental design and to make ex-post adjustments. This, however is costly and requires provisions in the survey design. In practice, usually the best way to deal with survey-related effects is to be aware of them and keep them in mind during survey design and analysis.
 
 
-## The Impact of Error  {#impacterror}
+## The impact of error  {#impacterror}
 
 Sample surveys aggregate individual responses to obtain statistics for the sample, referred to as *survey estimator*, often with the aim to infer corresponding values in the population, referred to as *population parameters*. Survey error causes the survey estimate to deviate from the population parameter, diminishing the *accuracy* of the inferences derived from the survey data. In other words, with high levels of error a survey does not accurately describe the reality of the population.   
 

@@ -47,7 +47,7 @@ must be aligned all the way from how it has been designed to how it is fielded. 
 - __Document__. Throughout the training, note down any changes to the methodology, known problems and general training details, so the details are available for data documentation and to inform for future rounds. 
 
 
-## Opening module
+## Welcome/introduction
 
 The opening module serves to introduce trainees to the survey and training. In many surveys, opening modules are unnecessarily long and involve too many people. Keep it as short as possible (1-2 hrs. are enough) to be able to cover some content on the morning of the first day. Cover:
 
@@ -414,7 +414,7 @@ Collect feedback and debrief as described for [field practice](#field-practice).
 
 The data collected during dress rehearsal is a great way to learn and practice receiving feedback with the team, see chapter feedback.
 
-## Supervisor Training
+## Supervisor training
 
 A short training for supervisors is required to prepare them for their role.  It should be held outside of the hours of the main fieldworker training, so supervisors can attend both and are also fully trained as interviewers. If supervisors are pre-determined, a short supervisor training can be held prior to the start of the main fieldworker training that covers all tasks that do not built upon the main fieldworker training, such as administrative and logistical matters.  
 
@@ -435,7 +435,7 @@ Use the final field test to train tasks that are best learnt by doing. This tend
 
 It is recommended that in-depth data monitoring tasks beyond checking completion and health of the interviews are conducted by central data monitors to reduce data monitoring effect. Should supervisors nonetheless need to assume (parts of) their role, they also need to be trained as data monitors. See details in the following chapter.   
 
-## Data Monitor Training
+## Data monitor training
 
 Data monitor training is an important component of quality assurance in surveys. It serves to:
 

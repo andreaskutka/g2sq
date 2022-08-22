@@ -1,6 +1,6 @@
 # (PART) Inception {-}
 
-# Introduction to Inception {-}
+# Introduction to inception {-}
 
 - make a good plan, and adjust throughout the project. 
 

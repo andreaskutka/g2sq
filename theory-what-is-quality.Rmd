@@ -1,7 +1,7 @@
 
 # (PART) Survey Quality {-}
 
-# Introduction to Survey Quality 
+# Introduction to survey quality 
 
 Sample surveys are a crucial data source for official statistics, impact evaluations and social economic research. Survey data informs public policy and other important decisions. Quality in surveys is paramount for good policies and sound decisions and should be the aspiration of all survey practitioners. In Part I of this book we summarize key frameworks used by survey methodologists and national statistical offices (NSOs) to conceptualize and maximize quality in surveys. Skip this part if you are not interested in the theoretical background of survey quality. We will link back to the concepts throughout the remainder of the book, so you can read only the parts that are relevant.
 

@@ -1,4 +1,4 @@
-# Total Survey Quality  {#tsq}
+# Total survey quality  {#tsq}
 
 As we have seen in Chapter \@ref(tse), low levels of TSE are necessary for a survey estimator to be accurate. While accuracy is necessary for quality, it is not sufficient. Survey data must also respond to user needs in order to yield useful results. Data users often take data accuracy as given, assuming that it has been controlled by data producers. Instead they prioritize properties such as data being rich in detail, easily accessible and well documented. Data that is not sufficiently detailed, difficult to access or hard to interpret may be unfit for use and be perceived to have low quality by data users, even if being accurate.
 

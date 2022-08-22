@@ -436,7 +436,7 @@
      showgrid="false"
      inkscape:zoom="0.93248703"
      inkscape:cx="306.15652"
-     inkscape:cy="611.17451"
+     inkscape:cy="310.9022"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -1029,7 +1029,7 @@
          sodipodi:role="line"
          id="tspan2151"
          x="0"
-         y="0">Opening module</tspan>
+         y="0">Welcome/introduction</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan2153"
@@ -1406,12 +1406,12 @@
          sodipodi:role="line"
          x="77"
          y="1592.6666"
-         id="tspan1671">Supervisor training (parallel)</tspan>
+         id="tspan1671">Supervisor training (in parallel)</tspan>
       <tspan
          sodipodi:role="line"
          x="77"
          y="1616"
-         id="tspan1260">Data monitor training (parallel)</tspan>
+         id="tspan1260">Data monitor training (in parallel)</tspan>
     </text>
     <text
        font-size="18"
@@ -1428,7 +1428,7 @@
          sodipodi:role="line"
          x="77"
          y="1677.3334"
-         id="tspan1631">Data monitor training (parallel)</tspan>
+         id="tspan1631">Data monitor training (in parallel)</tspan>
     </text>
     <text
        font-size="18"
@@ -1445,7 +1445,7 @@
          sodipodi:role="line"
          x="77"
          y="1739.3334"
-         id="tspan1615">Data monitor training (parallel)</tspan>
+         id="tspan1615">Data monitor training (in parallel)</tspan>
     </text>
     <text
        transform="translate(77,868)"
@@ -2098,7 +2098,7 @@
          sodipodi:role="line"
          x="-258.94528"
          y="117.34309"
-         id="tspan1333">new content was covered. Start</tspan>
+         id="tspan1333">new content is covered. Start</tspan>
       <tspan
          sodipodi:role="line"
          x="-258.94528"
@@ -2113,7 +2113,7 @@
          sodipodi:role="line"
          x="-258.94528"
          y="187.34308"
-         id="tspan1403">learnt material.</tspan>
+         id="tspan1403">learned material.</tspan>
     </text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-5)"
@@ -2155,7 +2155,7 @@
          sodipodi:role="line"
          id="tspan10572"
          x="424.93991"
-         y="234.32755">Practice newly learnt content.</tspan>
+         y="234.32755">Practice newly learned content.</tspan>
       <tspan
          sodipodi:role="line"
          id="tspan10574"
@@ -2320,7 +2320,7 @@
     </text>
     <path
        style="fill:none;stroke:#ff6361;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3495-6-1-6-0)"
-       d="m 258.98128,630.23774 147.45313,82.57229"
+       d="M 258.98128,630.23774 405.36201,742.83726"
        id="path3473-7-6-5-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2328,43 +2328,28 @@
        font-size="18"
        id="text1434-8-13-8"
        x="416.13239"
-       y="721.30951"
+       y="755.30951"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
       <tspan
          sodipodi:role="line"
          id="tspan15854"
          x="416.13239"
-         y="721.30951">After the first part of the</tspan>
+         y="755.30951">After the first part of the</tspan>
       <tspan
          sodipodi:role="line"
          x="416.13239"
-         y="744.64282"
+         y="778.64282"
          id="tspan1397">questionnaire has been fully</tspan>
       <tspan
          sodipodi:role="line"
          x="416.13239"
-         y="767.9762"
-         id="tspan1357">practiced, start with the second</tspan>
+         y="801.9762"
+         id="tspan1315">practiced, repeat the process</tspan>
       <tspan
          sodipodi:role="line"
          x="416.13239"
-         y="791.30951"
-         id="tspan1308">part. Follow the same pattern,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="416.13239"
-         y="814.64282"
-         id="tspan1361">mixing content with pratice</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="416.13239"
-         y="837.9762"
-         id="tspan1302">sessions and making practice</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="416.13239"
-         y="861.30951"
-         id="tspan1315">gradually more realistic.</tspan>
+         y="825.30951"
+         id="tspan1753">for the second part.</tspan>
     </text>
     <text
        font-size="18"
@@ -2499,43 +2484,33 @@
        font-size="18"
        id="text1434-8-13-8-4-7-1"
        x="-255.96492"
-       y="1198.0974"
+       y="1212.0974"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6361;fill-opacity:1">
       <tspan
          sodipodi:role="line"
-         id="tspan25098"
          x="-255.96492"
-         y="1198.0974">Just prior to the final field test,</tspan>
+         y="1212.0974"
+         id="tspan2794">Train these tasks (e.g., tracking</tspan>
       <tspan
          sodipodi:role="line"
          x="-255.96492"
-         y="1221.4308"
-         id="tspan2776">train pre- and post-interview</tspan>
+         y="1235.4308"
+         id="tspan1783">sheets, respondent selection,</tspan>
       <tspan
          sodipodi:role="line"
          x="-255.96492"
-         y="1244.764"
-         id="tspan2784">tasks that are needed for first</tspan>
+         y="1258.764"
+         id="tspan1785">completion checks, etc) just</tspan>
       <tspan
          sodipodi:role="line"
          x="-255.96492"
-         y="1268.0974"
-         id="tspan2786">day of final field test, such as</tspan>
+         y="1282.0974"
+         id="tspan1788">before they’re needed for the</tspan>
       <tspan
          sodipodi:role="line"
          x="-255.96492"
-         y="1291.4308"
-         id="tspan2772">the tracking sheets, respondent</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1314.764"
-         id="tspan2792">selection, completion checks,</tspan>
-      <tspan
-         sodipodi:role="line"
-         x="-255.96492"
-         y="1338.0974"
-         id="tspan2794">etc.</tspan>
+         y="1305.4308"
+         id="tspan1790">final field test.</tspan>
     </text>
     <text
        font-size="18"
