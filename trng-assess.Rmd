@@ -80,7 +80,7 @@ Mimin, works in a restaurant, paid per day, no written contract\...\...\...\.5
 Anton, works as a guard, paid monthly, has contract\...\...\...\...\...\...\...\.6  
 :::
 
-It tends to be useful to add numbers, letters or names to the answer options that are visible to the trainees. This makes it easier to refer to different answer options during the debrief sessions, e.g. *"Why do we consider Sumini to have worked for a wage or salary?"*.
+It tends to be useful to add numbers, letters or names to the answer options that are visible to the trainees. This makes it easier to refer to different answer options during the debrief sessions, e.g., *"Why do we consider Sumini to have worked for a wage or salary?"*.
 
 
 :::tools

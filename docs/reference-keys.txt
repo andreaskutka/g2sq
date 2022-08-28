@@ -49,10 +49,10 @@ location
 trainingpreparation
 conducting-the-training
 general-considerations
-opening-module
+welcomeintroduction
 capi-use
 questionnaire-content
-practicing
+interview-practice
 group-practice
 front-of-class-interview
 on-site-respondents
@@ -95,5 +95,3 @@ data-editing
 weighting
 archiving
 documentation
-structure-of-this-book
-welcomeintroduction

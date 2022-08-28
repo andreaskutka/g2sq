@@ -49,7 +49,7 @@ Follow below key recommendations to ensure a successful fieldworker training.
 
 1. __Go beyond the questionnaire__.  Knowing the questionnaires alone does not make good interviewers. Trainees need to learn and practice a set of interviewing techniques such as correct probing or encouraging participation as well as pre- or post-interview tasks, such as respondent selection or responding to rejected interview files in CAPI.  
 
-1. __Assess readiness for field__. At the end of the training, a final field test should be conducted that mimics field conditions and where fieldworkers can be observed and evaluated  without using the actual sample. If the team is not ready, extend the training by a few days to revisit and strengthen problematic areas. 
+1. __Assess readiness for field__. At the end of the training, conduct a final field test that mimics field conditions and allows fieldworkers to be observed and evaluated before using the actual sample. If the team is not ready, extend the training by a few days to revisit and strengthen problematic areas. 
 
 1. __Engage__. As a survey designer, do not sit back and leave the delivery of training to only the survey firm, fieldwork manager or trainers. Actively participate, check that content is correctly understood, explain what matters, etc. You have put a lot of effort into the design – make sure it is implemented correctly. 
 

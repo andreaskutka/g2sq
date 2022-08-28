@@ -7,7 +7,7 @@ rmd_files:
 - theory-tsq.Rmd
 - inception.Rmd
 - preparation.Rmd
-- preparation-instruments.Rmd
+- design.Rmd
 - trng-intro.Rmd
 - trng-plan.Rmd
 - trng-conduct.Rmd
