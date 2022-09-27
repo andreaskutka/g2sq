@@ -108,19 +108,6 @@ Processing error refers to any error occurring post-interview including error in
 
 <!-- Smith (2009), who extends the total survey error paradigm to also include international surveys whose main purpose is to compare countries. Among other things he therefore adds the source ‘‘comparison error.’’ He also adds the ‘‘conditioning error’’ that is unique for multi-wave panel studies. -->
 
-## Survey-related effects  {#surveyeffects}
-
-Conducting a survey in the way it is being conducted, in its context, has itself effects on survey statistics. While these effects are often implicitly included in TSE and referred to as error, @Weisberg2005 uses the term *survey-related effects* and explicitly includes them into the framework. Examples of survey-related effects are:
-
-- **Interviewer effect**:  Interviewer characteristics such as mannerism, tone of voice, gender, ethnicity, etc. have shown to influence the type of response they elicit. This effect on survey statistics is not due to any mistakes or wrongdoing by the interviewers, and will exist for any survey using interviewers.
-
-- **Mode effect**: Administering a question in face-to-face interviews can produce very different response patterns compared to asking the same question in telephone interviews or  self-administered interviews. This, for example, can be due to respondents attitudes being different if they receive an interviewer at home (guest) to being called by phone (solicitor/marketer). In multi-mode surveys or with modality changing between rounds, mode effect can cause significant comparability issues. 
-<!--  (Beland and St- Pierre 2008) have shown that respondent state lower body weight in CATI compared to self-administered modes. -->
-
-- **Questionnaire-related effects**: Answers patterns can differ with the exact question phrasing. As long as there is no specification error, there is no question phrasing that is more "correct" than others. Similarly, the order in which questions are asked can change outcomes. Yet, they have to be aske in some order. The same is true for the phrasing and order of answer options. A well established example is the *recency effect* in phone surveys, where respondents select the last answer option because they remember it best. 
-
-While some of the survey-related effects can be minimized, e.g. through randomization of question or answer option order or careful field team planning, they cannot ever be eliminated completely as they are an inevitable product of a survey itself. For example, since a survey requires interviews to be conducted somehow, mode effect will always exist in a survey. In some cases, it is possible to study and quantify effects in experimental design and to make ex-post adjustments. This, however is costly and requires provisions in the survey design. In practice, usually the best way to deal with survey-related effects is to be aware of them and keep them in mind during survey design and analysis.
-
 
 ## The impact of error  {#impacterror}
 
@@ -128,15 +115,20 @@ Sample surveys aggregate individual responses to obtain statistics for the sampl
 
 Error can affect survey estimators by **increasing the variance** of a variable or by **introducing bias**. For a survey estimator to be accurate it has to have a small bias and variance, which only happens if the [TSE](#tse) is low for the estimate. The ways in which error affects an estimate depend on whether the error is *random* or *systematic*, and whether it is *uncorrelated* or *correlated*.
 
+### Random vs. systematic error
+
 Error is considered *random* if it does not follow any pattern. For example, if respondents have difficulty recalling an item, some respondents might give higher values while others provide lower values. Across all observations, the error would have a mean of zero and would not affect the mean value of the variable. However, random error increases the variance of a variable, which in turn **reduces the reliability** of a survey estimator. The higher the variance, the higher the probability that the estimator would be different if the survey were to be repeated under the exact same conditions. The results would be less reliable. Increased variance furthermore reduces the magnitude of correlations with other variables and the statistical power in hypothesis tests. 
 
 If error contains a *systematic* tendency we speak of *systematic* error or *bias*. As an example, if interviewers tend to under-report household members to shorten interview duration, the survey estimate of household size will underestimate the actual household size in the population. In statistical terms, the sample mean would be a negatively biased estimator of the population mean. Since systematic error directly affects the mean of a variable, it **reduces the validity** of the estimator, in other words the estimator is not accurately measuring what it is supposed to. If the systematic error is not constant, it may furthermore increase the variance of the variable, also reducing the reliability of the estimator.
 
 Figure \@ref(fig:val-rel) illustrates how variance and bias relate to the reliability and validity of a survey estimator. Imagine the midpoint of each image to represent the true population value and the black points to be the recorded responses. The points in A are scattered around the midpoint with no particular pattern, the error is random. We have high variance but no bias. The estimator is valid but not reliable. In B, the answers are offset in the same direction and by the same distance. The error is systematic, so there is bias, but variance is small. The estimator is reliable, but not valid. C shows systematic error that is not constant. We have high variance and bias. The estimator is neither valid nor reliable. In D, there is little error, we have low variance as answers are relatively close to the actual value, and there is no bias as the deviations show no pattern. The estimate is valid and reliable.
 
-```{r val-rel, fig.show='hold', fig.cap="Reliability and validity in survey estimators", echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+```{r val-rel, fig.show='hold', fig.cap="Validity and reliability in survey estimators", echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
 knitr::include_graphics("images/reliability_validity.svg")
 ```
+
+### Uncorrelated vs. correllated error
+
 The magnitude of the effect of error depends on whether the error is *uncorrelated* or *correlated*. Error is *uncorrelated* if the error for different units (e.g. households) is unrelated. An example would be occasionally typos by interviewer when recording answers, if typos do not occur more frequently with certain types of households or some interviewers. Above discussion on the effects of random and systematic error was based on uncorrelated error. As we saw, the increased variance and bias can have serious effects on statistics.  
 
 If the error for different units is related, we speak of *correlated* error. For example, interviews conducted by one interviewer who has misunderstood a question and administered it wrongly will contain the same error, while those of another interviewer may not. Correlated error has much more damaging effects on estimators as it multiplies the variance of a variable. @Biemer2003 show that only a moderate intra-interviewer correlation of $\rho_{int} = 0.03$, can result in an interviewer design effect $\mathit{deff_{int}}$ as large as 2.47. In other words, the intra-interviewer correlated error alone can cause the variance of a variable to be increased by 1.5 times. 

@@ -2,6 +2,8 @@
 
 As we have seen in Chapter \@ref(tse), low levels of TSE are necessary for a survey estimator to be accurate. While accuracy is necessary for quality, it is not sufficient. Survey data must also respond to user needs in order to yield useful results. Data users often take data accuracy as given, assuming that it has been controlled by data producers. Instead they prioritize properties such as data being rich in detail, easily accessible and well documented. Data that is not sufficiently detailed, difficult to access or hard to interpret may be unfit for use and be perceived to have low quality by data users, even if being accurate.
 
+## Dimensions of survey quality
+
 The concept of *total survey quality* (TSQ) considers the *fitness of use* of a survey estimate. It combines the accuracy of an estimate with non-statistical dimensions oriented towards the data user. The definitions of survey quality used by most NSOs in Europe, North America and Oceania, as well as that of international organisations such as Eurostat, IMF, and OECD explicitly acknowledge the multi-dimensional nature of survey quality. These definitions are referred to as *survey quality frameworks*. There is some (often minor) variation between organisations, but most frameworks include a subset of the quality dimensions summarized in Table \@ref(tab:qd) [@Biemer2010].
 
 ```{r, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
@@ -13,7 +15,7 @@ quality <- tribble(~Dimension, ~Description,
      "Credibility ", 	"Data are considered trustworthy by the survey community", 
      "Comparability ",	"Demographic, spatial, and temporal comparisons are valid", 
      "Usability/Interpretability", "Documentation is clear and metadata are well-managed", 
-     "Relevance ", "Data satisfy users needs", 
+     "Relevance ", "Data satisfy users' needs", 
      "Accessibility ",	"Access to the data is user friendly",
      "Timeliness/Punctuality", "Data deliveries adhere to schedules",
      "Completeness ", "Data are rich enough to satisfy the analysis objectives without undue burden on respondents", 
@@ -26,51 +28,14 @@ quality %>%
 
 These frameworks are commonly used as the basis of survey quality reporting. Some of the dimensions are qualitative, making it difficult to generate a single metric to summarize the overall quality of a survey. Survey methodologists have not (yet) put forward a standard quality measure. Instead, evaluations tend to identify the strength and weaknesses of a survey by dimension and assess how well it achieved the goals of each dimension. 
 
+### Accuracy
+
+needs to minimize total survey error
+
+### Timeliness
+
+
 Another very useful application of survey quality frameworks is as a design principle to maximize the TSQ in a survey.   
 
 
-<!-- quality dimensions differ between surveys.  -->
-
-<!-- multitude of surveys out there and different users, so user needs will differ -->
-
-<!-- users have not so much been consulted -->
-
-<!-- some of the dimensions can be in conflict with each other, e.g. producing rich and wealth documentation to satisfy usability might affect timeliness of data.  -->
-
-<!-- For example, while updates done to the methodology of repeated surveys or cross-country surveys  may reduce TSE and increase accuracy of a survey, it may on the other hand also lower TSQ. Some comparability will be broken as real differences will be confounded with methodological differences. This likely would dissatisfy some data users and lower the fitness of use of the survey.  -->
-
-<!-- - is to [minimize TSE](#minimizing-tse)  -->
-
-<!-- design strategy that seeks to optimize surveys by maximizing total survey quality; i.e., quality more broadly defined to include user-specified dimensions of quality. Survey -->
-
-<!-- - there are constraint, budget time -->
-<!-- within the survey budget and time constraints and relevant ethical concerns.  -->
-
-<!-- - can also think of other quality dimensions as constraints, such as comparability. -->
-
-
-<!-- - define the quality indicators that matter to the survey -->
-
-<!-- In order to identify the largest error sources and inform design decisions,  -->
-
-<!-- - follow a strategy like Biemer 2010, suggest to maximise accuracy while ensuring other user-centric quality components are also met.  -->
-
-<!-- In reality this is often interactive and reacting to the circumstances and the developments in the survey. See Biemer 2010 -->
-<!-- A proactive, dynamic, flexible approach to survey implementation  -->
-
-<!-- real time monitoring,  -->
-<!-- Minimizing the TSE within the resource and time constraints requires to be efficient ...  -->
-
-<!-- "From a design perspective, some of the nonstatistical dimensions could be viewed as fixed design constraints with a certain budget set aside to accommodate them. What is left is used to maximize accuracy. grovves 2010 -->
-
-<!-- ‘‘How much should be spent on prevention, control, and improvement, or on pretesting, monitoring, and evaluation?’’ -->
-
-<!-- ## ignore me - snippets -->
-
-<!-- some reporting on sampling errors and non-response rate, but there is a widespread believe among data users that survey organizations fully control the other quality components.  -->
-
-<!-- From a design perspective, some of the nonstatistical dimensions could be viewed as fixed design constraints with a certain budget set aside to accommodate them. What is left is used to maximize accuracy. -->
-
-<!-- e.g. tradeoffs researchers might require high level of detail for their analysis, such as asking inputs on aprcel or crop level to egt at productivity. if however, repsondent fatigue is high, this might e counter productive, as increase length and detail will leaded to high error, creating data that is detailed, but unreliable and invalid.  -->
-
-<!-- Ideally, to apply the TSE paradigm, the major sources of error should be identified so that the survey resources can be allocated to reduce their errors to the extent possible, while still satisfying specified costs and timeliness objectives. -->
+## Maximising quality
