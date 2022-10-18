@@ -127,7 +127,7 @@ Figure \@ref(fig:val-rel) illustrates how variance and bias relate to the reliab
 knitr::include_graphics("images/reliability_validity.svg")
 ```
 
-### Uncorrelated vs. correllated error
+### Uncorrelated vs. correllated error  {#uncorrelated-correlated-error}
 
 The magnitude of the effect of error depends on whether the error is *uncorrelated* or *correlated*. Error is *uncorrelated* if the error for different units (e.g. households) is unrelated. An example would be occasionally typos by interviewer when recording answers, if typos do not occur more frequently with certain types of households or some interviewers. Above discussion on the effects of random and systematic error was based on uncorrelated error. As we saw, the increased variance and bias can have serious effects on statistics.  
 

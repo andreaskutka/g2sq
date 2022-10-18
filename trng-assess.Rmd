@@ -50,7 +50,7 @@ Nothing, leave empty and add a comment \...\...\...\...\...\...\...\...\...\...\
 None of the above\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..6  
 :::
 
-Another useful way to phrase test question is to write a list of statements that probe a definition or protocol from different angles and to ask trainees to select all the correct or wrong statements.
+Another useful way to phrase test questions is to write a list of statements that probe a definition or protocol from different angles and to ask trainees to select all the correct or wrong statements.
 
 :::question
 Q6. Select all statements that are correct according to our parcel definition. 
