@@ -25,7 +25,7 @@ Throughout the fieldwork training, consider the following points:
 
 - __Get to know trainees__. Ask trainees to wear name tags during the first few days. Learn their names as quickly ass possible. This makes the training more personal and helps trainers to better connect trainees' in-class performance with written tests or test interviews. 
 
-- __Collect and react to feedback__. At the end of each day, use feedback forms to collect anonymous feedback from trainees on how clear different sessions or trainers were, topics they did not understand or questions they have. Review feedback forms prior to the next day and adjust your training schedule or methods if needed. ??KEVIN: provide feedback form example.   
+- __Collect and react to feedback__. At the end of each day, use [feedback forms](resources/training_feedack_form.docx) to collect anonymous feedback from trainees on how clear different sessions or trainers were, topics they did not understand or questions they have. Review feedback forms prior to the next day and adjust your training schedule or methods if needed.   
 
 - __Break up and mix groups__. If you start noticing groups of trainees sitting together who are not paying attention or are at the bottom end of performance, distribute them across the classroom. Ask low performers to sit next to high performers, so they can help when falling behind. Avoid always grouping the same people for exercises, to ensure that everyone has the same understanding of the material. 
 
@@ -47,6 +47,13 @@ Throughout the fieldwork training, consider the following points:
 
 - __Document__. Throughout the training, note down any changes to the methodology, known problems and general training details, so the details are available for data documentation and to inform future training or survey rounds. 
 
+:::: {.tool}
+<img src="images/tool.svg" class="svg-inline"/> **Tools:**
+
+- ideas for [group games](https://www.sessionlab.com/blog/large-group-games-and-activities/#){target="_blank"}  
+- sample training [feedback form](resources/training_feedack_form.docx)  
+- [random name picker](https://wheelofnames.com){target="_blank"} to select trainees
+::::
 
 ## Welcome/introduction
 
@@ -352,7 +359,7 @@ The difference between the first and second round of measurements for each train
 ){target="_blank"}  
 - [Video on anthropometric measurements (French) ](https://www.youtube.com/watch?v=t4dholcfl84){target="_blank"}  
 - [Video on LandInfo module for soil characterization and identification ](https://landpotential.org/knowledge/landinfo-training/){target="_blank"}  
-:::
+::::
 
 
 ## Pre-interview tasks

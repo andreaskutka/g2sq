@@ -16,7 +16,7 @@ measurement-error
 processing-error
 impacterror
 random-vs.-systematic-error
-uncorrelated-vs.-correllated-error
+uncorrelated-correlated-error
 minimizing-tse
 tsq
 dimensions-of-survey-quality
@@ -100,4 +100,3 @@ data-editing
 weighting
 archiving
 documentation
-uncorrelated-correlated-error
