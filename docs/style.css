@@ -112,16 +112,6 @@ pre code {
   border: solid 5px #dbceef;
 }
 
-.question {
-  padding: 1em 1em 1em 1em;
-  margin-bottom: 10px;
-  border-radius: 5px;
-  color: #3C1636;
-  background-color: #F9F0F8;
-  font-size: .85em;
-  font-family: Consolas,'Liberation Mono',Menlo,Courier,monospace;
-
-}
 */
 /*------------ TOC --------------*/
 
@@ -222,6 +212,20 @@ h1, h2, h3, h4 {
     padding: 1em 1em 0 1em;
     margin: 1.5em 0 1.5em 0;
     border-radius: 0.25rem;
+}
+
+
+.question {
+    color: #3A1736;
+    background-color: #F9F0F8;
+    border: 1px solid #E2B6DC;
+    position: relative;
+    padding: 1em 1em 0 1em;
+    margin: 1.5em 0 1.5em 0;
+    border-radius: 0.25rem;
+    font-size: .85em;
+    font-family: Consolas,'Liberation Mono',Menlo,Courier,monospace;
+
 }
 
 .tldr {
