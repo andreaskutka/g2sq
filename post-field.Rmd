@@ -1,25 +1,40 @@
 
 # (PART) Post Survey {-}
 
-# Introduction {-}
+# Introduction to post survey {-}
 
-work in progress
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
 
 # Data Editing
 
-work in progress
-
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
+<!--
 ISCO codes, best done in batch by dedicated persons. 
+-->
 
 # Weighting
 
-
-# Archiving
-
-work in progress
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
 
 # Documentation
 
-work in progress
- - report on Standard errors
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
+<!--
+- report on Standard errors
  - ideally 
+-->
+
+# Archiving
+
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
+

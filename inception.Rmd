@@ -2,9 +2,18 @@
 
 # Introduction to inception {-}
 
-- make a good plan, and adjust throughout the project. 
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
 
-work in progress
+# Formulation
+
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
+
+<!--
+- make a good plan, and adjust throughout the project. 
 
 optimal survey design, reduces error 
 
@@ -23,10 +32,16 @@ make a plan to survey quality maximization, e.g minimize TSE while keeping the o
 - list of depending activities, e.g. only do training after instrument has been finished.
 
 
-- Draw upon the experiences from other surveys in the same context, subject or modality. While every survey tends to be a different, the effect can often be generalised. In other words, what worked in one survey, often works in another survey with similar parameters. Make sure to have enough survey expereince in your team!
+- Draw upon the experiences from other surveys in the same context, subject or modality. While every survey tends to be a different, the effect can often be generalised. In other words, what worked in one survey, often works in another survey with similar parameters. Make sure to have enough survey experience in your team!
+-->
 
-# Schedule
+# Survey schedule
 
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
+
+<!--
 Make sure your schedule keeps into consideration and works around the following **forseeable** events:
 
 - Public holidays and vacations that might limit field workers or respondents availability or affect results, e.g. increased household expenses in the week of Christmas or Eid.   
@@ -36,16 +51,15 @@ Make sure your schedule keeps into consideration and works around the following 
 - Weather patters such as rainy seasons that might limit field work operations. 
 
 Allow margin to cater for **unforseeable events** that might affect your survey, such as abnormal weather events, unexpected field worker attrition, strikes or demonstrations
+-->
 
+# Organisation of personnel
 
-# Formulation
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
 
-work in progress
-
-# Personel
-
-work in progress
-
+<!--
 - remove field team effects. As shown in Chapter LINK INTERVIEWER, interviewers, supervisors, data monitors or any other level can have huge effects on the TSE. As an example, interviewers of one supervisor who thoroughly back-checks interviews with respondents will be careful to not under report household members, parcels etc, while those of a more lenient supervisor may notice that they can get away with under reporting.
 
 that is  centraize processes, so they can e monitored and streamlined, to remove supervisor, or data editor effects. 
@@ -58,6 +72,10 @@ Examples are:
 
 - for data entry, rotate data entry staff
 
+-->
+
 # Contracting considerations
 
-work in progress
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::

@@ -1,37 +1,42 @@
-
 # (PART) Fieldwork {-}
 
+# Introduction to fieldwork {-}
 
-# Introduction {-}
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
 
-work in progress
-
-
+<!--
 problems :
 
 - one their own, far away, monitored, can be demotivating, little feedback, increasing idiosyncratic behavior leading to interviewer effects, measurement error
+-->
 
+# Monitoring field work
 
-# Listing
-
-work in progress
-
-# Monitoring
-
-work in progress
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
 
 # Effective feedback
 
-work in progress
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
 
-# Avoiding nonresponse
+# Specific cases
 
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.  
+::::
+
+
+<!--
 - strong revisiting protocols 
 - make it hard for interviewers, remove any incentives, have to give phone numbers confirm, etc  
 - follow up on non-repsonse
 
-# Notes
-
 * MICS has cluster control sheets
 
 - first few days, trainers shoudl observe field work and provide field work. 
+--> 

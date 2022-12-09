@@ -21,41 +21,39 @@ favicon: images/favicon.ico
 <img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and in a pre-publish state. **PLEASE DO NOT SHARE**. We look forward to seeing you back here in a few months, when everything is ready.  
 ::::
 
-Version 0.1.
+Version 1.0.
 
 Last updated on `r format(Sys.Date(),"%d %B %Y")`.
 
 ## About this book{-}
 
-This book is written as a companion/practical guide and go-to reference for survey practitioners aiming to improve the quality of the surveys they design and implement.  
+This book is written as a practical guide and go-to reference for survey practitioners aiming to improve the quality of the surveys they design and implement.  
 
-Every year, hundreds of surveys are being conducted around the world to inform official statistics, public policy and social research. Some of those are widely recognized as being methodologically sound and producing high quality data, such as MICS, DHS or LSMS. Others, however, for lack of capacity or resources adopt methods that often lead to poor outcomes. Given that surveys are a crucial (and often the only) source of data on social-economic indicators available for decision making, it is paramount that they are of the highest possible quality.  
+Every year, hundreds of surveys are being conducted around the world to inform official statistics, public policy design and social research. In the realm of international development, the survey landscape includes flagship and long-standing survey programs such as the Living Standards Measurement Study (LSMS), Multiple Indicator Cluster Surveys (MICS), or Demographic and Health Surveys (DHS) which are widely recognized as methodologically sound and producing high quality data. Unfortunately, all too often there are other surveys which adopt suboptimal methods that lead to poor quality data, typically due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on social-economic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality. This guidebook is an attempt to provide practical and actionable guidance to steer survey practitioners away from bad practices and point them towards proven best practices that improve data quality – even in a resource constrained environment.   
 
-This book condenses the available knowledge, best practices and practical tips to optimize survey quality throughout all phases of the survey life cycle. It draws from existing other guidelines, previous similar efforts, insights from the academic survey methodology and the extensive experience of internal and external survey experts in designing and implementing complex large-scale surveys.  
+This book condenses the available knowledge, best practices and practical tips to optimize survey quality throughout all phases of the survey life cycle. It draws from other existing guidelines, previous similar efforts, as well as insights from the academic survey methodology literature. Perhaps more importantly, the insights and recommendations laid out in the guidebook are drawn from the extensive experience of internal and external survey experts in designing and implementing complex large-scale surveys, most notably LSMS surveys that serve as the backbone of welfare and poverty measurement throughout the developing world. 
 
-For every survey stage, the book explains the rational of certain activities and requirements a survey must meet to deliver quality outputs. To provide practical guidance, in many parts the book also gives detailed instructions for possible ways of achieving this or links to other useful manuals and guidelines.  
+The guidebook explains the rationale of key survey activities and lays out basic requirements a survey must meet to deliver quality outputs. While identifying *what* to do to ensure data quality is undoubtedly an important factor, this book is primarily focused on supplying practical insights as to *how* to implement these actions to achieve high data quality from a survey. As a result, the book devotes much of its effort to present detailed instructions for potential approaches to implement in order to bolster data quality. In some instances, the book will also supply links to other useful tools, manuals and guidelines on specialized topics beyond the scope of this book.  
 
-The recommendations of this book should not be interpreted as the one-and-only way of implementing surveys. Often, alternative approaches may exist that produce similar results. However, the methodology presented in this book has proven to be effective in delivering quality surveys while being efficient, huzzle-free and without bad surprises. The authors welcome comments that point them towards other successful approaches. 
+The book is targeted towards all types of survey practitioners. survey designers and sponsors will find guidance on the inception, design and planning of a survey. Survey managers will find best practices and practical recommendations for all main activities in a survey. Individual chapters also provide useful details for specific roles involved at different stages of a survey, such as CAPI developers, trainers, translators, etc. Furthermore, the insights and recommendations in the book are meant to be applicable and accessible to survey practitioners with different levels of experience. While beginners will perhaps find the material most useful, seasoned experts may also discover new approaches to add to their own repertoire. 
 
-The book is targeted towards all types of survey practitioners. Survey designers and sponsors will find guidance on the inception, design and planning of a survey. Survey managers will find best practices and practical recommendations for all main activities in a survey. Individual chapters also provide useful details for specific roles involved at different stages of a survey, such as CAPI developers, trainers, translators, etc.  
+The recommendations of this book should not be interpreted as the one-and-only way of implementing surveys that yield high-quality data. Alternative approaches may exist that produce similar results. Some approaches presented may not work in every context or for every survey. However, the methodology presented in this book has proven to be effective in delivering quality surveys while being efficient, hassle-free and without any nasty surprises.  
 
-Survey practitioners are not expected to implement all recommendations in the book. Instead, they are encouraged to understand the principles of how to optimize survey quality, reflect on their own practices and evaluate which improvements can be implemented within the context and constraints of their respective survey. 
+Survey practitioners are not expected to implement all recommendations in the book. Instead, they are encouraged to understand the principles of how to optimize survey quality, reflect on their own practices and evaluate which improvements can be implemented within the context and constraints of their respective survey. The book is written with special reference to LSMS-style surveys, i.e., medium to large-scale household surveys covering a range of socioeconomic topics. Furthermore, it is primarily focused on surveys being implemented using CAPI (with specialized guidance on the Survey Solutions CAPI platform). However, most recommendations in this book also apply or can easily be adapted to other survey types, modalities or software packages. 
 
-Book is written with reference to LSMS-style surveys, i.e., medium to large-scale household surveys covering a range of socioeconomic topics, that are being implemented using CAPI (Survey Solutions). However, most recommendations in this book also apply or can easily be adapted to other survey types, modalities or software packages. 
-
-The book is a living document and is being expanded and revised on a continuous basis. The last update was made on `r format(Sys.Date(),"%d %B %Y")`. 
+Survey methodology is constantly evolving with innovative approaches to data quality assurance continually being identified, particularly with advancement of technology. As such, this book is intended to be a living document featuring new expansions and revisions on a semi-continuous basis. The last update was made on `r format(Sys.Date(),"%d %B %Y")`. 
 
 ## Structure of this book {-}
 
-The book is divided into 7 parts. Part I provides a short theoretical background for this book and summarizes key frameworks used by survey methodologists and national statistical offices (NSOs) to conceptualize and maximize quality in surveys. 
+The book is divided into 7 parts. Part I will provide a short theoretical background for this book and summarize key frameworks used by survey methodologists and national statistical offices (NSOs) to conceptualize and maximize quality in surveys. 
 
-Parts II - VII will follow the different stages of a survey life cycle from inception, design, preparation, training, fieldwork to post-field. This first release of the book contains only Part I SURVEY QUALITY and Part V FIELDWORK TRAINING. The other parts are a work in progress and will be added to future releases of this book. 
+Parts II - VII will follow the different stages of the survey life cycle from inception, design, preparation, training, fieldwork to post-fieldwork. This first release of the book contains only Part V FIELDWORK TRAINING. The other parts are a work in progress and will be added to future releases of this book. 
 
-Each part is comprised of several chapters. The first chapter to each part is an introduction that outlines the content of the remaining chapters and provides an executive summary of key recommendations called [TL;DR](https://www.merriam-webster.com/dictionary/TL%3BDR){target="_blank"} that should be implemented to achieve high quality in surveys. 
+Each part is comprised of several chapters. The first chapter to each part is an introduction that outlines the content of the remaining chapters and provides a summary of key recommendations that should be implemented to achieve high quality in surveys. 
 
 References are added to the bottom of each chapter. A comprehensive bibliography can be found in the Appendix, as well as a list of abbreviations and acronyms and definitions. Since terminology can vary between surveys and organizations, the key terms for survey activities and roles used in this book have been defined in the Appendix. 
 
-Within the main body of the text, boxes highlight important issues in the form of: 
+Within the main body of the text, boxes highlight important issues in the form of:
 
 :::: {.tip}
 <img src="images/tip.svg" class="svg-inline"/> **Tips** give advice on the options that have been presented and highlight practices that are particularly useful and effective.   
@@ -74,12 +72,12 @@ Within the main body of the text, boxes highlight important issues in the form o
 :::: 
 
 
-## How to use this book{-}
+## How to use this (e)Book{-}
 
 
-__Hit the high spots/flip through/get the big picture.__ Read the introduction chapter of each part, including the TL;DR. They list a condensed version of key recommendations and points relevant for survey quality in the respective phase. You can also read the beginning of chapters of interest. Most chapters (and often sub-chapters) start by explaining the rationale, main objectives and context, before diving into detail.    
+__Hit the highlights.__ Read the introduction chapter of each part, including a condensed list of key recommendations and points relevant for survey quality in the respective phase. You can also read the beginning of chapters of interest. Most chapters (and often sub-chapters) start by explaining the rationale, main objectives and context, before diving into detail.    
 
-__Read in detail.__ The book is relatively extensive and contains a lot of details. It is not written to be read in one go (we applaud your stamina if you do), but rather as a go-to reference that can be visited multiple times during a survey to get relevant practical advice and learn about best practices. Read relevant chapters as you start to plan a survey phase and revisit them during implementation for all the details. Chapters are written to be as independent as possible of each other. Links are added to other parts of the book if more detail is provided elsewhere. 
+__Read in detail.__ The book is relatively extensive and contains many details. It is not written to be read in one go (we applaud your stamina if you do), but rather as a go-to reference that can be visited multiple times during a survey to get relevant practical advice and learn about best practices. Read relevant chapters as you start to plan a survey phase and revisit them during implementation for all the details. Chapters are written to be as independent as possible of each other, however links are also added to other parts of the book if more detail is provided elsewhere.
 
 __Navigate__. Use the Table of Content (ToC) bar on the left to quickly navigate between different parts of the book. Clicking on a chapter in the ToC unfolds all sub-chapters. The right/left arrows on the side of the main text navigate to the next/previous chapter. Links in the text take you to external resources or other chapters of the book providing more details.
 
@@ -94,6 +92,7 @@ __Share__. You can share the book or any chapter using the sharing icons on the 
 
 
 
+<!--
 ## About the LSMS guideline series{-}
 
 The LSMS Guidebook series offers information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies.
@@ -111,3 +110,4 @@ James Arthur Shaw ...
 ## Acknowledgements {-}
 
 This guidebook was made possible by the generous funding from......The authors would like to thank … for ..., … for.... Our greatest appreciation goes to all the countless colleagues who devote themselves to continuously improving survey quality and whose insights and experiences have been fed into this book. 
+-->

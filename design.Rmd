@@ -1,12 +1,18 @@
 # (PART) Design {-}
 
+# Introduction to design {-}
 
-# Introduction {-}
-
-work in progress
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
 
 # Instruments
 
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
+
+<!--
 ## Questionnaire
 
 - discourage Don't Know responses. Don't make them very obvious by adding them to all questions. They are a tempting solution for iinterviewers. There are different types of Don't know, often they are related to respondents not makeing an effort to recall something. Intervieers should be encouraged to get respondents to answer. Only add to questions where you accept them. Instead use special codes that are displayed once at eginning of the questionanire and trained to intervieiwers. 
@@ -153,14 +159,24 @@ For group practices, group together trainees according to the local languages th
 
 If you will have to work with local interpreters to translate interviews on-the-fly, make sure that interviewers explain well the key concepts such as "household" or "parcel", and that they are understood by the translator. Make sure that you have budgeted for local interpreters if they are likely to be needed.
 
+-->
+
 # Sample
 
-work in progress
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
 
-# Manual
+<!--
+in field sampling (For design)
 
-work in progress
+if in-field sampling, has to be traceable, and recreateble, e.g. write numebrs in book, use kish tables, send data to HQ if there is internet remove all possibility of interviewers to ahve an influence over selection. 
 
-# Pilot 
+-->
 
-some words
+# Design verification
+
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
+

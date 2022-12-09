@@ -1,5 +1,10 @@
 # Total survey error {#tse}
 
+:::: { .warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later. 
+::::
+
+<!--
 In the survey context *error* refers to the deviation of a survey response from its underlying true value. Probably the best-known error type is *sampling error* that occurs when collecting information from a sample of the population rather than the full population. Early in the history of probability sample surveys, it was recognized that there is a variety of non-sampling error sources that can equally cause a survey statistic, often referred to as *survey estimator*, to deviate from its underlying true value in the population, referred to as *population parameter*. Over time, this knowledge evolved into the concept of *Total Survey Error* (TSE), which has become the dominant paradigm in the field of survey methodology @Groves2010. 
 
 TSE acknowledges that error can arise from many different sources. For example, error might be introduced by researchers formulating questions wrongly, interviewers not probing sufficiently or respondents unwilling to respond. Error may occur at any point in the survey process, including the design, sampling, implementation, processing or analysis, and may be caused by any actor including researchers, interviewers or respondents. TSE denotes the aggregate of all error sources in an estimate and is thus the difference between a survey statistic and the population parameter. A good presentation of how TSE components link to the process of generating a survey statistic has been made by @Groves2004, which is shown in Figure \@ref(fig:tse-comp).
@@ -108,7 +113,7 @@ Processing error refers to any error occurring post-interview including error in
 
 <!-- Smith (2009), who extends the total survey error paradigm to also include international surveys whose main purpose is to compare countries. Among other things he therefore adds the source ‘‘comparison error.’’ He also adds the ‘‘conditioning error’’ that is unique for multi-wave panel studies. -->
 
-
+<!--
 ## The impact of error  {#impacterror}
 
 Sample surveys aggregate individual responses to obtain statistics for the sample, referred to as *survey estimator*, often with the aim to infer corresponding values in the population, referred to as *population parameters*. Survey error causes the survey estimate to deviate from the population parameter, diminishing the *accuracy* of the inferences derived from the survey data. In other words, with high levels of error a survey does not accurately describe the reality of the population.   
@@ -199,5 +204,4 @@ How can survey practitioners prioritize which errors to address? A key challenge
 <!-- understand the root causes of error. For example, substantial observation of interviewers, review of audio recording, and investigation of para data can shed some light on what the main drivers of measurement error are in the context, such as interviewer comprehension, respondents unwillingness to disclose information, typos, falsification, etc.   to understand one might have to decompose measurement error further and understand what  -->
 
 <!-- A good check lists for survey design, to early identify. potential big issues. For example, by going through the list of error sources, one might put more effort into reviewing the comprehensiveness and integrity of the sampling frames and discover potential issues early, so they can be addressed or designed around. Review the potential error sources,  -->
-
 

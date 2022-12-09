@@ -1,17 +1,13 @@
 # (PART) Preparation {-}
 
-# in field sampling (For design)
-
-if in-field sampling, has to be traceable, and recreateble, e.g. write numebrs in book, use kish tables, send data to HQ if there is internet remove all possibility of interviewers to ahve an influence over selection. 
-
-
-
 # Introduction to preparation {-}
 
-work in progress
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
 
 # Fieldworker recruitment
-
+<!--
 general rule, smaller teams better, easier to keep track off, higher interviewer effect, so need to streamline and monitor. 
 
 
@@ -51,6 +47,7 @@ An objective set of requirements, based on the above, should always be developed
 
 It is equally important that all applicants that meet the requirements are interviewed and tested as part of the selection process. This takes a lot of work and therefore planning far in advance is necessary. Very simple testing can be applied, i.e. if the candidate reads well, writes correct answers to simple questions, and can communicate in whatever languages are necessary and indicated by the applicant. There is a further need to at least check if candidates can operate simple functions in a tablet computer. Advanced computer literacy is not necessary, but a certain comfort with computers or smart phones is valuable. Additionally, measures must be able to see well (with glasses if used) as they will be reading out measurements that may be unclear in certain lighting."
 
+
 # Fieldworker terms
 
 - make it fair: pay fair. Mix of daily and piece rate. Only use peice rate if control meachnisms in place to counter act effects, only use daily rate if sufficent control that do sufficnet work. 
@@ -60,3 +57,17 @@ It is equally important that all applicants that meet the requirements are inter
 - put in deterrents to bad behaviour, make sure you can fire if gross mis conduct, not hire again 
 
 - write up short terms  and conditions, including pay, DSA allowances,  contract, duration, selection process, possibility of not getting selected, required tasks, duration fo field work and places of work. Make every candidate read the terms and conditions. If they agree, they should sign a copy. This is important that expectations of all trainees are correct at the beginning of the training, so trainee attricition is reduced, and to avoid collective walkouts by trainees. 
+
+-->
+
+# Fieldwork plan
+
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
+
+# Data management system
+
+:::: {.warn}
+<img src="images/warning.svg" class="svg-inline"/> **Work in progress!** Please come back later.
+::::
